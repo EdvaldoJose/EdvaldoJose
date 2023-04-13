@@ -7,14 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/edvaldojose003" target="blank"><img src="https:// img.shields.io/twitter/follow/edvaldojose003?logo=twitter&style=for-the-badge" alt="edvaldojose003" /></a> </p>
 
-### Postagens de blogs
-<!-- BLOG-POST-LIST:START - ->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://dev.to/edvaldojose.dev@gmail.com" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="edvaldojose. dev@gmail.com" height="30" width="40" /></a>
-<a href="https://twitter.com/edvaldojose003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="edvaldojose003" height="30" width=" 40" /></a>
+< p align="esquerda">
+<a href="https://dev.to/edvaldojose.dev@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github -profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="edvaldojose.dev@gmail.com" height="30" width="40" /></a> <
+a href="https://twitter.com/edvaldojose003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master /src/images/icons/Social/twitter.svg" alt="edvaldojose003" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/edvaldo-jose/" target="blank"><img align="center" src="https: //raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in /edvaldo-jose/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/edvaldosantos003" target=" blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt=" https://www.facebook.com/edvaldosantos003" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/edvaldojsnet/" target="blank"><img align="center" src="https://raw.githubusercontent. com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/edvaldojsnet/" height="30" width=" 40" /></a>
@@ -27,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edvaldojose&show_icons=true&locale=en&layout=compact" alt="edvaldojose" /> </p>
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=edvaldojose&show_icons=true&locale=en" alt="edvaldojose" /> </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edvaldojose&" alt="edvaldojose" /></p>
