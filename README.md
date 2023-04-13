@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou Edvaldo José dos Santos</h1>
+<h1 align="center">👋 Olá, eu sou Edvaldo José dos Santos</h1>
 <h3 align="center">Sou apaixonado por tecnologia e adoro a área de Desenvolvimento.</h3>
 
 <p align="left "> <img src="https://komarev.com/ghpvc/?username=edvaldojose&label=Profile%20views&color=0e75b6&style=flat" alt="edvaldojose" /> </p>
