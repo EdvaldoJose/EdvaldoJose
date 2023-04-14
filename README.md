@@ -103,8 +103,8 @@
 <br></div
 
 
-  <div align="center">
+<div align="center">
   
-  ![github contribution grid snake animation](https://raw.githubusercontent.com/EdvaldoJose/EdvaldoJose/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/EdvaldoJose/EdvaldoJose/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/EdvaldoJose/EdvaldoJose/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/EdvaldoJose/EdvaldoJose/output/github-contribution-grid-snake.svg#gh-light-mode-only)
   
 </div>
