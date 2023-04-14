@@ -1,10 +1,10 @@
-<h1 align="center">👋 Olá, </h1>
-<h3 align="center">Sou apaixonado por tecnologia e adoro a área de Desenvolvimento.</h3>
+<h1 align="left">👋 Olá, </h1>
+<h3 align="left">Sou apaixonado por tecnologia e adoro a área de Desenvolvimento.</h3>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times%2C+Times+New+Roman%2C+serif&size=30&pause=1000&center=verdadeiro&vCenter=falso&width=435&lines=Sejam+Bem+vindos!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times%2C+Times+New+Roman%2C+serif&size=30&pause=1000&center=verdadeiro&vCenter=falso&width=435&lines=Sejam+Bem+vindos!..)](https://git.io/typing-svg)
 
-## Eu me chamo Edvaldo Jose dos Santos 
+## Eu me chamo Edvaldo Jose. 
 <img align="right" height="200" width="200" alt="edvaldo" src="https://www.tecnoschool.com.ar/img/gif-portadas-cursos/entrenamiento-en-programacion2.gif">
 
 * Moro em Salvador/Bahia:brazil:.😎🌅
@@ -82,7 +82,10 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EdvaldoJose&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Edvaldo Jose github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdvaldoJose&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=EdvaldoJose&theme=radical&hide_border=false)
 </div>
+
 
 <!-- ![Contribution](https://activity-graph.herokuapp.com/graph?username=Eliedson1979&theme=gotham&hide_border=true&area=true) -->
 
@@ -159,3 +162,9 @@
   
   
   ![Snake animation](https://github.com/EdvaldoJose/EdvaldoJose/blob/output/github-contribution-grid-snake.svg)
+  
+  
+<!-- ![](https://github-readme-stats.vercel.app/api?username=EdvaldoJose&theme=radical&hide_border=false&include_all_commits=false&count_private=true) -->
+![](https://github-readme-streak-stats.herokuapp.com/?user=EdvaldoJose&theme=radical&hide_border=false)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EdvaldoJose&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact) -->
+
