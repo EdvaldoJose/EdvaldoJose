@@ -1,20 +1,21 @@
-<h1 align="left">👋 Olá, </h1>
-<h3 align="left">Sou apaixonado por tecnologia e adoro a área de Desenvolvimento.</h3>
+<h2 align="left">👋 Olá,  eu me chamo Edvaldo Jose sou Desenvovedor Full Stack formado pela TRYBE.</h2>
+<h4 align="left">Sou apaixonado por tecnologia e adoro a área de Desenvolvimento Web, gosto de fazer as coisas com alegria e um sorriso no rosto! Adoro desafios, tenho uma grande paixao por BACK-END onde busco me aprofundar mais nessa área e em novas tecnologias.</h4>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times%2C+Times+New+Roman%2C+serif&size=30&pause=1000&center=verdadeiro&vCenter=falso&width=435&lines=Sejam+Bem+vindos!..)](https://git.io/typing-svg)
 
-## Eu me chamo Edvaldo Jose. 
+## Sobre Mim. 
 <img align="right" height="200" width="200" alt="edvaldo" src="https://www.tecnoschool.com.ar/img/gif-portadas-cursos/entrenamiento-en-programacion2.gif">
 
-* Moro em Salvador/Bahia :brazil:
-* Atualmente estou Estudando Desenvolvimento Web na TRYBE :trybe_logoverde:
+* Moro em Salvador/Bahia. :brazil:
+* Atualmente estou Estudando Desenvolvimento Web na TRYBE. 💻
+* Adoro trabalhar em equipe, costumo dizer que juntos iremos mais longe. 🥇
 * Gosto da fazer coisas que geram valor e impactam as vidas das pessoas. 🖥️
 * Email para contato: edvaldojose.dev@gmail.com 📬
 * WathsApp para contato: 71-98557-2721 🤝
 
 
-
+## Redes sociais:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/edvaldojose003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="edvaldojose003" height="30" width="40" /></a>
