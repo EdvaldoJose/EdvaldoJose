@@ -7,11 +7,11 @@
 ## Eu me chamo Edvaldo Jose. 
 <img align="right" height="200" width="200" alt="edvaldo" src="https://www.tecnoschool.com.ar/img/gif-portadas-cursos/entrenamiento-en-programacion2.gif">
 
-* Moro em Salvador/Bahia:brazil:.
-* Atualmente estou Estudando Desenvolvimento Web na TRYBE 🔭
-* Gosto da fazer coisas que geram valor e impactam as vidas das pessoas 🖥️
-* Meu Email para contato: edvaldojose.dev@gmail.com 📬
-* Meu wathsaap: 71-98557-2721 🤝
+* Moro em Salvador/Bahia :brazil:
+* Atualmente estou Estudando Desenvolvimento Web na TRYBE :trybe_logoverde:
+* Gosto da fazer coisas que geram valor e impactam as vidas das pessoas. 🖥️
+* Email para contato: edvaldojose.dev@gmail.com 📬
+* WathsApp para contato: 71-98557-2721 🤝
 
 
 
