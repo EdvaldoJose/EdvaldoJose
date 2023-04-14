@@ -83,7 +83,7 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EdvaldoJose&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Edvaldo Jose github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdvaldoJose&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EdvaldoJose&theme=dark-smoky&hide_border=verdadeiro&border_radius=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EdvaldoJose&theme=dark-smoky&hide_border=verdadeiro&border_radius=0&locale=pt_BR)](https://git.io/streak-stats)
   
 </div>
 
