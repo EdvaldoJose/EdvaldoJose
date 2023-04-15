@@ -1,6 +1,6 @@
-<h2 align="left">👋 Olá,  eu me chamo Edvaldo Jose sou Desenvovedor Full Stack formado pela TRYBE.</h2>
-<h4 align="left">Sou apaixonado por tecnologia e adoro a área de Desenvolvimento Web, gosto de fazer as coisas com alegria e um sorriso no rosto! Adoro desafios, tenho uma grande paixao por BACK-END onde busco me aprofundar mais nessa área e em novas tecnologias.</h4>
-
+<h2 align="left">👋 Olá,  eu me chamo Edvaldo Jose sou Desenvovedor Full Stack formado pela TRYBE</h2>
+<h6 align="left">Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia implementando e elaborando estudos técnicos para novas tecnologias de segurança, infraestrutura de rede e servidores. Sou apaixonado por tecnologia e adoro a área de Desenvolvimento, gosto de me desafiar, colocar em prática ideias inovadoras, aprender como as coisas funcionam e agregar valor por onde passo. Focando a longo prazo tenho uma grande paixao por BACK-END onde pretendo me especializar cada vez mais nessa tecnologia, tenho um sonho de algum dia fazer parte da construção de um grande projeto de tecnologia que venha impactar na vida das pessoas.</h6>
+  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times%2C+Times+New+Roman%2C+serif&size=30&pause=1000&center=verdadeiro&vCenter=falso&width=435&lines=Sejam+Bem+vindos!..)](https://git.io/typing-svg)
 
