@@ -215,14 +215,13 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
               <td width="40px" align="center">
                 <span>Java</span><br>
                 <img height="37" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
-              </td>
-          <tr valign="top">
+              </td>          
             <td width="80px" align="center">
               <span>C#</span><br>
               <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" />
             </td>
           <tr>
-            <td colspan="12" align="left"><strong>Tests</strong></td>
+            <td colspan="8" align="left"><strong>Tests</strong></td>
           </tr>
           <tr valign="top">
             <td width="80px" align="center">
