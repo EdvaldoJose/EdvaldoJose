@@ -150,17 +150,6 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
 <br></div
 
 
-<!-- <div align="center">
-  
-![github contribution grid snake animation](https://raw.githubusercontent.com/EdvaldoJose/EdvaldoJose/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/EdvaldoJose/EdvaldoJose/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-  
-</div> -->
-
-
-
-
-
-<p align='left'>
   <h1 align='left'>Minhas Stacks 🛠️</h1>
  </p>
 <div style="display: inline_block;" align="center">
