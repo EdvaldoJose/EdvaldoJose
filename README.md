@@ -169,7 +169,7 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
             </td>
           </tr>
           <tr>
-            <td colspan="8" align="left"><strong>Back-End</strong></td>
+            <td colspan="8" align="left"><strong>Back-End I</strong></td>
           </tr>
           <tr valign="top">
             <td width="80px" align="center">
@@ -177,7 +177,7 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
               <img height="32px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" />
             </td>
            <td width="80px" align="center">
-              <span><strong>Express</strong></span><br>
+              <span>Express</span><br>
               <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
             </td>
              <td width="80px" align="center">
@@ -201,12 +201,20 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
               <img height="32px" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg" />
             </td>
             <td width="80px" align="center">
-              <span>npm</span><br>
+              <span>Npm</span><br>
               <img height="32px" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"/>
             </td>
           </tr>
+             <tr>
+            <td colspan="8" align="left"><strong>Back-End II</strong></td>
+          </tr>
+          <tr valign="top">
+            <td width="80px" align="center">
+              <span>Windows</span><br>
+              <img height="32px" src="https://user-images.githubusercontent.com/96168296/232315092-08e2e000-a92e-4907-9eee-00666ebd6af6.png" />
+            </td>
           <tr>
-            <td colspan="8" align="left"><strong>Tests</strong></td>
+            <td colspan="12" align="left"><strong>Tests</strong></td>
           </tr>
           <tr valign="top">
             <td width="80px" align="center">
@@ -226,17 +234,17 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
               <img height="32px" src="https://www.vectorlogo.zone/logos/chaijs/chaijs-icon.svg" />
             </td>            
             <td width="80px" align="center">
-              <span>CY</span><br>
+              <span>Cypress</span><br>
               <img height="32" src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" />
             </td>
            <td width="80px" align="center">
              <span>Jasmine</span><br>
              <img height="32" src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" />
            </td>            
-              <td width="80px" align="center">
-             <span>nginx</span><br>
-             <img height="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />
-           </td>
+             <td align="center">
+                <span>Insomnia</span><br>
+                <img height="32" width="35" src="https://raw.githubusercontent.com/keeferrourke/la-capitaine-icon-theme/8370e7c8f1fbbfdb66f08a325a6c1cd8b932afb3/apps/scalable/insomnia.svg" />
+              </td>
                  <td width="80px" align="center">
              <span>nginx</span><br>
              <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />
@@ -249,9 +257,9 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
                 <span>Python</span><br>
                 <img height="32" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
               </td>
-              <td width="35px" align="center">
+              <td width="40px" align="center">
                 <span>Java</span><br>
-                <img height="32" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
+                <img height="37" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
               </td>             
                   <td width="80px" align="center">
                 <span>Git</span><br>
@@ -269,14 +277,14 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
                 <span>GoogleCloud<span><br>
                   <img height="32" width="35" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" />
                   </td>
-              <td align="center">
-                <span>Insomnia</span><br>
-                <img height="32" width="35" src="https://raw.githubusercontent.com/keeferrourke/la-capitaine-icon-theme/8370e7c8f1fbbfdb66f08a325a6c1cd8b932afb3/apps/scalable/insomnia.svg" />
-              </td>
-                  <td width="" align="center">
+                <td width="80px" align="center">
+               <span>Windows</span><br>
+               <img height="32px" src="https://user-images.githubusercontent.com/96168296/232315092-08e2e000-a92e-4907-9eee-00666ebd6af6.png" />
+               </td>
+                <td width="" align="center">
                 <span>Linux</span><br>
                 <img height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
-              </td>
+              </td>           
         </tbody>
       </table>
 
