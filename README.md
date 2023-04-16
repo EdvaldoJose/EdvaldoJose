@@ -247,9 +247,7 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
   
 ## Framework Use
 <img src="https://img.shields.io/badge/Visual%20Code-Otimo-green"></img>
-<img src="https://img.shields.io/badge/Visual%20Studio-Otimo-blue"></img>
 <img src="https://img.shields.io/badge/DEV%20C%2B%2B-Otimo-blue"></img>
-<img src="https://img.shields.io/badge/NetBeans-Otimo-red"></img>
 <img src="https://img.shields.io/badge/CodeBlocks-Otimo-bluee"></img>
 <img src="https://img.shields.io/badge/PyCharms-Otimo-red">
 <img src="https://img.shields.io/badge/Docker-Otimo-blue"></img>
