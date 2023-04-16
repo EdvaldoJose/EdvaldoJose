@@ -176,33 +176,33 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
               <span>TypeScript</span><br>
               <img height="32px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" />
             </td>
-            <td width="100px" align="center">
-              <span>Express</span><br>
-              <img height="62px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />
+           <td width="80px" align="center">
+              <span><strong>Express</strong></span><br>
+              <img height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
             </td>
              <td width="80px" align="center">
               <span>Docker</span><br>
-              <img src="https://img.icons8.com/fluency/48/null/docker.png" />
+              <img height="32px" src="https://img.icons8.com/fluency/48/null/docker.png" />
             </td>
              <td width="80px" align="center">
               <span>MySQL</span><br>
-              <img height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
             </td>
             <td width="90px" align="center">
               <span>MongoDB</span><br>
-              <img height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
+              <img height="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
             </td>           
             <td width="80px" align="center">
               <span>NodeJS</span><br>
               <img height="32px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
             </td>           
-            <td width="90px" height="42" align="center">
+            <td width="90px" align="center">
               <span>Sequelize</span><br>
-              <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg" />
+              <img height="32px" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg" />
             </td>
             <td width="80px" align="center">
-              <span><npm</span><br>
-              <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"/>
+              <span>npm</span><br>
+              <img height="32px" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"/>
             </td>
           </tr>
           <tr>
@@ -235,11 +235,11 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
            </td>            
               <td width="80px" align="center">
              <span>nginx</span><br>
-             <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />
+             <img height="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />
            </td>
                  <td width="80px" align="center">
              <span>nginx</span><br>
-             <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />
+             <img height="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />
            </td>            
             <tr>
               <td colspan="8" align="left"><strong>Other competences</strong></td>
@@ -249,9 +249,9 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
                 <span>Python</span><br>
                 <img height="32" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
               </td>
-              <td width="40px" align="center">
+              <td width="35px" align="center">
                 <span>Java</span><br>
-                <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
+                <img height="32" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
               </td>             
                   <td width="80px" align="center">
                 <span>Git</span><br>
@@ -263,19 +263,19 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
               </td> 
                <td align="center">
                 <span>Aws<span><br>
-                  <img height="50" width="50" src="https://img.icons8.com/color/256/amazon-web-services.png" />
+                  <img height="40" width="50" src="https://img.icons8.com/color/256/amazon-web-services.png" />
                   </td>
                    <td align="center">
                 <span>GoogleCloud<span><br>
-                  <img height="35" width="35" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" />
+                  <img height="32" width="35" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" />
                   </td>
               <td align="center">
                 <span>Insomnia</span><br>
-                <img height="35" width="35" src="https://raw.githubusercontent.com/keeferrourke/la-capitaine-icon-theme/8370e7c8f1fbbfdb66f08a325a6c1cd8b932afb3/apps/scalable/insomnia.svg" />
+                <img height="32" width="35" src="https://raw.githubusercontent.com/keeferrourke/la-capitaine-icon-theme/8370e7c8f1fbbfdb66f08a325a6c1cd8b932afb3/apps/scalable/insomnia.svg" />
               </td>
                   <td width="" align="center">
                 <span>Linux</span><br>
-                <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+                <img height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
               </td>
         </tbody>
       </table>
