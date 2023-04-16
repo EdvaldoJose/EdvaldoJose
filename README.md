@@ -214,7 +214,7 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
               </td>
                <td width="80px" align="center">
                 <span>Algoritmos</span><br>
-                <img height="32" src="https://github.com/devicons/devicon/blob/master/icons/thealgorithms/thealgorithms-original.svgg" />
+                <img height="32" src="https://github.com/devicons/devicon/blob/master/icons/thealgorithms/thealgorithms-original.svg" />
               </td>
               <td width="40px" align="center">
                 <span>Java</span><br>
