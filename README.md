@@ -263,11 +263,7 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
                    <td width="80px" align="center">
                 <span>VS Code</span><br>
                 <img height="32" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />
-              </td>
-              <td width="40px" align="center">
-                <span>Java</span><br>
-                <img height="37" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
-              </td> 
+              </td>           
                   <td width="80px" align="center">
                 <span>Git</span><br>
                 <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
@@ -284,6 +280,10 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
                 <span>GoogleCloud<span><br>
                   <img height="32" width="35" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" />
                   </td>
+                   <td width="40px" align="center">
+                <span>Kubernetes</span><br>
+                <img height="37" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" />
+              </td> 
                 <td width="80px" align="center">
                <span>Windows</span><br>
                <img height="32px" src="https://user-images.githubusercontent.com/96168296/232315734-7a7134d3-daf1-4e6b-a7dd-fd247e5fa6a6.png" />
