@@ -196,9 +196,9 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
               <span>NodeJS</span><br>
               <img height="32px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
             </td>           
-            <td width="90px" align="center">
+            <td width="80px" align="center">
               <span>Sequelize</span><br>
-              <img height="32px" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg" />
+              <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" />
             </td>
             <td width="80px" align="center">
               <span>Npm</span><br>
@@ -208,9 +208,13 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
              <tr>
             <td colspan="8" align="left"><strong>Back-End II</strong></td>
           </tr>
-                 <td width="80px" align="center">
+              <td width="80px" align="center">
                 <span>Python</span><br>
                 <img height="32" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
+              </td>
+               <td width="80px" align="center">
+                <span>Algoritmos</span><br>
+                <img height="32" src="https://github.com/devicons/devicon/blob/master/icons/thealgorithms/thealgorithms-original.svgg" />
               </td>
               <td width="40px" align="center">
                 <span>Java</span><br>
@@ -251,17 +255,17 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
            <td width="80px" align="center">
              <span>Jasmine</span><br>
              <img height="32" src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" />
-           </td>            
+           </td>
+             <td width="80px" align="center">
+             <span>ESLint</span><br>
+             <img height="32" src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" />
+           </td> 
              <td align="center">
-                <span>Insomnia</span><br>
-                <img height="32" width="35" src="https://raw.githubusercontent.com/keeferrourke/la-capitaine-icon-theme/8370e7c8f1fbbfdb66f08a325a6c1cd8b932afb3/apps/scalable/insomnia.svg" />
-              </td>
-              <td width="80px" align="center">
-             <span>nginx</span><br>
-             <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original-wordmark.svg" />
-           </td>  
+              <span>Insomnia</span><br>
+               <img height="32" width="35" src="https://raw.githubusercontent.com/keeferrourke/la-capitaine-icon-theme/8370e7c8f1fbbfdb66f08a325a6c1cd8b932afb3/apps/scalable/insomnia.svg" />
+              </td>          
             <tr>
-              <td colspan="8" align="left"><strong>Other competences</strong></td>
+             <td colspan="8" align="left"><strong>Other competences</strong></td>
             </tr>
             <tr valign="top">              
                    <td width="80px" align="center">
@@ -282,7 +286,7 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
                   </td>
                    <td align="center">
                 <span>GoogleCloud<span><br>
-                  <img height="32" width="35" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" />
+                  <img height="32" width="35" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" />
                   </td>
                    <td width="40px" align="center">
                 <span>Kubernetes</span><br>
