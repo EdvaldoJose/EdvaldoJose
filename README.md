@@ -1,11 +1,7 @@
 <h2 align="left">👋 Olá,  eu me chamo Edvaldo Jose, sou um Desenvovedor Full Stack.</h2>
 Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia implementando e elaborando estudos técnicos para novas tecnologias de segurança, infraestrutura de rede e servidores. Sou apaixonado por tecnologia e adoro a área de Desenvolvimento, gosto de me desafiar, colocar em prática ideias inovadoras, aprender como as coisas funcionam e agregar valor por onde passo. Focando a longo prazo tenho uma grande paixao por BACK-END onde pretendo me especializar cada vez mais nessa tecnologia, tenho um sonho de algum dia fazer parte da construção de um grande projeto de tecnologia que venha impactar na vida das pessoas.<h3></h3>
-  
-
-<!-- <img align="left" height="40" width="40" alt="edvaldo" src="https://img.icons8.com/color/256/amazon-web-services.png"> -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times%2C+Times+New+Roman%2C+serif&size=30&pause=1000&center=verdadeiro&vCenter=falso&width=435&lines=Sejam+Bem+vindos!..)](https://git.io/typing-svg)
-
 ## Sobre Mim. 
 <img align="right" height="200" width="200" alt="edvaldo" src="https://www.tecnoschool.com.ar/img/gif-portadas-cursos/entrenamiento-en-programacion2.gif">
 
@@ -16,7 +12,6 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
 * Email para contato: edvaldojose.dev@gmail.com 📬
 * WathsApp para contato: 71-98557-2721 🤝
 
-
 ## Redes sociais:
 <p align="left">
 <a href="https://linkedin.com/in/edvaldo-jose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edvaldo-jose" height="30" width="40" /></a>
@@ -26,8 +21,6 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
 <a href="https://discord.gg/edvaldojose#9298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="edvaldojose#9298" height="40" width="40" /></a>
   <a href="edvaldo:edvaldojose.dev@gmail.com" target="blank"> <img align="center" src="https://user-images.githubusercontent.com/96168296/232272109-3e7b80c1-0035-4a3f-a402-e5a8df75aab0.png" alt="gmail logo" height="30" width="30" /></a>
   <a href="https://www.youtube.com/channel/rk6tNMaD36qmpp0eEPzrHA" target="blank"> <img align="center" src="https://user-images.githubusercontent.com/96168296/232279553-91cfde43-62d1-422b-a2bd-97b4b4b93cff.jpeg" alt="youtube logo" height="35" width="40" /></a></p>
-
-
 
 ## Redes sociais:
 <table width="10px">
@@ -48,13 +41,6 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
    </tr> 
   </tbody>
 </table>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-
-
 
 ## Minhas stacks:
 <!-- <h3 align="left">Languages and Tools:</h3> -->
@@ -93,11 +79,7 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
 <img src="https://user-images.githubusercontent.com/104791582/222735728-5500a799-0d1b-4b2d-b00b-a0ee7d293a90.svg" height="40" width="52" alt="c# logo"/>
   
   <img src="https://user-images.githubusercontent.com/96168296/232278029-66859784-9127-415d-b53a-c69371caecc2.png" height="40" width="52" alt="c# logo"/>
-  
-  </p>
-
-
-
+   </p>
 
 ## Framework I use:
 <img src="https://img.shields.io/badge/Visual%20Code-Otimo-green"></img>
@@ -113,9 +95,6 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
 <img src="https://img.shields.io/badge/Scratch-Otimo-orange"></img>
 ## 
 
-
-
-
 ## Index:
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/> -->
 
@@ -123,8 +102,6 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
 <a align="left">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EdvaldoJose&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Edvaldo Jose github stats" /> </a>
 <!--   </div> -->
-
- 
   <div align="center"> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdvaldoJose&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
   </div>
@@ -149,16 +126,17 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{EdvaldoJose}/count.svg" /></p> 
 <br></div
 
-
+<h2 align="left">
+<p align="left">
   <h1 align='left'>Minhas Stacks 🛠️</h1>
- </p>
+ </p></h2>
 <div style="display: inline_block;" align="center">
 <table>
   <tr>
     <th>Front-End</th>
     <th>Back-end</th>
     <th>Tests</th>
-    <th>Others</th>
+    <th>Other competences</th>
   </tr>
   <tr>
     <td>
