@@ -176,26 +176,26 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
               <span>TypeScript</span><br>
               <img height="32px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
             </td>
-            <td width="90px" align="center">
+            <td width="100px" align="center">
               <span>Express</span><br>
-              <img height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">
+              <img height="62px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">
             </td>
-            <td width="90px" align="center">
-              <span>MongoDB</span><br>
-              <img height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
+             <td width="80px" align="center">
+              <span>Docker</span><br>
+              <img src="https://img.icons8.com/fluency/48/null/docker.png" />
             </td>
-            <td width="90px" align="center">
+             <td width="80px" align="center">
               <span>MySQL</span><br>
               <img height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
             </td>
             <td width="80px" align="center">
+              <span>MongoDB</span><br>
+              <img height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
+            </td>           
+            <td width="80px" align="center">
               <span>NodeJS</span><br>
               <img height="32px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
-            </td>
-            <td width="80px" align="center">
-              <span>Docker</span><br>
-              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />
-            </td>
+            </td>           
             <td width="90px" align="center">
               <span>Sequelize</span><br>
               <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg" />
