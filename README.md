@@ -236,7 +236,7 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
 <a align="left">  
   <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EdvaldoJose&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Edvaldo Jose github stats" /> </a>
   <div align="center"> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdvaldoJose&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdvaldoJose&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
   </div>
 </div>
 
@@ -246,7 +246,7 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
 <br></div
 
   
-## Framework I use:
+## Framework Use
 <img src="https://img.shields.io/badge/Visual%20Code-Otimo-green"></img>
 <img src="https://img.shields.io/badge/Visual%20Studio-Otimo-blue"></img>
 <img src="https://img.shields.io/badge/DEV%20C%2B%2B-Otimo-blue"></img>
