@@ -136,35 +136,35 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
           </tr>
           <tr valign="top">
             <td width="80px" align="center">
-              <span><strong>JavaScript</strong></span><br>
+              <span>JavaScript</span><br>
               <img height="32px" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg">
             </td>
             <td width="80px" align="center">
-              <span><strong>HTML5</strong></span><br>
+              <span>HTML5</span><br>
               <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
             </td>
             <td width="80px" align="center">
-              <span><strong>CSS3</strong></span><br>
+              <span>CSS3</span><br>
               <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
             </td>
             <td width="80px" align="center">
-              <span><strong>React</strong></span><br>
+              <span>React</span><br>
               <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
             </td>
             <td width="80px" align="center">
-              <span><strong>Redux</strong></span><br>
+              <span>Redux</span><br>
               <img height="32" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
             </td>
             <td width="80px" align="center">
-              <span><strong>Figma</strong></span><br>
+              <span>Figma</span><br>
               <img height="32px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
             </td>
             <td width="80px" align="center">
-              <span><strong>Bootstrap</strong></span><br>
+              <span>Bootstrap</span><br>
               <img height="32px" src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg">
             </td>
             <td width="80px" align="center">
-              <span><strong>Trello</strong></span><br>
+              <span>Trello</span><br>
               <img height="32px" src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg">
             </td>
           </tr>
