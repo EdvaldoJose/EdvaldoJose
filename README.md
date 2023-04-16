@@ -1,4 +1,4 @@
-<h2 align="left">👋 Olá,  eu me chamo Edvaldo Jose, sou Desenvovedor Full Stack.</h2>
+<h2 align="left">👋 Olá,  eu me chamo Edvaldo Jose, sou um Desenvovedor Full Stack.</h2>
 Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia implementando e elaborando estudos técnicos para novas tecnologias de segurança, infraestrutura de rede e servidores. Sou apaixonado por tecnologia e adoro a área de Desenvolvimento, gosto de me desafiar, colocar em prática ideias inovadoras, aprender como as coisas funcionam e agregar valor por onde passo. Focando a longo prazo tenho uma grande paixao por BACK-END onde pretendo me especializar cada vez mais nessa tecnologia, tenho um sonho de algum dia fazer parte da construção de um grande projeto de tecnologia que venha impactar na vida das pessoas.<h3></h3>
   
 
@@ -23,14 +23,9 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
 <a href="https://twitter.com/edvaldojose003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="edvaldojose003" height="30" width="40" /></a>
 <a href="https://fb.com/edvaldosantos003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="edvaldosantos003" height="30" width="40" /></a>
 <a href="https://instagram.com/edvaldojsnet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="edvaldojsnet" height="30" width="40" /></a>
-<a href="edvaldo:edvaldojose.dev@gmail.com" target="blank"> <img align="center" src="https://user-images.githubusercontent.com/96168296/232272109-3e7b80c1-0035-4a3f-a402-e5a8df75aab0.png" alt="gmail logo" height="30" width="35" /></a>
-<a href="https://discord.gg/edvaldojose#9298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="edvaldojose#9298" height="30" width="40" /></a>
-</p>
-  
-
-  
-
-
+<a href="https://discord.gg/edvaldojose#9298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="edvaldojose#9298" height="40" width="40" /></a>
+  <a href="edvaldo:edvaldojose.dev@gmail.com" target="blank"> <img align="center" src="https://user-images.githubusercontent.com/96168296/232272109-3e7b80c1-0035-4a3f-a402-e5a8df75aab0.png" alt="gmail logo" height="30" width="30" /></a>
+  <a href="https://www.youtube.com/channel/rk6tNMaD36qmpp0eEPzrHA" target="blank"> <img align="center" src="https://user-images.githubusercontent.com/96168296/232279553-91cfde43-62d1-422b-a2bd-97b4b4b93cff.jpeg" alt="youtube logo" height="35" width="40" /></a></p>
 
 
 
@@ -94,7 +89,12 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
+<img src="https://user-images.githubusercontent.com/104791582/222735728-5500a799-0d1b-4b2d-b00b-a0ee7d293a90.svg" height="40" width="52" alt="c# logo"/>
+  
+  <img src="https://user-images.githubusercontent.com/96168296/232278029-66859784-9127-415d-b53a-c69371caecc2.png" height="40" width="52" alt="c# logo"/>
+  
+  </p>
 
 
 
@@ -117,27 +117,30 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
 
 
 ## Index:
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/> -->
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EdvaldoJose&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Edvaldo Jose github stats" /> 
+ <div align="right"> <img width="48%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=EdvaldoJose&theme=dark-smoky&hide_border=verdadeiro&border_radius=0&locale=pt_BR)" alt="https://git.io/streak-stats" />
+<a align="left">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EdvaldoJose&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Edvaldo Jose github stats" /> </a>
+<!--   </div> -->
+
+ 
+  <div align="center"> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdvaldoJose&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EdvaldoJose&theme=dark-smoky&hide_border=verdadeiro&border_radius=0&locale=pt_BR)](https://git.io/streak-stats)
-  
+  </div>
 </div>
 
 
 <!-- ![Contribution](https://activity-graph.herokuapp.com/graph?username=Eliedson1979&theme=gotham&hide_border=true&area=true) -->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=EdvaldoJose&theme=gotham)](https://github.com/EdvaldoJose/github-readme-activity-graph)
+<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=EdvaldoJose&theme=gotham)](https://github.com/EdvaldoJose/github-readme-activity-graph) -->
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=EdvaldoJose&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+</p> -->
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/> -->
 
 
 
@@ -147,18 +150,18 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
 <br></div
 
 
-<div align="center">
+<!-- <div align="center">
   
 ![github contribution grid snake animation](https://raw.githubusercontent.com/EdvaldoJose/EdvaldoJose/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/EdvaldoJose/EdvaldoJose/output/github-contribution-grid-snake.svg#gh-light-mode-only)
   
-</div>
+</div> -->
 
 
 
 
 
-<p align='center'>
-  <h1 align='center'>Minhas Stacks 🛠️</h1>
+<p align='left'>
+  <h1 align='left'>Minhas Stacks 🛠️</h1>
  </p>
 <div style="display: inline_block;" align="center">
 <table>
@@ -202,10 +205,10 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
 </table>
   
   
-  ![Snake animation](https://github.com/EdvaldoJose/EdvaldoJose/blob/output/github-contribution-grid-snake.svg)
+<!--   ![Snake animation](https://github.com/EdvaldoJose/EdvaldoJose/blob/output/github-contribution-grid-snake.svg) -->
   
   
 <!-- ![](https://github-readme-stats.vercel.app/api?username=EdvaldoJose&theme=radical&hide_border=false&include_all_commits=false&count_private=true) -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=EdvaldoJose&theme=radical&hide_border=false)
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=EdvaldoJose&theme=radical&hide_border=false) -->
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EdvaldoJose&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact) -->
 
