@@ -137,11 +137,11 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
           <tr valign="top">
             <td width="80px" align="center">
               <span>JavaScript</span><br>
-              <img height="32px" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg">
+              <img height="32px" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" />
             </td>
             <td width="80px" align="center">
               <span>HTML5</span><br>
-              <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+              <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
             </td>
             <td width="80px" align="center">
               <span>CSS3</span><br>
@@ -149,7 +149,7 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
             </td>
             <td width="80px" align="center">
               <span>React</span><br>
-              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
             </td>
             <td width="80px" align="center">
               <span>Redux</span><br>
@@ -157,15 +157,15 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
             </td>
             <td width="80px" align="center">
               <span>Figma</span><br>
-              <img height="32px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
+              <img height="32px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
             </td>
             <td width="80px" align="center">
               <span>Bootstrap</span><br>
-              <img height="32px" src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg">
+              <img height="32px" src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg" />
             </td>
             <td width="80px" align="center">
               <span>Trello</span><br>
-              <img height="32px" src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg">
+              <img height="32px" src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" />
             </td>
           </tr>
           <tr>
@@ -174,11 +174,11 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
           <tr valign="top">
             <td width="80px" align="center">
               <span>TypeScript</span><br>
-              <img height="32px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
+              <img height="32px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" />
             </td>
             <td width="100px" align="center">
               <span>Express</span><br>
-              <img height="62px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">
+              <img height="62px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />
             </td>
              <td width="80px" align="center">
               <span>Docker</span><br>
@@ -186,15 +186,15 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
             </td>
              <td width="80px" align="center">
               <span>MySQL</span><br>
-              <img height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+              <img height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
             </td>
-            <td width="80px" align="center">
+            <td width="90px" align="center">
               <span>MongoDB</span><br>
-              <img height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
+              <img height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
             </td>           
             <td width="80px" align="center">
               <span>NodeJS</span><br>
-              <img height="32px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
+              <img height="32px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
             </td>           
             <td width="90px" align="center">
               <span>Sequelize</span><br>
@@ -211,43 +211,43 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
           <tr valign="top">
             <td width="80px" align="center">
               <span>RTL</span><br>
-              <img height="32" src="https://testing-library.com/img/octopus-128x128.png">
+              <img height="32" src="https://testing-library.com/img/octopus-128x128.png" />
             </td>
             <td width="80px" align="center">
               <span>Jest</span><br>
-              <img height="32px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg">
+              <img height="32px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" />
             </td>
             <td width="80px" align="center">
               <span>Mocha</span><br>
-              <img height="32px" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg">
+              <img height="32px" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" />
             </td>
             <td width="80px" align="center">
               <span>Chai</span><br>
-              <img height="32px" src="https://www.vectorlogo.zone/logos/chaijs/chaijs-icon.svg">
+              <img height="32px" src="https://www.vectorlogo.zone/logos/chaijs/chaijs-icon.svg" />
             </td>            
             <td width="80px" align="center">
               <span>CY</span><br>
-              <img height="32" src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg">
+              <img height="32" src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" />
             </td>
            <td width="80px" align="center">
              <span>Jasmine</span><br>
-             <img height="32" src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg">
+             <img height="32" src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" />
            </td>            
               <td width="80px" align="center">
              <span>nginx</span><br>
-             <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
+             <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />
            </td>
                  <td width="80px" align="center">
              <span>nginx</span><br>
-             <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
+             <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />
            </td>            
             <tr>
-              <td colspan="8" align="left"><strong>Other competences</strong></td> :a
+              <td colspan="8" align="left"><strong>Other competences</strong></td>
             </tr>
             <tr valign="top">              
               <td width="80px" align="center">
                 <span>Python</span><br>
-                <img height="32" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
+                <img height="32" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
               </td>
               <td width="40px" align="center">
                 <span>Java</span><br>
@@ -255,11 +255,11 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
               </td>             
                   <td width="80px" align="center">
                 <span>Git</span><br>
-                <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+                <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
               </td>
               <td width="80px" align="center">
                 <span>GitHub</span><br>
-                <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">                 
+                <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />                 
               </td> 
                <td align="center">
                 <span>Aws<span><br>
@@ -275,18 +275,10 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
               </td>
                   <td width="" align="center">
                 <span>Linux</span><br>
-                <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+                <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
               </td>
         </tbody>
       </table>
 
 
-  
-  
-<!--   ![Snake animation](https://github.com/EdvaldoJose/EdvaldoJose/blob/output/github-contribution-grid-snake.svg) -->
-  
-  
-<!-- ![](https://github-readme-stats.vercel.app/api?username=EdvaldoJose&theme=radical&hide_border=false&include_all_commits=false&count_private=true) -->
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=EdvaldoJose&theme=radical&hide_border=false) -->
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EdvaldoJose&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact) -->
 
