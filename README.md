@@ -173,35 +173,35 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
           </tr>
           <tr valign="top">
             <td width="80px" align="center">
-              <span><strong>TypeScript</strong></span><br>
+              <span>TypeScript</span><br>
               <img height="32px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
             </td>
-            <td width="80px" align="center">
-              <span><strong>Express.js</strong></span><br>
-              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
+            <td width="90px" align="center">
+              <span>Express</span><br>
+              <img height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg">
+            </td>
+            <td width="90px" align="center">
+              <span>MongoDB</span><br>
+              <img height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
+            </td>
+            <td width="90px" align="center">
+              <span>MySQL</span><br>
+              <img height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
             </td>
             <td width="80px" align="center">
-              <span><strong>MongoDB</strong></span><br>
-              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-            </td>
-            <td width="80px" align="center">
-              <span><strong>MySQL</strong></span><br>
-              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-            </td>
-            <td width="80px" align="center">
-              <span><strong>NodeJS</strong></span><br>
+              <span>NodeJS</span><br>
               <img height="32px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
             </td>
             <td width="80px" align="center">
-              <span><strong>Docker</strong></span><br>
-              <img src="https://img.icons8.com/fluency/48/null/docker.png"/>
+              <span>Docker</span><br>
+              <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />
             </td>
-            <td width="80px" align="center">
-              <span><strong>Sequelize</strong></span><br>
+            <td width="90px" align="center">
+              <span>Sequelize</span><br>
               <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg" />
             </td>
             <td width="80px" align="center">
-              <span><strong>npm</strong></span><br>
+              <span><npm</span><br>
               <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"/>
             </td>
           </tr>
