@@ -252,12 +252,9 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
 <img src="https://img.shields.io/badge/NetBeans-Otimo-red"></img>
 <img src="https://img.shields.io/badge/CodeBlocks-Otimo-bluee"></img>
 <img src="https://img.shields.io/badge/PyCharms-Otimo-red">
-<img src="https://img.shields.io/badge/Eclipse%20IDE-Otimo-blue"></img>
 <img src="https://img.shields.io/badge/Docker-Otimo-blue"></img>
-<img src="https://img.shields.io/badge/Logisim-Otimo-brightgreen"></img>
-<img src="https://img.shields.io/badge/VisualG-Otimo-red"></img>
 <img src="https://img.shields.io/badge/Scratch-Otimo-orange"></img>
-## 
+
 
 
 
