@@ -135,7 +135,7 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
     <th>Front-End</th>
     <th>Back-end</th>
     <th>Tests</th>
-    <th>Others</th>
+    <th>Others competences</th>
   </tr>
   <tr>
     <td>
@@ -145,7 +145,7 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
       <img align="center" alt="Tz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
       <img align="center" alt="Tz-redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
       <img align="center" alt="Tz-bootStrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-      <img align="center" alt="Tz-bootStrap" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg">
+<!--       <img align="center" alt="Tz-bootStrap" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg"> -->
     </td>
     <td>
        <img align="center" alt="Tz-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
