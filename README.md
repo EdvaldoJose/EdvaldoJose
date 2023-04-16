@@ -262,7 +262,7 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
             <tr valign="top">              
                    <td width="80px" align="center">
                 <span>VS Code</span><br>
-                <img height="32" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" />
+                <img height="32" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />
               </td>
               <td width="40px" align="center">
                 <span>Java</span><br>
