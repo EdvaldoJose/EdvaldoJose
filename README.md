@@ -132,7 +132,7 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
 <table width="320px">
         <tbody>
           <tr>
-            <td colspan="8" align="center"><strong>Front-End</strong></td>
+            <td colspan="8" align="left"><strong>Front-End</strong></td>
           </tr>
           <tr valign="top">
             <td width="80px" align="center">
@@ -169,7 +169,7 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
             </td>
           </tr>
           <tr>
-            <td colspan="8" align="center"><strong>Back-End</strong></td>
+            <td colspan="8" align="left"><strong>Back-End</strong></td>
           </tr>
           <tr valign="top">
             <td width="80px" align="center">
@@ -206,7 +206,7 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
             </td>
           </tr>
           <tr>
-            <td colspan="8" align="center"><strong>Tests</strong></td>
+            <td colspan="8" align="left"><strong>Tests</strong></td>
           </tr>
           <tr valign="top">
             <td width="80px" align="center">
@@ -242,7 +242,7 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
              <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
            </td>            
             <tr>
-              <td colspan="8" align="center"><strong>Others</strong></td>
+              <td colspan="8" align="left"><strong>Others</strong></td>
             </tr>
             <tr valign="top">              
               <td width="80px" align="center">
