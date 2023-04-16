@@ -126,21 +126,20 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{EdvaldoJose}/count.svg" /></p> 
 <br></div
 
-<h2 align="left">
-<p align="left">
+<p align='center'>
   <h1 align='left'>Minhas Stacks 🛠️</h1>
- </p></h2>
+ </p>
 <div style="display: inline_block;" align="center">
 <table>
   <tr>
     <th>Front-End</th>
     <th>Back-end</th>
     <th>Tests</th>
-    <th>Other competences</th>
+    <th>Others</th>
   </tr>
-  
   <tr>
     <td>
+      <img align="center" alt="Tz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
       <img align="center" alt="Tz-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
       <img align="center" alt="Tz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
       <img align="center" alt="Tz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -148,7 +147,6 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
       <img align="center" alt="Tz-bootStrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
       <img align="center" alt="Tz-bootStrap" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg">
     </td>
-    
     <td>
        <img align="center" alt="Tz-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
        <img align="center" alt="Tz-CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
@@ -157,14 +155,12 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
        <img align="center" alt="Tz-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
        <img align="center" alt="Tz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
       <img align="center" alt="Tz-express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg">
-      <img align="center" alt="Tz-sequelize" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg">
+      <img align="center" alt="Tz-sequelize" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg">
     </td>
-    
     <td>
        <img align="center" alt="Tz-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
        <img align="center" alt="Tz-mocha" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg">
     </td>
-    
     <td>
        <img align="center" alt="Tz-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
        <img align="center" alt="Tz-vsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
@@ -173,6 +169,7 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
     </td>
   </tr>
 </table>
+  
   
   
 <!--   ![Snake animation](https://github.com/EdvaldoJose/EdvaldoJose/blob/output/github-contribution-grid-snake.svg) -->
