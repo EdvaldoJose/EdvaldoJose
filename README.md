@@ -178,7 +178,7 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
             </td>
            <td width="80px" align="center">
               <span><strong>Express</strong></span><br>
-              <img height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
+              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
             </td>
              <td width="80px" align="center">
               <span>Docker</span><br>
@@ -239,7 +239,7 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
            </td>
                  <td width="80px" align="center">
              <span>nginx</span><br>
-             <img height="22" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />
+             <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />
            </td>            
             <tr>
               <td colspan="8" align="left"><strong>Other competences</strong></td>
