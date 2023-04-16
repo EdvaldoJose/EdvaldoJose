@@ -242,7 +242,7 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
              <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
            </td>            
             <tr>
-              <td colspan="8" align="left"><strong>Others</strong></td>
+              <td colspan="8" align="left"><strong>Other competences</strong></td> :a
             </tr>
             <tr valign="top">              
               <td width="80px" align="center">
