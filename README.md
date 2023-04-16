@@ -210,41 +210,33 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
           </tr>
           <tr valign="top">
             <td width="80px" align="center">
-              <span><strong>Jest</strong></span><br>
-              <img height="32px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg">
-            </td>
-            <td width="80px" align="center">
-              <span><strong>Mocha</strong></span><br>
-              <img height="32px" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg">
-            </td>
-            <td width="80px" align="center">
-              <span><strong>Chai</strong></span><br>
-              <img height="32px" src="https://www.vectorlogo.zone/logos/chaijs/chaijs-icon.svg">
-            </td>
-            <td width="80px" align="center">
-              <span><strong>RTL</strong></span><br>
+              <span>RTL</span><br>
               <img height="32" src="https://testing-library.com/img/octopus-128x128.png">
             </td>
             <td width="80px" align="center">
-              <span><strong>CY</strong></span><br>
+              <span>Jest</span><br>
+              <img height="32px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg">
+            </td>
+            <td width="80px" align="center">
+              <span>Mocha</span><br>
+              <img height="32px" src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg">
+            </td>
+            <td width="80px" align="center">
+              <span>Chai</span><br>
+              <img height="32px" src="https://www.vectorlogo.zone/logos/chaijs/chaijs-icon.svg">
+            </td>            
+            <td width="80px" align="center">
+              <span>CY</span><br>
               <img height="32" src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg">
             </td>
            <td width="80px" align="center">
-             <span><strong>Jasmine</strong></span><br>
+             <span>Jasmine</span><br>
              <img height="32" src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg">
            </td>
             <tr>
               <td colspan="8" align="center"><strong>Others</strong></td>
             </tr>
-            <tr valign="top">
-              <td width="80px" align="center">
-                <span>Git</span><br>
-                <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
-              </td>
-              <td width="80px" align="center">
-                <span>GitHub</span><br>
-                <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">                 
-              </td>              
+            <tr valign="top">              
               <td width="80px" align="center">
                 <span>Python</span><br>
                 <img height="32" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
@@ -261,7 +253,15 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
                 <span>GoogleCloud<span><br>
                   <img height="35" width="35" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" />
                   </td>
-                    <td align="center">
+                  <td width="80px" align="center">
+                <span>Git</span><br>
+                <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+              </td>
+              <td width="80px" align="center">
+                <span>GitHub</span><br>
+                <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">                 
+              </td>              
+              <td align="center">
                 <span>Insomnia</span><br>
                 <img height="35" width="35" src="https://raw.githubusercontent.com/keeferrourke/la-capitaine-icon-theme/8370e7c8f1fbbfdb66f08a325a6c1cd8b932afb3/apps/scalable/insomnia.svg" />
               </td>
