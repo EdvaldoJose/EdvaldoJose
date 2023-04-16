@@ -208,10 +208,18 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
              <tr>
             <td colspan="8" align="left"><strong>Back-End II</strong></td>
           </tr>
+                 <td width="80px" align="center">
+                <span>Python</span><br>
+                <img height="32" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
+              </td>
+              <td width="40px" align="center">
+                <span>Java</span><br>
+                <img height="37" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
+              </td>
           <tr valign="top">
             <td width="80px" align="center">
-              <span>Windows</span><br>
-              <img height="32px" src="https://user-images.githubusercontent.com/96168296/232315092-08e2e000-a92e-4907-9eee-00666ebd6af6.png" />
+              <span>C#</span><br>
+              <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" />
             </td>
           <tr>
             <td colspan="12" align="left"><strong>Tests</strong></td>
@@ -253,14 +261,14 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
               <td colspan="8" align="left"><strong>Other competences</strong></td>
             </tr>
             <tr valign="top">              
-              <td width="80px" align="center">
-                <span>Python</span><br>
-                <img height="32" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
+                   <td width="80px" align="center">
+                <span>VS Code</span><br>
+                <img height="32" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" />
               </td>
               <td width="40px" align="center">
                 <span>Java</span><br>
                 <img height="37" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
-              </td>             
+              </td> 
                   <td width="80px" align="center">
                 <span>Git</span><br>
                 <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
@@ -279,7 +287,7 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
                   </td>
                 <td width="80px" align="center">
                <span>Windows</span><br>
-               <img height="32px" src="https://user-images.githubusercontent.com/96168296/232315092-08e2e000-a92e-4907-9eee-00666ebd6af6.png" />
+               <img height="32px" src="https://user-images.githubusercontent.com/96168296/232315734-7a7134d3-daf1-4e6b-a7dd-fd247e5fa6a6.png" />
                </td>
                 <td width="" align="center">
                 <span>Linux</span><br>
