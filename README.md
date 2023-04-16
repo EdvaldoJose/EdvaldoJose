@@ -161,7 +161,7 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
             </td>
             <td width="80px" align="center">
               <span>Bootstrap</span><br>
-              <img height="32px" src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg" />
+              <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" />
             </td>
             <td width="80px" align="center">
               <span>Trello</span><br>
@@ -182,7 +182,7 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
             </td>
              <td width="80px" align="center">
               <span>Docker</span><br>
-              <img height="32px" src="https://img.icons8.com/fluency/48/null/docker.png" />
+              <img height="42px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
             </td>
              <td width="80px" align="center">
               <span>MySQL</span><br>
@@ -220,6 +220,10 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
               <span>C#</span><br>
               <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" />
             </td>
+             <td width="80px" align="center">
+             <span>nginx</span><br>
+             <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />
+           </td> 
           <tr>
             <td colspan="8" align="left"><strong>Tests</strong></td>
           </tr>
@@ -252,10 +256,10 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
                 <span>Insomnia</span><br>
                 <img height="32" width="35" src="https://raw.githubusercontent.com/keeferrourke/la-capitaine-icon-theme/8370e7c8f1fbbfdb66f08a325a6c1cd8b932afb3/apps/scalable/insomnia.svg" />
               </td>
-                 <td width="80px" align="center">
+              <td width="80px" align="center">
              <span>nginx</span><br>
-             <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />
-           </td>            
+             <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original-wordmark.svg" />
+           </td>  
             <tr>
               <td colspan="8" align="left"><strong>Other competences</strong></td>
             </tr>
