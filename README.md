@@ -196,7 +196,7 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
               <span>NodeJS</span><br>
               <img height="32px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
             </td>           
-            <td width="90px" align="center">
+            <td width="90px" height="42" align="center">
               <span>Sequelize</span><br>
               <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg" />
             </td>
@@ -235,7 +235,7 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
            </td>            
               <td width="80px" align="center">
              <span>nginx</span><br>
-             <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />
+             <img height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />
            </td>
                  <td width="80px" align="center">
              <span>nginx</span><br>
