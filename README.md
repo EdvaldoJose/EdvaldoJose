@@ -20,7 +20,7 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
 <a href="https://instagram.com/edvaldojsnet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="edvaldojsnet" height="30" width="40" /></a>
 <a href="https://discord.gg/edvaldojose#9298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="edvaldojose#9298" height="40" width="40" /></a>
   <a href="edvaldo:edvaldojose.dev@gmail.com" target="blank"> <img align="center" src="https://user-images.githubusercontent.com/96168296/232272109-3e7b80c1-0035-4a3f-a402-e5a8df75aab0.png" alt="gmail logo" height="30" width="30" /></a>
-  <a href="https://www.youtube.com/channel/rk6tNMaD36qmpp0eEPzrHA" target="blank"> <img align="center" src="https://user-images.githubusercontent.com/96168296/232279553-91cfde43-62d1-422b-a2bd-97b4b4b93cff.jpeg" alt="youtube logo" height="35" width="40" /></a></p>
+  <a href="https://www.youtube.com/channel/rk6tNMaD36qmpp0eEPzrHA" target="blank"> <img align="center" src="https://user-images.githubusercontent.com/96168296/232279553-91cfde43-62d1-422b-a2bd-97b4b4b93cff.jpeg" alt="youtube logo" height="30" width="30" /></a></p>
 
 ## Redes sociais:
 <table width="10px">
@@ -45,8 +45,8 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
 ## Minhas stacks:
 <!-- <h3 align="left">Languages and Tools:</h3> -->
 <img align="left" height="40" width="40" alt="edvaldo" src="https://img.icons8.com/color/256/amazon-web-services.png">
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"></a>
-  <a <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a>
+<!-- <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"></a> -->
+<!--  <a <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> -->
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
   <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> 
   </a> 
@@ -140,17 +140,18 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
   <tr>
     <td>
       <img align="center" alt="Tz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-      <img align="center" alt="Tz-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-      <img align="center" alt="Tz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+     <img align="center" alt="Tz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
       <img align="center" alt="Tz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+       <img align="center" alt="Tz-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
       <img align="center" alt="Tz-redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
-      <img align="center" alt="Tz-bootStrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+       <img align="center" alt="bootstrap" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" /> 
+      <img align="center" alt="Tz-npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
+<!-- <img align="center" alt="Tz-bootStrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"> -->
 <!--       <img align="center" alt="Tz-bootStrap" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg"> -->
     </td>
     <td>
        <img align="center" alt="Tz-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
        <img align="center" alt="Tz-CSharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-       <img align="center" alt="Tz-npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
        <img align="center" alt="Tz-npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
        <img align="center" alt="Tz-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
        <img align="center" alt="Tz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
