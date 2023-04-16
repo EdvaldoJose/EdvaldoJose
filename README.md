@@ -252,15 +252,7 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
               <td width="40px" align="center">
                 <span>Java</span><br>
                 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
-              </td>
-              <td align="center">
-                <span>Aws<span><br>
-                  <img height="50" width="50" src="https://img.icons8.com/color/256/amazon-web-services.png" />
-                  </td>
-                   <td align="center">
-                <span>GoogleCloud<span><br>
-                  <img height="35" width="35" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" />
-                  </td>
+              </td>             
                   <td width="80px" align="center">
                 <span>Git</span><br>
                 <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
@@ -268,7 +260,15 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
               <td width="80px" align="center">
                 <span>GitHub</span><br>
                 <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">                 
-              </td>              
+              </td> 
+               <td align="center">
+                <span>Aws<span><br>
+                  <img height="50" width="50" src="https://img.icons8.com/color/256/amazon-web-services.png" />
+                  </td>
+                   <td align="center">
+                <span>GoogleCloud<span><br>
+                  <img height="35" width="35" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" />
+                  </td>
               <td align="center">
                 <span>Insomnia</span><br>
                 <img height="35" width="35" src="https://raw.githubusercontent.com/keeferrourke/la-capitaine-icon-theme/8370e7c8f1fbbfdb66f08a325a6c1cd8b932afb3/apps/scalable/insomnia.svg" />
