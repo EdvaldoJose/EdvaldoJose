@@ -232,7 +232,15 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
            <td width="80px" align="center">
              <span>Jasmine</span><br>
              <img height="32" src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg">
+           </td>            
+              <td width="80px" align="center">
+             <span>nginx</span><br>
+             <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
            </td>
+                 <td width="80px" align="center">
+             <span>nginx</span><br>
+             <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
+           </td>            
             <tr>
               <td colspan="8" align="center"><strong>Others</strong></td>
             </tr>
