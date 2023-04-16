@@ -221,8 +221,8 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
                 <img height="37" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" />
               </td> 
                 <td width="80px" align="center">
-               <span>Windows</span><br>
-               <img height="32px" src="https://user-images.githubusercontent.com/96168296/232315734-7a7134d3-daf1-4e6b-a7dd-fd247e5fa6a6.png" />
+               <span>Microsoft</span><br>
+               <img height="32px" src="https://user-images.githubusercontent.com/96168296/232350672-71f212b2-1e87-406d-ab33-8bc0d8ea1f99.png" />
                </td>
                 <td width="" align="center">
                 <span>Linux</span><br>
