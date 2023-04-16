@@ -259,15 +259,15 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
                   </td>
                    <td align="center">
                 <span>GoogleCloud<span><br>
-                  <img height="30" width="30" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" />
+                  <img height="35" width="35" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" />
                   </td>
                     <td align="center">
                 <span>Insomnia</span><br>
-                <img height="30" width="30" src="https://raw.githubusercontent.com/keeferrourke/la-capitaine-icon-theme/8370e7c8f1fbbfdb66f08a325a6c1cd8b932afb3/apps/scalable/insomnia.svg" />
+                <img height="35" width="35" src="https://raw.githubusercontent.com/keeferrourke/la-capitaine-icon-theme/8370e7c8f1fbbfdb66f08a325a6c1cd8b932afb3/apps/scalable/insomnia.svg" />
               </td>
-                  <td width="80px" align="center">
+                  <td width="" align="center">
                 <span>Linux</span><br>
-                <img height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+                <img height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
               </td>
         </tbody>
       </table>
