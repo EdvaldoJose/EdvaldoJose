@@ -27,7 +27,7 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
    <tr valign="top">
        <td width="30px" align="center">
        <span>Portifolio</span><br>
-       <a target="_blank" href="https://twitter.com/edvaldojose003"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="40" width="40" /></a>
+       <a target="_blank" href="https://eliedson-portfolio.netlify.app/"><img src="https://img.icons8.com/ios-filled/50/22C3E6/portfolio.png" height="35" width="35" /></a>
        </td>
        <td width="30px" height="30" align="center">
        <span>Email</span>
