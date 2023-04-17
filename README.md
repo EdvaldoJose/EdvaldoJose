@@ -42,7 +42,7 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
 </table>
 
 <p align='center'>
-  <h1 align='left'>Minhas Stacks 🛠️</h1>
+  <h2 align='left'>Minhas Stacks 🛠️</h2>
  </p>
 <table width="320px" align="center">
         <tbody>
