@@ -12,7 +12,7 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
 * Email para contato: edvaldojose.dev@gmail.com 📬
 * WathsApp para contato: 71-98557-2721 🤝
 
-## Redes sociais
+## Redes sociais 📱
 <p align="left">
 <a href="https://linkedin.com/in/edvaldo-jose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edvaldo-jose" height="30" width="40" /></a>
 <a href="https://twitter.com/edvaldojose003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="edvaldojose003" height="30" width="40" /></a>
@@ -21,7 +21,7 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
 <a href="https://discord.gg/edvaldojose#9298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="edvaldojose#9298" height="40" width="40" /></a>
 <a href="https://www.youtube.com/channel/rk6tNMaD36qmpp0eEPzrHA" target="blank"> <img align="center" src="https://img.icons8.com/color/48/null/youtube-play.png" alt="youtube logo" height="40" width="40" /></a></p>
 
-## Meu Portifolio e contatos
+## Meu Portifolio e contatos 💼
 <table width="10px">
   <tbody>
    <tr valign="top">
@@ -230,7 +230,7 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
         </tbody>
       </table>
 
-## Atividades no GitHub
+## Atividades no GitHub 🚥
  <div align="right">  
   <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EdvaldoJose&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Edvaldo Jose github stats" />
  <a align="left"> <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=EdvaldoJose&theme=dark-smoky&hide_border=verdadeiro&border_radius=0&locale=pt_BR)" alt="https://git.io/streak-stats" /> </a>
@@ -246,13 +246,13 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=EdvaldoJose&theme=gotham)](https://github.com/EdvaldoJose/github-readme-activity-graph)
 
 ## Framework Use
+<div>
 <img src="https://img.shields.io/badge/Visual%20Code-Otimo-green"></img>
 <img src="https://img.shields.io/badge/DEV%20C%2B%2B-Otimo-blue"></img>
 <img src="https://img.shields.io/badge/CodeBlocks-Otimo-bluee"></img>
 <img src="https://img.shields.io/badge/PyCharms-Otimo-red">
 <img src="https://img.shields.io/badge/Docker-Otimo-blue"></img>
 <img src="https://img.shields.io/badge/Scratch-Otimo-orange"></img>
-<div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 </div>
 
