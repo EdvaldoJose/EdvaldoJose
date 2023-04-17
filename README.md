@@ -6,7 +6,7 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
 <img align="right" height="200" width="200" alt="edvaldo" src="https://www.tecnoschool.com.ar/img/gif-portadas-cursos/entrenamiento-en-programacion2.gif">
 
 * Moro em Salvador/Bahia. :brazil:
-* Atualmente estou Estudando Desenvolvimento Web na TRYBE. 👨‍💻 
+* Atualmente estou concluindo meu de Desenvolvimento Web na TRYBE. 👨‍💻 
 * Adoro trabalhar em equipe, costumo dizer que juntos iremos mais longe. 🥇
 * Gosto da fazer coisas que geram valor e impactam as vidas das pessoas. 💻
 * Email para contato: edvaldojose.dev@gmail.com 📬
