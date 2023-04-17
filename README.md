@@ -2,13 +2,13 @@
 Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia implementando e elaborando estudos técnicos para novas tecnologias de segurança, infraestrutura de rede e servidores. Sou apaixonado por tecnologia e adoro a área de Desenvolvimento, gosto de me desafiar, colocar em prática ideias inovadoras, aprender como as coisas funcionam e agregar valor por onde passo. Focando a longo prazo tenho uma grande paixao por BACK-END onde pretendo me especializar cada vez mais nessa tecnologia, tenho um sonho de algum dia fazer parte da construção de um grande projeto de tecnologia que venha impactar na vida das pessoas.<h3></h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times%2C+Times+New+Roman%2C+serif&size=30&pause=1000&center=verdadeiro&vCenter=falso&width=435&lines=Sejam+Bem+vindos!..)](https://git.io/typing-svg)
-## Sobre Mim 👨 :octocat 👨‍💻
+## Sobre Mim 👨
 <img align="right" height="200" width="200" alt="edvaldo" src="https://www.tecnoschool.com.ar/img/gif-portadas-cursos/entrenamiento-en-programacion2.gif">
 
 * Moro em Salvador/Bahia. :brazil:
-* Atualmente estou Estudando Desenvolvimento Web na TRYBE. 💻
+* Atualmente estou Estudando Desenvolvimento Web na TRYBE. 👨‍💻 
 * Adoro trabalhar em equipe, costumo dizer que juntos iremos mais longe. 🥇
-* Gosto da fazer coisas que geram valor e impactam as vidas das pessoas. 🖥️
+* Gosto da fazer coisas que geram valor e impactam as vidas das pessoas. 💻
 * Email para contato: edvaldojose.dev@gmail.com 📬
 * WathsApp para contato: 71-98557-2721 🤝
 
