@@ -2,7 +2,7 @@
 Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia implementando e elaborando estudos técnicos para novas tecnologias de segurança, infraestrutura de rede e servidores. Sou apaixonado por tecnologia e adoro a área de Desenvolvimento, gosto de me desafiar, colocar em prática ideias inovadoras, aprender como as coisas funcionam e agregar valor por onde passo. Focando a longo prazo tenho uma grande paixao por BACK-END onde pretendo me especializar cada vez mais nessa tecnologia, tenho um sonho de algum dia fazer parte da construção de um grande projeto de tecnologia que venha impactar na vida das pessoas.<h3></h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times%2C+Times+New+Roman%2C+serif&size=30&pause=1000&center=verdadeiro&vCenter=falso&width=435&lines=Sejam+Bem+vindos!..)](https://git.io/typing-svg)
-## Sobre Mim. 
+## Sobre Mim 
 <img align="right" height="200" width="200" alt="edvaldo" src="https://www.tecnoschool.com.ar/img/gif-portadas-cursos/entrenamiento-en-programacion2.gif">
 
 * Moro em Salvador/Bahia. :brazil:
@@ -12,33 +12,32 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
 * Email para contato: edvaldojose.dev@gmail.com 📬
 * WathsApp para contato: 71-98557-2721 🤝
 
-## Redes sociais:
+## Redes sociais
 <p align="left">
 <a href="https://linkedin.com/in/edvaldo-jose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edvaldo-jose" height="30" width="40" /></a>
 <a href="https://twitter.com/edvaldojose003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="edvaldojose003" height="30" width="40" /></a>
 <a href="https://fb.com/edvaldosantos003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="edvaldosantos003" height="30" width="40" /></a>
 <a href="https://instagram.com/edvaldojsnet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="edvaldojsnet" height="30" width="40" /></a>
 <a href="https://discord.gg/edvaldojose#9298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="edvaldojose#9298" height="40" width="40" /></a>
-  <a href="edvaldo:edvaldojose.dev@gmail.com" target="blank"> <img align="center" src="https://user-images.githubusercontent.com/96168296/232272109-3e7b80c1-0035-4a3f-a402-e5a8df75aab0.png" alt="gmail logo" height="30" width="30" /></a>
-  <a href="https://www.youtube.com/channel/rk6tNMaD36qmpp0eEPzrHA" target="blank"> <img align="center" src="https://user-images.githubusercontent.com/96168296/232279553-91cfde43-62d1-422b-a2bd-97b4b4b93cff.jpeg" alt="youtube logo" height="30" width="30" /></a></p>
+<a href="https://www.youtube.com/channel/rk6tNMaD36qmpp0eEPzrHA" target="blank"> <img align="center" src="https://img.icons8.com/color/48/null/youtube-play.png" alt="youtube logo" height="40" width="40" /></a></p>
 
-## Redes sociais:
+## Meu Portifolio e contatos
 <table width="10px">
   <tbody>
    <tr valign="top">
        <td width="30px" align="center">
-       <span><strong>twitter</strong></span><br>
-       <a target="_blank" href="https://twitter.com/edvaldojose003"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
+       <span>Portifolio</span><br>
+       <a target="_blank" href="https://twitter.com/edvaldojose003"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="40" width="40" /></a>
        </td>
-       <td width="10px" align="center">
-       <span><strong>Linkedin</strong></span><br>
-       <a target="_blank" href="https://linkedin.com/in/edvaldo-jose"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/></a>
+       <td width="30px" height="30" align="center">
+       <span>Email</span>
+       <a target="_blank" href="https://fb.com/edvaldosantos003"><img src="https://user-images.githubusercontent.com/96168296/232272109-3e7b80c1-0035-4a3f-a402-e5a8df75aab0.png" height="40" width="40" /></a>
        </td>
-       <td width="30px" align="center">
-       <span><strong>Portfólio</strong></span><br>
-       <a target="_blank" href="https://fb.com/edvaldosantos003"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/></a>
+     <td width="30px" align="center">
+       <span>WhatsApp</span><br>
+       <a target="_blank" href="https://fb.com/edvaldosantos003"><img src="https://img.icons8.com/3d-fluency/94/null/whatsapp.png" height="40" width="40"/></a>
        </td>
-   </tr> 
+    </tr> 
   </tbody>
 </table>
 
