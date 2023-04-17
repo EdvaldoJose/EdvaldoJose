@@ -8,7 +8,7 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
 * Moro em Salvador/Bahia. :brazil:
 * Atualmente estou concluindo meu de Desenvolvimento Web na TRYBE. 👨‍💻 
 * Adoro trabalhar em equipe, costumo dizer que juntos iremos mais longe. 🥇
-* Gosto da fazer coisas que geram valor e impactam as vidas das pessoas. 💻
+* Gosto de fazer coisas que geram valor e impactam as vidas das pessoas. 💻
 * Email para contato: edvaldojose.dev@gmail.com 📬
 * WathsApp para contato: 71-98557-2721 🤝
 
