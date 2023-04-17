@@ -27,7 +27,7 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
    <tr valign="top">
        <td width="30px" align="center">
        <span>Portifolio</span><br>
-       <a target="_blank" href="https://eliedson-portfolio.netlify.app/"><img src="https://img.icons8.com/ios-filled/50/22C3E6/portfolio.png" height="35" width="35" /></a>
+       <a target="_blank" href="https://eliedson-portfolio.netlify.app_/"><img src="https://img.icons8.com/ios-filled/50/22C3E6/portfolio.png" height="35" width="35" /></a>
        </td>
        <td width="30px" height="30" align="center">
        <span>Email</span>
