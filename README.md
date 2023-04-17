@@ -253,6 +253,7 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
 <img src="https://img.shields.io/badge/PyCharms-Otimo-red">
 <img src="https://img.shields.io/badge/Docker-Otimo-blue"></img>
 <img src="https://img.shields.io/badge/Scratch-Otimo-orange"></img>
+<img src="https://img.shields.io/badge/Visual%20Code-Otimo-green"></img>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 </div>
 
