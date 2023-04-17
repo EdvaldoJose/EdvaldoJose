@@ -248,13 +248,14 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
 ## Framework Use
 <div>
 <img src="https://img.shields.io/badge/Visual%20Code-Otimo-green"></img>
-<img src="https://img.shields.io/badge/DEV%20C%2B%2B-Otimo-blue"></img>
+<img src="https://img.shields.io/badge/Backend-Otimo-blue"></img>
 <img src="https://img.shields.io/badge/GoogleCloud-Otimo-bluee"></img>
 <img src="https://img.shields.io/badge/java-Otimo-red">
 <img src="https://img.shields.io/badge/Docker-Otimo-blue"></img>
 <img src="https://img.shields.io/badge/C-Otimo-orange"></img>
 <img src="https://img.shields.io/badge/POO-Otimo-green"></img>
 <img src="https://img.shields.io/badge/Python-Otimo-red">
+<img src="https://img.shields.io/badge/Frontend-Otimo-blue"></img>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 </div>
 
