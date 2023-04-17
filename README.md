@@ -31,7 +31,7 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
        </td>
        <td width="30px" height="30" align="center">
        <span>Email</span>
-       <a target="_blank" href="https://fb.com/edvaldosantos003"><img src="https://user-images.githubusercontent.com/96168296/232272109-3e7b80c1-0035-4a3f-a402-e5a8df75aab0.png" height="40" width="40" /></a>
+       <a target="_blank" href="https://fb.com/edvaldosantos003"><img src="https://user-images.githubusercontent.com/96168296/232272109-3e7b80c1-0035-4a3f-a402-e5a8df75aab0.png" height="35" width="35" /></a>
        </td>
      <td width="30px" align="center">
        <span>WhatsApp</span><br>
@@ -44,7 +44,7 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
 <p align='center'>
   <h1 align='left'>Minhas Stacks 🛠️</h1>
  </p>
-<table width="320px">
+<table width="320px" align="center">
         <tbody>
           <tr>
             <td colspan="8" align="left"><strong>Front-End</strong></td>
@@ -231,19 +231,20 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
       </table>
 
 ## Atividades no GitHub
- <div align="right"> <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=EdvaldoJose&theme=dark-smoky&hide_border=verdadeiro&border_radius=0&locale=pt_BR)" alt="https://git.io/streak-stats" />
-<a align="left">  
-  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EdvaldoJose&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Edvaldo Jose github stats" /> </a>
-  <div align="center"> 
+ <div align="right">  
+  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EdvaldoJose&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Edvaldo Jose github stats" />
+ <a align="left"> <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=EdvaldoJose&theme=dark-smoky&hide_border=verdadeiro&border_radius=0&locale=pt_BR)" alt="https://git.io/streak-stats" /> </a>
+ <div align="center"> 
   <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdvaldoJose&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-  </div>
+ </div>
 </div>
 <div align="center">
-<br><p align="centre"><b>Visitas</b></p>  
+<p align="centre"><b>Visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{EdvaldoJose}/count.svg" /></p> 
-<br></div
+</div>
 
-  
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=EdvaldoJose&theme=gotham)](https://github.com/EdvaldoJose/github-readme-activity-graph)
+
 ## Framework Use
 <img src="https://img.shields.io/badge/Visual%20Code-Otimo-green"></img>
 <img src="https://img.shields.io/badge/DEV%20C%2B%2B-Otimo-blue"></img>
@@ -251,8 +252,8 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
 <img src="https://img.shields.io/badge/PyCharms-Otimo-red">
 <img src="https://img.shields.io/badge/Docker-Otimo-blue"></img>
 <img src="https://img.shields.io/badge/Scratch-Otimo-orange"></img>
-
-
-
+<div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+</div>
 
 
