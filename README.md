@@ -47,7 +47,7 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
 <table width="320px" align="center">
         <tbody>
           <tr>
-            <td colspan="8" align="left"><strong>Front-End</strong></td>
+            <td colspan="8" align="left"><strong>FRONT-END</strong></td>
           </tr>
           <tr valign="top">
             <td width="80px" align="center">
@@ -84,7 +84,7 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
             </td>
           </tr>
           <tr>
-            <td colspan="8" align="left"><strong>Back-End I</strong></td>
+            <td colspan="8" align="left"><strong>BACK-END I</strong></td>
           </tr>
           <tr valign="top">
             <td width="80px" align="center">
@@ -121,7 +121,7 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
             </td>
           </tr>
              <tr>
-            <td colspan="8" align="left"><strong>Back-End II</strong></td>
+            <td colspan="8" align="left"><strong>BACK-END II</strong></td>
           </tr>
               <td width="80px" align="center">
                 <span>Python</span><br>
@@ -192,7 +192,7 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
                <img height="32" width="35" src="https://raw.githubusercontent.com/keeferrourke/la-capitaine-icon-theme/8370e7c8f1fbbfdb66f08a325a6c1cd8b932afb3/apps/scalable/insomnia.svg" />
               </td>          
             <tr>
-             <td colspan="8" align="left"><strong>Other components</strong></td>
+             <td colspan="8" align="left"><strong>OTHER COMPONENTS</strong></td>
             </tr>
             <tr valign="top">              
                    <td width="80px" align="center">
