@@ -3,7 +3,8 @@ Atuei na área de tecnologia por mais de 13 anos como Analista de tecnologia imp
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times%2C+Times+New+Roman%2C+serif&size=30&pause=1000&center=verdadeiro&vCenter=falso&width=435&lines=Sejam+Bem+vindos!..)](https://git.io/typing-svg)
 ## Sobre Mim 👨
-<img align="right" height="200" width="200" alt="edvaldo" src="https://www.tecnoschool.com.ar/img/gif-portadas-cursos/entrenamiento-en-programacion2.gif">
+<img align="right" src="https://user-images.githubusercontent.com/96168296/232656308-9affede6-2278-4606-97be-7ed26fb298c7.gif" alt="Coder GIF" width="200" height="200">
+<!-- <img align="right" height="200" width="200" alt="edvaldo" src="https://www.tecnoschool.com.ar/img/gif-portadas-cursos/entrenamiento-en-programacion2.gif"> -->
 
 * Moro em Salvador/Bahia. :brazil:
 * Atualmente estou concluindo minha formação em Desenvolvimento Web pela TRYBE. 👨‍💻 
