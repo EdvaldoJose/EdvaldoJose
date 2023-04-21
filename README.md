@@ -30,7 +30,7 @@ Atuei na área de tecnologia por mais de 10 anos como Analista de tecnologia, im
 * Gosto de desafios e fazer coisas que geram valor e impactam a vida das pessoas. 💻
 * Email para contato: edvaldojose.dev@gmail.com 📬
 * WathsApp para contato: 71-98557-2721 🤝
-
+<br>
 ## Minhas redes sociais 📱
 <table width="10px">
   <tbody>
@@ -62,7 +62,7 @@ Atuei na área de tecnologia por mais de 10 anos como Analista de tecnologia, im
     </tr>
   </tbody>
 </table>
-
+<br>
 ## Meu Portifolio e contatos 💼
 <table width="10px">
   <tbody>
@@ -82,7 +82,7 @@ Atuei na área de tecnologia por mais de 10 anos como Analista de tecnologia, im
     </tr> 
   </tbody>
 </table>
-
+<br>
 <p align='center'>
   <h2 align='left'>Minhas Stacks 🛠️</h2>
  </p>
@@ -271,7 +271,7 @@ Atuei na área de tecnologia por mais de 10 anos como Analista de tecnologia, im
               </td>           
         </tbody>
       </table>
-
+<br>
 ## Atividades no GitHub :octocat:
  <div aling="center"> 
   <a align="right">  
@@ -292,7 +292,7 @@ Atuei na área de tecnologia por mais de 10 anos como Analista de tecnologia, im
 </div>
 
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=EdvaldoJose&theme=gotham)](https://github.com/EdvaldoJose/github-readme-activity-graph)
-	       
+	<br>       
 ## Framework Use 🚥
 <div>
 <img src="https://img.shields.io/badge/VisualCode-Otimo-green"></img>
