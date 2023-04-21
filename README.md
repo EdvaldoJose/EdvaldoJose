@@ -57,7 +57,7 @@ Atuei na área de tecnologia por mais de 10 anos como Analista de tecnologia, im
       </td>
       <td width="30px" align="center">
       <span>Youtube</span><br>
-<a href="https://www.youtube.com/channel/rk6tNMaD36qmpp0eEPzrHA" target="blank"> <img align="center" src="https://img.icons8.com/color/48/null/youtube-play.png" alt="youtube logo" height="42" width="42" /></a></a>
+<a href="https://www.youtube.com/channel/UCrk6tNMaD36qmpp0eEPzrHA" target="blank"> <img align="center" src="https://img.icons8.com/color/48/null/youtube-play.png" alt="youtube logo" height="42" width="42" /></a></a>
       </td>
     </tr>
   </tbody>
