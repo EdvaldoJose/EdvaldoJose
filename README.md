@@ -198,7 +198,7 @@ Atuei na área de tecnologia por mais de 10 anos como Analista de tecnologia, im
              <img height="32" src="https://user-images.githubusercontent.com/96168296/232327980-9879eec2-daa9-477a-b087-bfa0c6d95d5c.png" />
            </td> 
           <tr>
-            <td colspan="8" align="left"><strong>Tests</strong></td>
+            <td colspan="8" align="left"><strong>TESTS</strong></td>
           </tr>
           <tr valign="top">
             <td width="80px" align="center">
@@ -282,7 +282,7 @@ Atuei na área de tecnologia por mais de 10 anos como Analista de tecnologia, im
 <a align="right">
   <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdvaldoJose&layout=compact&title_color=2f97c1&icon_color=f5b700&&text_color=0cf574&bg_color=040f0f" alt="EdvaldoJose github stats"  /></a>
  <a align="left"> <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/pin/?username=EdvaldoJose&theme=blue-green&repo=github-readme-stats" alt="EdvaldoJose github stats" /></a>
-</div><br>
+</div><div></br>
 		       
 ## Atividades no Site 📈
 <div align="center">
@@ -290,7 +290,7 @@ Atuei na área de tecnologia por mais de 10 anos como Analista de tecnologia, im
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{EdvaldoJose}/count.svg" /></p> 
 </div>
 
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=EdvaldoJose&theme=gotham)](https://github.com/EdvaldoJose/github-readme-activity-graph)<br>
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=EdvaldoJose&theme=gotham)](https://github.com/EdvaldoJose/github-readme-activity-graph)<br></br>
 		       
 ## Framework Use 🚥
 <div>
