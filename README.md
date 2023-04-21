@@ -45,11 +45,11 @@ Atuei na área de tecnologia por mais de 10 anos como Analista de tecnologia, im
       </td>
       <td width="30px" align="center">
       <span>Facebook</span><br>
-<a href="https://fb.com/edvaldosantos003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="edvaldosantos003" height="35" width="35" /></a>
+<a href="https://fb.com/edvaldosantos003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="edvaldosantos003" height="33" width="33" /></a>
       </td>
       <td width="30px" align="center">
       <span>Instagram</span><br>
-<a href="https://instagram.com/edvaldojsnet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="edvaldojsnet" height="35" width="35" /></a>
+<a href="https://instagram.com/edvaldojsnet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="edvaldojsnet" height="33" width="33" /></a>
       </td>
       <td width="30px" align="center">
       <span>Discord</span><br>
