@@ -274,8 +274,8 @@ Atuei na área de tecnologia por mais de 10 anos como Analista de tecnologia, im
 
 ## Atividades no GitHub :octocat:
  <div align="right">  
-  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EdvaldoJose&theme=chartreuse-dark&show_icons=true" alt="Edvaldo Jose github stats" />
- <a align="left"> <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=EdvaldoJose&theme=chartreuse-dark&hide_border=verdadeiro&border_radius=0&locale=pt_BR)" alt="https://git.io/streak-stats" /> </a>
+  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EdvaldoJose&theme=chartreuse-dark&show_icons=true" alt="EdvaldoJose github stats" />
+ <a align="left"> <img width="51%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=EdvaldoJose&theme=chartreuse-dark&hide_border=verdadeiro&border_radius=0&locale=pt_BR)" alt="EdvaldoJose github stats" /> </a>
  <div align="center"> 
   <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdvaldoJose&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
  </div>
