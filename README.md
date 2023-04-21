@@ -285,7 +285,7 @@ Atuei na área de tecnologia por mais de 10 anos como Analista de tecnologia, im
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{EdvaldoJose}/count.svg" /></p> 
 </div>
 
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=EdvaldoJose&theme=gotham)](https://github.com/EdvaldoJose/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=EdvaldoJose&theme=chartreuse-dark)](https://github.com/EdvaldoJose/github-readme-activity-graph)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdvaldoJose&theme=chartreuse-dark&layout=compacto)](https://github.com/anuraghazra/github-readme-stats)
 		       
