@@ -31,14 +31,37 @@ Atuei na área de tecnologia por mais de 10 anos como Analista de tecnologia, im
 * Email para contato: edvaldojose.dev@gmail.com 📬
 * WathsApp para contato: 71-98557-2721 🤝
 
-## Redes sociais 📱
-<p align="left">
-<a href="https://linkedin.com/in/edvaldo-jose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edvaldo-jose" height="30" width="40" /></a>
-<a href="https://twitter.com/edvaldojose003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="edvaldojose003" height="30" width="40" /></a>
-<a href="https://fb.com/edvaldosantos003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="edvaldosantos003" height="30" width="40" /></a>
-<a href="https://instagram.com/edvaldojsnet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="edvaldojsnet" height="30" width="40" /></a>
+## Minhas redes sociais 📱
+<table width="10px">
+  <tbody>
+    <tr valign="top">
+      <td width="30px" align="center">
+      <span>Linkedin</span><br>
+<a href="https://linkedin.com/in/edvaldo-jose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edvaldo-jose" height="35" width="35" /></a>
+      </td>
+      <td width="30px" align="center">
+      <span>Twitter</span><br>
+<a href="https://twitter.com/edvaldojose003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="edvaldojose003" height="35" width="35" /></a>
+      </td>
+      <td width="30px" align="center">
+      <span>Facebook</span><br>
+<a href="https://fb.com/edvaldosantos003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="edvaldosantos003" height="35" width="35" /></a>
+      </td>
+      <td width="30px" align="center">
+      <span>Instagram</span><br>
+<a href="https://instagram.com/edvaldojsnet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="edvaldojsnet" height="35" width="35" /></a>
+      </td>
+      <td width="30px" align="center">
+      <span>Discord</span><br>
 <a href="https://discord.gg/edvaldojose#9298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="edvaldojose#9298" height="40" width="40" /></a>
-<a href="https://www.youtube.com/channel/rk6tNMaD36qmpp0eEPzrHA" target="blank"> <img align="center" src="https://img.icons8.com/color/48/null/youtube-play.png" alt="youtube logo" height="40" width="40" /></a></p>
+      </td>
+      <td width="30px" align="center">
+      <span>Youtube</span><br>
+<a href="https://www.youtube.com/channel/rk6tNMaD36qmpp0eEPzrHA" target="blank"> <img align="center" src="https://img.icons8.com/color/48/null/youtube-play.png" alt="youtube logo" height="40" width="40" /></a></a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## Meu Portifolio e contatos 💼
 <table width="10px">
@@ -54,7 +77,7 @@ Atuei na área de tecnologia por mais de 10 anos como Analista de tecnologia, im
        </td>
      <td width="30px" align="center">
        <span>WhatsApp</span><br>
-       <a target="_blank" href="https://fb.com/edvaldosantos003"><img src="https://img.icons8.com/3d-fluency/94/null/whatsapp.png" height="40" width="40"/></a>
+       <a target="_blank" href="https://fb.com/edvaldosantos003"><img src="https://img.icons8.com/3d-fluency/94/null/whatsapp.png" height="35" width="35"/></a>
        </td>
     </tr> 
   </tbody>
@@ -277,5 +300,3 @@ Atuei na área de tecnologia por mais de 10 anos como Analista de tecnologia, im
 <img src="https://img.shields.io/badge/Python-Otimo-blue"></img>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 </div>
-
-
