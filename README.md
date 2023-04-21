@@ -280,7 +280,7 @@ Atuei na área de tecnologia por mais de 10 anos como Analista de tecnologia, im
  <a align="center">
   <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdvaldoJose&layout=compact&title_color=2f97c1&icon_color=f5b700&&text_color=0cf574&bg_color=040f0f" alt="EdvaldoJose github stats"  />
  </a>
-	  <a align="left"> <img width="70%" height="195px" src="https://github-readme-stats.vercel.app/api/pin/?username=EdvaldoJose&theme=blue-green&repo=github-readme-stats" alt="EdvaldoJose github stats" /> </a>
+	  <a align="left"> <img width="50px" height="195px" src="https://github-readme-stats.vercel.app/api/pin/?username=EdvaldoJose&theme=blue-green&repo=github-readme-stats" alt="EdvaldoJose github stats" /> </a>
 </div>
 <div align="center">
 <p align="centre"><b>Visitantes</b></p>  
