@@ -274,10 +274,10 @@ Atuei na área de tecnologia por mais de 10 anos como Analista de tecnologia, im
 
 ## Atividades no GitHub :octocat:
  <div align="right">  
-  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EdvaldoJose&theme=ocean_dark&show_icons=true" alt="EdvaldoJose github stats" />
- <a align="left"> <img width="50%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=EdvaldoJose&theme=ocean_dark&hide_border=verdadeiro&border_radius=0&locale=pt_BR" alt="EdvaldoJose github stats" /> </a>
+  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EdvaldoJose&theme=nord&show_icons=true" alt="EdvaldoJose github stats" />
+ <a align="left"> <img width="50%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=EdvaldoJose&theme=nord&hide_border=verdadeiro&border_radius=0&locale=pt_BR" alt="EdvaldoJose github stats" /> </a>
  <div align="center"><br> 
-  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdvaldoJose&theme=ocean_dark&layout=compacto"  />
+  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdvaldoJose&theme=nord&layout=compacto"  />
  </div>
 </div>
 <div align="center">
