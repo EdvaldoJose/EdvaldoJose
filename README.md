@@ -30,7 +30,7 @@ Atuei na área de tecnologia por mais de 10 anos como Analista de tecnologia, im
 * Gosto de desafios e fazer coisas que geram valor e impactam a vida das pessoas. 💻
 * Email para contato: edvaldojose.dev@gmail.com 📬
 * WathsApp para contato: 71-98557-2721 🤝
-<br>
+
 ## Minhas redes sociais 📱
 <table width="10px">
   <tbody>
@@ -61,8 +61,8 @@ Atuei na área de tecnologia por mais de 10 anos como Analista de tecnologia, im
       </td>
     </tr>
   </tbody>
-</table>
-<br>
+</table><br>
+
 ## Meu Portifolio e contatos 💼
 <table width="10px">
   <tbody>
@@ -81,8 +81,8 @@ Atuei na área de tecnologia por mais de 10 anos como Analista de tecnologia, im
        </td>
     </tr> 
   </tbody>
-</table>
-<br>
+</table><br>
+
 <p align='center'>
   <h2 align='left'>Minhas Stacks 🛠️</h2>
  </p>
@@ -270,8 +270,8 @@ Atuei na área de tecnologia por mais de 10 anos como Analista de tecnologia, im
                 <img height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
               </td>           
         </tbody>
-      </table>
-<br>
+      </table><br>
+		       
 ## Atividades no GitHub :octocat:
  <div aling="center"> 
   <a align="right">  
@@ -282,8 +282,7 @@ Atuei na área de tecnologia por mais de 10 anos como Analista de tecnologia, im
 <a align="right">
   <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdvaldoJose&layout=compact&title_color=2f97c1&icon_color=f5b700&&text_color=0cf574&bg_color=040f0f" alt="EdvaldoJose github stats"  /></a>
  <a align="left"> <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/pin/?username=EdvaldoJose&theme=blue-green&repo=github-readme-stats" alt="EdvaldoJose github stats" /></a>
-</div>
-<br>
+</div><br>
 
 ## Atividades no Site 📈
 <div align="center">
