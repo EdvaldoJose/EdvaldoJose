@@ -287,7 +287,7 @@ Atuei na área de tecnologia por mais de 10 anos como Analista de tecnologia, im
 
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=&theme=gotham)](https://github.com/EdvaldoJose/github-readme-activity-graph)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edvaldojose=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 		       
 ## Framework Use 🚥
 <div>
