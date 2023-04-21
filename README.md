@@ -284,7 +284,7 @@ Atuei na área de tecnologia por mais de 10 anos como Analista de tecnologia, im
  <a align="left"> <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/pin/?username=EdvaldoJose&theme=blue-green&repo=github-readme-stats" alt="EdvaldoJose github stats" /></a>
 </div>
 		       
-![Snake animation](https://github.com/ThiagoFdaSLopes/ThiagoFdaSLopes/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/EdvaldoJose/EdvaldoJose/blob/output/github-contribution-grid-snake.svg)
 		       
 ## Atividades no Site 📈
 <div align="center">
@@ -307,5 +307,3 @@ Atuei na área de tecnologia por mais de 10 anos como Analista de tecnologia, im
 <img src="https://img.shields.io/badge/Python-Otimo-blue"></img>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 </div>
-
-![Snake animation](https://github.com/ThiagoFdaSLopes/ThiagoFdaSLopes/blob/output/github-contribution-grid-snake.svg)
