@@ -275,7 +275,7 @@ Atuei na área de tecnologia por mais de 10 anos como Analista de tecnologia, im
 ## Atividades no GitHub :octocat:
  <div align="right">  
   <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EdvaldoJose&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Edvaldo Jose github stats" />
- <a align="left"> <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=EdvaldoJose&theme=radical&hide_border=verdadeiro&border_radius=0&locale=pt_BR)" alt="https://git.io/streak-stats" /> </a>
+ <a align="left"> <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=EdvaldoJose&theme=chartreuse-dark&hide_border=verdadeiro&border_radius=0&locale=pt_BR)" alt="https://git.io/streak-stats" /> </a>
  <div align="center"> 
   <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdvaldoJose&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
  </div>
@@ -285,7 +285,7 @@ Atuei na área de tecnologia por mais de 10 anos como Analista de tecnologia, im
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{EdvaldoJose}/count.svg" /></p> 
 </div>
 
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=EdvaldoJose&theme=gotham)](https://github.com/EdvaldoJose/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=&theme=gotham)](https://github.com/EdvaldoJose/github-readme-activity-graph)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edvaldojose=anuraghazra&show_icons=true&theme=radical)
 		       
