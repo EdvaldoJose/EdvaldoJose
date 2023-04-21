@@ -273,12 +273,14 @@ Atuei na área de tecnologia por mais de 10 anos como Analista de tecnologia, im
       </table>
 
 ## Atividades no GitHub :octocat:
- <div align="right">  
-  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EdvaldoJose&theme=blue-green&show_icons=true" alt="EdvaldoJose github stats" />
+ <div> 
+  <a align="right">  
+  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EdvaldoJose&theme=blue-green&show_icons=true" alt="EdvaldoJose github stats" /></a>
  <a align="left"> <img width="50%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=EdvaldoJose&theme=blue-green&hide_border=verdadeiro&border_radius=0&locale=pt_BR" alt="EdvaldoJose github stats" /> </a>
- <div align="center"><br> 
-  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdvaldoJose&theme=blue-green&layout=compacto"  />
- </div>
+ <a align="center">
+  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdvaldoJose&layout=compact&title_color=2f97c1&icon_color=f5b700&&text_color=0cf574&bg_color=040f0f" alt="EdvaldoJose github stats"  />
+ </a>
+	  <a align="left"> <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/pin/?username=EdvaldoJose&theme=blue-green&repo=github-readme-stats" alt="EdvaldoJose github stats" /> </a>
 </div>
 <div align="center">
 <p align="centre"><b>Visitantes</b></p>  
@@ -287,7 +289,9 @@ Atuei na área de tecnologia por mais de 10 anos como Analista de tecnologia, im
 
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=EdvaldoJose&theme=gotham)](https://github.com/EdvaldoJose/github-readme-activity-graph)
 
-	       
+		       
+		       
+
 
 		       
 ## Framework Use 🚥
