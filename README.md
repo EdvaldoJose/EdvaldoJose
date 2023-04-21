@@ -73,7 +73,7 @@ Atuei na área de tecnologia por mais de 10 anos como Analista de tecnologia, im
        </td>
        <td width="30px" height="30" align="center">
        <span>Email</span>
-       <a target="_blank" href="https://mail.google.com/"><img src="https://user-images.githubusercontent.com/96168296/232272109-3e7b80c1-0035-4a3f-a402-e5a8df75aab0.png" height="33" width="33" /></a>
+       <a target="_blank" href="https://accounts.google.com/InteractiveLogin/"><img src="https://user-images.githubusercontent.com/96168296/232272109-3e7b80c1-0035-4a3f-a402-e5a8df75aab0.png" height="33" width="33" /></a>
        </td>
      <td width="30px" align="center">
        <span>WhatsApp</span><br>
