@@ -53,7 +53,7 @@ Atuei na área de tecnologia por mais de 10 anos como Analista de tecnologia, im
       </td>
       <td width="30px" align="center">
       <span>Discord</span><br>
-<a href="https://discord.gg/edvaldojose#9298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="edvaldojose#9298" height="40" width="40" /></a>
+<a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="edvaldojose#9298" height="40" width="40" /></a>
       </td>
       <td width="30px" align="center">
       <span>Youtube</span><br>
