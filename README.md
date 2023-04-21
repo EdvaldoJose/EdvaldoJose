@@ -77,7 +77,7 @@ Atuei na área de tecnologia por mais de 10 anos como Analista de tecnologia, im
        </td>
      <td width="30px" align="center">
        <span>WhatsApp</span><br>
-       <a target="_blank" href="https://fb.com/edvaldosantos003"><img src="https://img.icons8.com/3d-fluency/94/null/whatsapp.png" height="35" width="35"/></a>
+       <a target="_blank" href="https://web.whatsapp.com/"><img src="https://img.icons8.com/3d-fluency/94/null/whatsapp.png" height="35" width="35"/></a>
        </td>
     </tr> 
   </tbody>
