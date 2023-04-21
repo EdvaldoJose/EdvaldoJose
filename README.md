@@ -57,7 +57,7 @@ Atuei na área de tecnologia por mais de 10 anos como Analista de tecnologia, im
       </td>
       <td width="30px" align="center">
       <span>Youtube</span><br>
-<a href="https://www.youtube.com/channel/rk6tNMaD36qmpp0eEPzrHA" target="blank"> <img align="center" src="https://img.icons8.com/color/48/null/youtube-play.png" alt="youtube logo" height="40" width="40" /></a></a>
+<a href="https://www.youtube.com/channel/rk6tNMaD36qmpp0eEPzrHA" target="blank"> <img align="center" src="https://img.icons8.com/color/48/null/youtube-play.png" alt="youtube logo" height="42" width="42" /></a></a>
       </td>
     </tr>
   </tbody>
@@ -73,7 +73,7 @@ Atuei na área de tecnologia por mais de 10 anos como Analista de tecnologia, im
        </td>
        <td width="30px" height="30" align="center">
        <span>Email</span>
-       <a target="_blank" href="https://fb.com/edvaldosantos003"><img src="https://user-images.githubusercontent.com/96168296/232272109-3e7b80c1-0035-4a3f-a402-e5a8df75aab0.png" height="35" width="35" /></a>
+       <a target="_blank" href="https://fb.com/edvaldosantos003"><img src="https://user-images.githubusercontent.com/96168296/232272109-3e7b80c1-0035-4a3f-a402-e5a8df75aab0.png" height="33" width="33" /></a>
        </td>
      <td width="30px" align="center">
        <span>WhatsApp</span><br>
