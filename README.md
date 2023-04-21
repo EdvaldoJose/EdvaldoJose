@@ -287,6 +287,8 @@ Atuei na área de tecnologia por mais de 10 anos como Analista de tecnologia, im
 
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=EdvaldoJose&theme=gotham)](https://github.com/EdvaldoJose/github-readme-activity-graph)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+		       
 ## Framework Use 🚥
 <div>
 <img src="https://img.shields.io/badge/VisualCode-Otimo-green"></img>
