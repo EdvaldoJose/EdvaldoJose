@@ -284,8 +284,6 @@ Atuei na área de tecnologia por mais de 10 anos como Analista de tecnologia, im
  <a align="left"> <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/pin/?username=EdvaldoJose&theme=blue-green&repo=github-readme-stats" alt="EdvaldoJose github stats" /></a>
 </div>
 	
-![Snake animation](https://github.com/EdvaldoJose/EdvaldoJose/blob/output/github-contribution-grid-snake.svg)
-	
 ## Atividades no Site 📈
 <div align="center">
 <p align="centre"><b>VISITANTES</b></p>  
