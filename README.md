@@ -307,3 +307,6 @@ Atuei na área de tecnologia por mais de 10 anos como Analista de tecnologia, im
 </div>
 
 ![Snake animation](https://github.com/EdvaldoJose/EdvaldoJose/blob/output/github-contribution-grid-snake.svg)
+
+![Snake animation](https://github.com/ThiagoFdaSLopes/ThiagoFdaSLopes/blob/output/github-contribution-grid-snake.svg)
+
