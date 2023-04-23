@@ -166,19 +166,19 @@ Atuei na área de tecnologia por mais de 10 anos como Analista de tecnologia, im
             <td colspan="8" align="left"><strong>BACK-END II</strong></td>
           </tr>
               <td width="80px" align="center">
-                <span>Python</span><br>
+                <span>Python*</span><br>
                 <img height="32" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
               </td>
                <td width="80px" align="center">
-                <span>Algoritmos</span><br>
+                <span>Algoritmos*</span><br>
                 <img height="32" src="https://github.com/devicons/devicon/blob/master/icons/thealgorithms/thealgorithms-original.svg" />
               </td>
               <td width="40px" align="center">
-                <span>Java</span><br>
+                <span>Java*</span><br>
                 <img height="37" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
               </td>          
             <td width="80px" align="center">
-              <span>C#</span><br>
+              <span>C#*</span><br>
               <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" />
             </td>
              <td width="80px" align="center">
