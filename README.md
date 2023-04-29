@@ -163,7 +163,7 @@ Atuei na área de tecnologia por mais de 10 anos como Analista de tecnologia, im
             </td>
           </tr>
              <tr>
-            <td colspan="8" align="left"><strong>BACK-END II</strong></td>
+            <td colspan="8" align="left"><strong>BACK-END II (Estudando**)</strong></td>
           </tr>
               <td width="80px" align="center">
                 <span>Python**</span><br>
@@ -181,7 +181,7 @@ Atuei na área de tecnologia por mais de 10 anos como Analista de tecnologia, im
               <span>C#**</span><br>
               <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" />
             </td>
-	     <td width="80px" align="center">
+	     <td width="70px" align="center">
              <span>Android**</span><br>
              <img height="32" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" />
            </td> 
