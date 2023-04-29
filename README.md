@@ -181,7 +181,7 @@ Atuei na área de tecnologia por mais de 10 anos como Analista de tecnologia, im
               <span>C#**</span><br>
               <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" />
             </td>
-	     <td width="70px" align="center">
+	     <td width="75px" align="center">
              <span>Android**</span><br>
              <img height="32" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" />
            </td> 
