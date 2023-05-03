@@ -296,7 +296,7 @@ Atuei na área de tecnologia por mais de 10 anos como Analista de tecnologia, im
 
 ## Framework Use 🚥
 <div>
-<img src="https://img.shields.io/badge/VisualCode-Otimo-green"></img>
+<img src="https://img.shields.io/badge/JavaScript-Otimo-green"></img>
 <img src="https://img.shields.io/badge/Aws-Otimo-blue"></img>
 <img src="https://img.shields.io/badge/GoogleCloud-Otimo-bluee"></img>
 <img src="https://img.shields.io/badge/java-Otimo-red">
