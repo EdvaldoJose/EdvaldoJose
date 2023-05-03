@@ -83,7 +83,7 @@ Atuei na área de tecnologia por mais de 10 anos como Analista de tecnologia, im
   </tbody>
 </table>
 
-<p align='center'>
+<p align='left'>
   <h2 align='left'>Minhas Stacks 🛠️</h2>
  </p>
 <table width="320px" align="center">
@@ -231,7 +231,7 @@ Atuei na área de tecnologia por mais de 10 anos como Analista de tecnologia, im
            </td> 
              <td align="center">
               <span>Insomnia</span><br>
-               <img height="32" width="35" src="https://raw.githubusercontent.com/keeferrourke/la-capitaine-icon-theme/8370e7c8f1fbbfdb66f08a325a6c1cd8b932afb3/apps/scalable/insomnia.svg" />
+               <img height="32" width="32" src="https://raw.githubusercontent.com/keeferrourke/la-capitaine-icon-theme/8370e7c8f1fbbfdb66f08a325a6c1cd8b932afb3/apps/scalable/insomnia.svg" />
               </td>          
             <tr>
              <td colspan="8" align="left"><strong>OTHER COMPONENTS</strong></td>
