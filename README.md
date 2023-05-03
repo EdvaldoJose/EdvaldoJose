@@ -272,7 +272,7 @@ Atuei na área de tecnologia por mais de 10 anos como Analista de tecnologia, im
         </tbody>
       </table><br>
 		       
-## Atividades no GitHub :octocat:
+## Atividade no GitHub :octocat:
  <div aling="center"> 
   <a align="right">  
   <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EdvaldoJose&theme=blue-green&show_icons=true" alt="EdvaldoJose github stats" /></a>
@@ -286,7 +286,7 @@ Atuei na área de tecnologia por mais de 10 anos como Analista de tecnologia, im
 	
 ![Snake animation](https://github.com/EdvaldoJose/EdvaldoJose/blob/output/github-contribution-grid-snake.svg)
 		       
-## Atividades no Site 📈
+## Atividade no Site 📈
 <div align="center">
 <p align="centre"><b>VISITANTES</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{EdvaldoJose}/count.svg" /></p> 
