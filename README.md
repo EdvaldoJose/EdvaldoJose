@@ -24,7 +24,7 @@ Atuei na área de tecnologia por mais de 10 anos como Analista de tecnologia, im
 
 <!-- <img align="right" height="150" width="200" alt="edvaldo" src="https://www.tecnoschool.com.ar/img/gif-portadas-cursos/entrenamiento-en-programacion2.gif"> -->
  
-* Sou uma pessoa bem humorada, sou natural de Salvador/Bahia onde moro. :brazil:
+* Sou uma pessoa comunicativa e bem humorada, sou natural de Salvador/Bahia. :brazil:
 * Atualmente estou concluindo minha formação em Desenvolvimento Web pela TRYBE. 👨‍💻 
 * Adoro trabalhar em equipe e costumo dizer que se quer ir rápido, vá sozinho(a), 🏃‍♂️
 * se quer ir longe, trabalhe em equipe. Sempre é possível aprender com outras pessoas 🧑‍🤝‍🧑
