@@ -27,8 +27,8 @@ Atuei na área de tecnologia por mais de 10 anos como Analista de tecnologia, im
 * Sou uma pessoa comunicativa e bem humorada, sou natural de Salvador/Bahia. :brazil:
 * Atualmente estou concluindo minha formação em Desenvolvimento Web pela TRYBE. 👨‍💻 
 * Gosto de trabalhar em equipe e costumo dizer que se quer ir rápido, vá sozinho(a),🏃‍♂️...
-* se quer ir longe, trabalhe em equipe. Sempre é possível aprender com outras pessoas 🧑‍🤝‍🧑
-* eu acredito que a colaboração e o trabalho em equipe é a chave para o sucesso. 🥇
+* se quer ir longe, trabalhe em equipe, sempre é possível aprender com outras pessoas 🧑‍🤝‍🧑
+* Eu acredito que a colaboração e o trabalho em equipe é a chave para o sucesso. 🥇
 * Gosto de desafios e fazer coisas que geram valor e impactam a vida das pessoas. 💻
 * Email para contato: edvaldojose.dev@gmail.com 📬
 * WathsApp para contato: 71-98557-2721 🤝
