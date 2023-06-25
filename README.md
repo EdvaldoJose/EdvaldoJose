@@ -27,7 +27,7 @@ Tenho um sonho de algum dia fazer parte de uma equipe na construção de um gran
  
 * Sou uma pessoa comunicativa e bem humorada, sou natural de Salvador/Bahia. :brazil:
 * Atualmente estou concluindo minha formação em Desenvolvimento Web pela TRYBE. 👨‍💻 
-* Gosto de trabalhar em equipe e costumo dizer que se quer correr vá sozinho(a),🏃‍♂️...
+* Gosto de trabalhar em equipe e costumo dizer que se quer correr vá sozinho(a), 🏃‍♂️...
 * se quer ir longe, trabalhe em equipe, sempre é possível aprender com outras pessoas 🧑‍🤝‍🧑
 * Eu acredito que a colaboração e o trabalho em equipe é a chave para o sucesso. 🥇
 * Gosto de desafios e fazer coisas que geram valor e impactam a vida das pessoas. 💻
