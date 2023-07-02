@@ -17,7 +17,7 @@
 
 <h2 align="left">👋 Olá,  eu me chamo Edvaldo José sou Desenvovedor Full Stack</h2>
 Atuei na área de tecnologia por mais de 10 anos como Analista em tecnologia, implementando e elaborando estudos técnicos para novas tecnologia em segurança, infraestrutura de rede e Servidores. Sou apaixonado por tecnologia e adoro a área de Desenvolvimento, gosto de me desafiar, colocar em prática ideias inovadoras, gosto de aprender como as coisas funcionam na tecnologia "por baixo dos panos" e gosto de agregar valor por onde passo. Focando a longo prazo tenho uma grande paixão pela área de desenvolvimento em BACK-END onde pretendo me especializar cada vez mais nessa área com outras linguagens de programação.
-Tenho um sonho de algum dia fazer parte de uma equipe na construção de um grande projeto de tecnologia que venha impactar na vida das pessoas.<h3></h3>
+Tenho um sonho de algum dia poder fazer parte de uma equipe na construção de um grande projeto de tecnologia que venha impactar na vida das pessoas.<h3></h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times%2C+Times+New+Roman%2C+serif&size=30&pause=1000&center=verdadeiro&vCenter=falso&width=435&lines=Sejam+Bem+vindos!..)](https://git.io/typing-svg)
 ## Sobre Mim 👨
