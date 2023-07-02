@@ -295,8 +295,7 @@ Tenho um sonho de algum dia poder fazer parte de uma equipe na construção de u
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{EdvaldoJose}/count.svg" /></p> 
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EdvaldoJose&theme=gotham)](https://github.com/EdvaldoJose/github-readme-activity-graph)
-[![Ashutosh github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EdvaldoJose&theme=gotham)](https://github.com/EdvaldoJose/github-readme-activity-graph)
 
 ## Framework Use 🚥
 <div>
