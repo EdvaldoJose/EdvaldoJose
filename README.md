@@ -297,7 +297,7 @@ Tenho um sonho de algum dia fazer parte de uma equipe na construção de um gran
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=EdvaldoJose&theme=gotham)](https://github.com/EdvaldoJose/github-readme-activity-graph)<br></br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Framework Use 🚥
 <div>
