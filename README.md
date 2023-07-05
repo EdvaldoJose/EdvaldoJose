@@ -15,7 +15,7 @@
 </body>
 </html>
 
-<h2 align="left">👋 Olá,  eu me chamo Edvaldo José sou Desenvovedor Full Stack</h2>
+<h2 align="left">👋 Olá,  eu me chamo Edvaldo José sou um Desenvovedor Full Stack</h2>
 Atuei na área de tecnologia por mais de 10 anos como Analista em tecnologia, implementando e elaborando estudos técnicos para novas tecnologia em segurança, infraestrutura de rede e Servidores. Sou apaixonado por tecnologia e adoro a área de Desenvolvimento, gosto de me desafiar, colocar em prática ideias inovadoras, gosto de aprender como as coisas funcionam na tecnologia "por baixo dos panos" e gosto de agregar valor por onde passo. Focando a longo prazo tenho uma grande paixão pela área de desenvolvimento em BACK-END onde pretendo me especializar cada vez mais nessa área com outras linguagens de programação.
 Tenho um sonho de algum dia poder fazer parte de uma equipe na construção de um grande projeto de tecnologia que venha impactar na vida das pessoas.<h3></h3>
 
