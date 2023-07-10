@@ -189,7 +189,7 @@ Tenho um sonho de algum dia poder fazer parte de uma equipe na construção de u
              <img height="32" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" />
            </td> 
              <td width="80px" align="center">
-             <span>nginx</span><br>
+             <span>Nginx</span><br>
              <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />
            </td>
              <td width="90px" align="center">
@@ -258,7 +258,7 @@ Tenho um sonho de algum dia poder fazer parte de uma equipe na construção de u
                   </td>
                    <td align="center">
                 <span>GoogleCloud<span><br>
-                  <img height="32" width="35" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" />
+                  <img height="35" width="35" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" />
                   </td>
                    <td width="40px" align="center">
                 <span>Kubernetes</span><br>
