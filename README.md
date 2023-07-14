@@ -258,7 +258,7 @@ Tenho um sonho de algum dia poder fazer parte de uma equipe na construção de u
                   </td>
                    <td align="center">
                 <span>GoogleCloud<span><br>
-                  <img height="32" width="" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" />
+                  <img height="37" width="" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" />
                   </td>
                    <td width="40px" align="center">
                 <span>Kubernetes</span><br>
