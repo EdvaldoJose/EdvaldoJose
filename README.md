@@ -169,14 +169,14 @@ Tenho um sonho de algum dia poder fazer parte de uma equipe na construção de u
             </td>
           </tr>
              <tr>
-            <td colspan="8" align="left"><strong>BACK-END II (Estudando**)</strong></td>
+            <td colspan="8" align="left"><strong>BACK-END II (Tirando Certificações**)</strong></td>
           </tr>
 	      <td width="80px" align="center">
                 <span>Algoritmos</span><br>
                 <img height="32" src="https://github.com/devicons/devicon/blob/master/icons/thealgorithms/thealgorithms-original.svg" />
               </td>
               <td width="80px" align="center">
-                <span>Python**</span><br>
+                <span>Python</span><br>
                 <img height="32" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
               </td>
                 <td width="40px" align="center">
@@ -256,15 +256,15 @@ Tenho um sonho de algum dia poder fazer parte de uma equipe na construção de u
                 <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />                 
               </td> 
                <td align="center">
-                <span>Aws<span><br>
+                <span>Aws**<span><br>
                   <img height="40" width="50" src="https://img.icons8.com/color/256/amazon-web-services.png" />
                   </td>
                    <td align="center">
-                <span>GoogleCloud<span><br>
+                <span>GoogleCloud**<span><br>
                   <img height="37" width="" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" />
                   </td>
                    <td width="40px" align="center">
-                <span>Kubernetes</span><br>
+                <span>Kubernetes**</span><br>
                 <img height="37" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" />
               </td> 
                 <td width="80px" align="center">
