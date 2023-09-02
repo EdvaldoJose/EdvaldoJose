@@ -18,7 +18,7 @@
 <h2 align="left">👋 Olá,  eu me chamo Edvaldo José sou Desenvovedor Full Stack</h2>
 Sou uma pessoa curiosa e apaixonada por tecnologia. Tenho um forte interesse na área de Desenvolvimento e adoro me desafiar para implementar ideias inovadoras. Busco me especializar em linguagens de programação como JavaScript, Python e Java, com foco em atuar como desenvolvedor Back-end. Estou concluindo o curso de Desenvolvimento Web Full Stack na Trybe, o que tem ampliado minha base de conhecimento. Estou determinado a obter novas certificações em Java, AWS e Google Cloud, visando aprimorar minhas habilidades e me tornar um desenvolvedor ainda mais versátil e capaz. Tenho o sonho de um dia poder fazer parte de uma equipe na construção de um grande projeto de tecnologia que venha a impactar a vida das pessoas.<h3></h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times%2C+Times+New+Roman%2C+serif&size=30&pause=1000&center=verdadeiro&vCenter=falso&width=435&lines=Sejam+Bem+vindos!..)](https://git.io/typing-svg)
+#[![Typing SVG](https://readme-typing-svg.herokuapp.com?#font=Times%2C+Times+New+Roman%2C+serif&size=30&pause=1000&center=verdadeiro&vCenter=falso&width=435&lines=Sejam+Bem+vindos!..)](https://git.io/typing-svg)
 ## Sobre Mim 👨
 <img align="right" src="https://user-images.githubusercontent.com/96168296/232656308-9affede6-2278-4606-97be-7ed26fb298c7.gif" alt="Coder GIF" width="200" height="185">
 
