@@ -29,7 +29,7 @@ Sou uma pessoa curiosa e apaixonada por tecnologia. Tenho um forte interesse na 
 * Gosto de trabalhar em equipe e costumo dizer que se quer correr vá sozinho(a), 🏃‍♂️...
 * se quer ir longe, trabalhe em equipe, sempre é possível aprender com outras pessoas 🧑‍🤝‍🧑
 * Eu acredito que a colaboração e o trabalho em equipe é a chave para o sucesso. 🥇
-* Email para contato: edvaldojose.dev@gmail.com 📬
+* E-mail para contato: edvaldojose.dev@gmail.com 📬
 * WathsApp para contato: 71-98557-2721 🤝
 
 ## Minhas redes sociais 📱
