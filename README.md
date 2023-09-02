@@ -27,7 +27,7 @@ Sou uma pessoa curiosa e apaixonada por tecnologia. Tenho um forte interesse na 
 * Sou uma pessoa comunicativa e bem humorada, sou natural de Salvador/Bahia. :brazil:
 * Atualmente estou concluindo minha formação em Desenvolvimento Web pela TRYBE. 👨‍💻 
 * Gosto de trabalhar em equipe e costumo dizer que se quer correr vá sozinho(a), 🏃‍♂️...
-* se quer ir longe, trabalhe em equipe, sempre é possível aprender com outras pessoas. 🧑‍🤝‍🧑
+* se quer ir longe, trabalhe em equipe, sempre é possível aprender com outras pessoas. 🧑‍🤝‍🧑🧑‍🤝‍🧑 
 * Eu acredito que a colaboração e o trabalho em equipe é a chave para o sucesso. 🥇
 * E-mail para contato: edvaldojose.dev@gmail.com 📬
 * WathsApp para contato: 71-98557-2721 🤝
