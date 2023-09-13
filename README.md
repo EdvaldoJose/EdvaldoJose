@@ -74,7 +74,7 @@ Sou uma pessoa curiosa e apaixonada por tecnologia. Tenho um forte interesse na 
        </td>
        <td width="30px" height="30" align="center">
        <span>Email</span>
-       <a target="_blank" href="https://accounts.google.com/InteractiveLogin/signinchooser?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&osid=1&passive=1209600&service=mail&ifkv=AQMjQ7SabT2AWqYyU02L_FgBolfCZlAlT3_wZTB3z5whZ9QHbCvH2zYDU7su2DJBtxAanfcvUYtD&flowName=GlifWebSignIn&flowEntry=ServiceLogin#inbox"><img src="https://user-images.githubusercontent.com/96168296/232272109-3e7b80c1-0035-4a3f-a402-e5a8df75aab0.png" height="33" width="33" /></a>
+       <a target="_blank" href="mailto:edvaldojose.dev@gmail.com"><img src=""><img src="https://user-images.githubusercontent.com/96168296/232272109-3e7b80c1-0035-4a3f-a402-e5a8df75aab0.png" height="33" width="33" /></a>
        </td>
      <td width="30px" align="center">
        <span>WhatsApp</span><br>
