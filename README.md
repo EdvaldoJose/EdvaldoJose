@@ -292,11 +292,7 @@ Sou uma pessoa curiosa e apaixonada por tecnologia. Tenho um forte interesse na 
 <p align="centre"><b>VISITANTES</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{EdvaldoJose}/count.svg" /></p> 
 </div>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+
 
 ## Framework Use 🚥
 <div>
