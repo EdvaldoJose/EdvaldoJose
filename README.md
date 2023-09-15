@@ -179,12 +179,12 @@ Sou uma pessoa curiosa e apaixonada por tecnologia. Tenho um forte interesse na 
                 <img height="37" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
               </td>          
             <td width="80px" align="center">
-              <span>C#**</span><br>
-              <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" />
+              <span>Flask</span><br>
+              <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" />
             </td>
 	     <td width="75px" align="center">
-             <span>Android**</span><br>
-             <img height="32" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" />
+             <span>Django</span><br>
+             <img height="32" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" />
            </td> 
              <td width="80px" align="center">
              <span>Nginx</span><br>
