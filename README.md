@@ -285,8 +285,7 @@ Sou uma pessoa curiosa e apaixonada por tecnologia. Tenho um forte interesse na 
  <a align="left"> <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/pin/?username=EdvaldoJose&theme=blue-green&repo=github-readme-stats" alt="EdvaldoJose github stats" /></a>
 </div>
 
- https://raw.githubusercontent.com/Eliedson1979/Eliedson1979/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only
-![Snake animation](https://github.com/EdvaldoJose/EdvaldoJose/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/EdvaldoJose/EdvaldoJose/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 		       
 ## Atividade no Site 📈
 <div align="center">
