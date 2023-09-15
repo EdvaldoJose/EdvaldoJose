@@ -184,7 +184,7 @@ Sou uma pessoa curiosa e apaixonada por tecnologia. Tenho um forte interesse na 
             </td>
 	     <td width="32px" align="center">
              <span>Django</span><br>
-             <img height="90" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" />
+             <img height="80" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" />
            </td> 
              <td width="32px" align="center">
              <span>Nginx</span><br>
