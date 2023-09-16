@@ -166,10 +166,7 @@ Sou uma pessoa curiosa e apaixonada por tecnologia. Tenho um forte interesse na 
              <tr>
             <td colspan="8" align="left"><strong>BACK-END II (Tirando Certificações**)</strong></td>
           </tr>
-	      <td width="80px" align="center">
-                <span>Algoritmos</span><br>
-                <img height="32" src="https://github.com/devicons/devicon/blob/master/icons/thealgorithms/thealgorithms-original.svg" />
-              </td>
+	     
               <td width="80px" align="center">
                 <span>Python</span><br>
                 <img height="32" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
@@ -198,6 +195,10 @@ Sou uma pessoa curiosa e apaixonada por tecnologia. Tenho um forte interesse na 
              <span>POO</span><br>
              <img height="32" src="https://user-images.githubusercontent.com/96168296/232327980-9879eec2-daa9-477a-b087-bfa0c6d95d5c.png" />
            </td> 
+	    <td width="80px" align="center">
+                <span>Algoritmos</span><br>
+                <img height="32" src="https://github.com/devicons/devicon/blob/master/icons/thealgorithms/thealgorithms-original.svg" />
+              </td>
           <tr>
             <td colspan="8" align="left"><strong>TESTS</strong></td>
           </tr>
