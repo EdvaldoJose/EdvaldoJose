@@ -176,7 +176,7 @@ Sou uma pessoa curiosa e apaixonada por tecnologia. Tenho um forte interesse na 
               </td>          
             <td width="40px" align="center">
               <span>Flask</span><br>
-              <img height="37px" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" />
+              <img height="37" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" />
             </td>
 	     <td width="40px" align="center">
              <span>Django</span><br>
