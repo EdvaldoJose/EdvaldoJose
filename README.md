@@ -15,9 +15,9 @@
 </body>
 </html>
 
-<h2 align="left">👋 Olá,  eu me chamo Edvaldo José sou Desenvovedor Full Stack</h2>
-Sou uma pessoa curiosa e apaixonada por tecnologia. Tenho um forte interesse na área de Desenvolvimento de software e adoro me desafiar para implementar ideias inovadoras. Busco me especializar em linguagens de programação como JavaScript, Python e Java, com foco em atuar como desenvolvedor Back-end. Estou concluindo o curso de Desenvolvimento Web Full Stack na Trybe, o que tem ampliado minha base de conhecimento. Estou determinado a obter novas certificações em Java, AWS e Google Cloud, visando aprimorar minhas habilidades e me tornar um desenvolvedor ainda mais versátil e capaz. Tenho o sonho de um dia poder fazer parte de uma equipe na construção de um grande projeto de tecnologia que venha a impactar a vida das pessoas.<h3></h3>
-
+<h2 align="left">👋 Olá, me chamo Edvaldo José, um Desenvovedor Full Stack</h2>
+Sou uma pessoa curiosa e apaixonada por tecnologia. Tenho um grande interesse na área de Desenvolvimento de software e adoro me desafiar para implementar ideias inovadoras. Estou concluindo o curso de Desenvolvimento Web Full Stack na Trybe, o que tem ampliado minha base de conhecimento. Busco especialização em JavaScript, Python e Java, com foco em atuar como desenvolvedor Back-end. Determinado, almejo certificações em Java, AWS e Google Cloud para aprimorar minhas habilidades. Tenho o sonho de fazer parte de uma equipe na construção de um projeto de tecnologia impactante na vida das pessoas.
+<h3></h3>
 
 ## Sobre Mim 👨
 <img align="right" src="https://user-images.githubusercontent.com/96168296/232656308-9affede6-2278-4606-97be-7ed26fb298c7.gif" alt="Coder GIF" width="200" height="185">
