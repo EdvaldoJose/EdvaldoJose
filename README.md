@@ -176,11 +176,11 @@ Sou uma pessoa curiosa e apaixonada por tecnologia. Tenho um forte interesse na 
               </td>          
             <td width="37px" align="center">
               <span>Flask</span><br>
-              <img height="60px" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" />
+              <img height="50px" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" />
             </td>
 	     <td width="37px" align="center">
              <span>Django</span><br>
-             <img height="60px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" />
+             <img height="50px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" />
            </td> 
              <td width="32px" align="center">
              <span>Nginx</span><br>
