@@ -26,7 +26,8 @@ Tenho um grande interesse na área de Desenvolvimento de software e adoro me des
 
 - 👨‍💻 Atualmente, estou concluindo minha formação em Desenvolvimento Web pela TRYBE.
 - 🇧🇷 Sou natural de Salvador, Bahia.
-- 🏃‍♂️ Acredito no valor do trabalho em equipe, pois, como diz o provérbio, "Se quer correr, vá sozinho; se quer ir longe, trabalhe em equipe". Colaborar nos permite superar desafios e alcançar metas extraordinárias juntos.
+- 🥇 Acredito na força do trabalho em equipe para superar desafios e atingir metas extraordinárias, seguindo o provérbio: "Se quer correr, 🏃‍♂️ vá sozinho; 
+     se quer ir longe, trabalhe em equipe".
 - 🥇 Para mim, a colaboração e o trabalho em equipe são a chave para o sucesso.
 
 ## Contato 📬
