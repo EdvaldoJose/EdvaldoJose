@@ -15,13 +15,24 @@
 </body>
 </html>
 
-<h2 align="left"># 👋 Olá, sou Edvaldo José</h2><br><h3>Desenvolvedor Full Stack apaixonado por tecnologia.</h3>
+<h2 align="left"># 👋 Olá, sou Edvaldo José</h2>
+<h3>Desenvolvedor Full Stack apaixonado por tecnologia.</h3>
 Tenho um grande interesse na área de Desenvolvimento de software e adoro me desafiar para implementar ideias inovadoras. Concluir o curso de Desenvolvimento Web Full Stack na Trybe, o que ampliou muito minha base de conhecimento técnico. Busco me especializar cada vez mais em JavaScript, Python e Java, com foco em atuar como desenvolvedor Back-end. Determinado, almejo certificações em Java, AWS e Google Cloud para aprimorar minhas habilidades. Tenho o sonho de fazer parte de uma equipe na construção de um projeto de tecnologia impactante na vida das pessoas. 
 
 ## Sobre Mim 👨
 <img align="right" src="https://user-images.githubusercontent.com/96168296/232656308-9affede6-2278-4606-97be-7ed26fb298c7.gif" alt="Coder GIF" width="200" height="185">
 
 <!-- <img align="right" height="150" width="200" alt="edvaldo" src="https://www.tecnoschool.com.ar/img/gif-portadas-cursos/entrenamiento-en-programacion2.gif"> -->
+
+- 👨‍💻 Atualmente, estou concluindo minha formação em Desenvolvimento Web pela TRYBE.
+- 🇧🇷 Sou natural de Salvador, Bahia.
+- 🏃‍♂️ Acredito na importância do trabalho em equipe: "Se quer correr, vá sozinho; se quer ir longe, trabalhe em equipe".
+- 🥇 Para mim, a colaboração e o trabalho em equipe são a chave para o sucesso.
+
+## Contato 📬
+
+- E-mail: edvaldojose.dev@gmail.com
+- WhatsApp: [71-98557-2721](cel:71-985572721)
  
 * Sou uma pessoa comunicativa e bem humorada, sou natural de Salvador/Bahia. :brazil:
 * Atualmente estou concluindo minha formação em Desenvolvimento Web pela TRYBE. 👨‍💻 
