@@ -15,7 +15,7 @@
 </body>
 </html>
 
-<h2 align="left">👋 Olá, sou Edvaldo José, um Desenvovedor Full Stack apaixonado por tecnologia.</h2>
+<h2 align="left">👋 Olá, sou Edvaldo José! Um Desenvolvedor Full Stack apaixonado por tecnologia.</h2>
 Tenho um grande interesse na área de Desenvolvimento de software e adoro me desafiar para implementar ideias inovadoras. Concluir o curso de Desenvolvimento Web Full Stack na Trybe, o que ampliou muito minha base de conhecimento técnico. Busco me especializar cada vez mais em JavaScript, Python e Java, com foco em atuar como desenvolvedor Back-end. Determinado, almejo certificações em Java, AWS e Google Cloud para aprimorar minhas habilidades. Tenho o sonho de fazer parte de uma equipe na construção de um projeto de tecnologia impactante na vida das pessoas. 
 <h3></h3>
 
