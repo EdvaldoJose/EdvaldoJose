@@ -23,11 +23,12 @@ Tenho um grande interesse na área de Desenvolvimento de software e adoro me des
 <img align="right" src="https://user-images.githubusercontent.com/96168296/232656308-9affede6-2278-4606-97be-7ed26fb298c7.gif" alt="Coder GIF" width="200" height="185">
 
 <!-- <img align="right" height="150" width="200" alt="edvaldo" src="https://www.tecnoschool.com.ar/img/gif-portadas-cursos/entrenamiento-en-programacion2.gif"> -->
-
+- 👨 Apaixonado por tecnologia, busco saciar minha curiosidade e fomentar meu conhecimento nas áreas de Desenvolvimento, sempre ansioso para aprender e 
+     crescer.
 - 👨‍💻 Atualmente, estou concluindo minha formação em Desenvolvimento Web pela TRYBE.
 - 🇧🇷 Sou natural de Salvador, Bahia.
-- 🥇 Acredito na força do trabalho em equipe para superar desafios e atingir metas extraordinárias, seguindo o provérbio: "Se quer correr, 🏃‍♂️ vá sozinho; 
-     se quer ir longe, trabalhe em equipe".
+- 🥇 Acredito no valor do trabalho em equipe, pois, como diz o provérbio, "Se quer correr🏃‍♂️, vá sozinho; se quer ir longe, trabalhe em equipe".
+- 🥇 Colaborar nos permite superar desafios e alcançar metas extraordinárias juntos, porque colaboração e o trabalho em equipe são a chave para o sucesso.
 - 🥇 Para mim, a colaboração e o trabalho em equipe são a chave para o sucesso.
 
 ## Contato 📬
