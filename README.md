@@ -26,7 +26,7 @@ Tenho um grande interesse na área de Desenvolvimento de software e adoro me des
 
 - 👨‍💻 Atualmente, estou concluindo minha formação em Desenvolvimento Web pela TRYBE.
 - 🇧🇷 Sou natural de Salvador, Bahia.
-- 🥇 Acredito no valor do trabalho em equipe, pois, como diz o provérbio, "Se quer correr🏃‍♂️,  vá sozinho; se quer ir longe, trabalhe em equipe".
+- 🤝 Acredito no valor do trabalho em equipe, pois, como diz o provérbio, "Se quer correr🏃‍♂️,  vá sozinho; se quer ir longe, trabalhe em equipe".
 - 🥇 Colaborar nos permite superar desafios e alcançar metas extraordinárias juntos, colaboração e o trabalho em equipe são a chave para o sucesso.
 - 🥇 Determinado a aprimorar minhas habilidades e conhecimentos, estou sempre focado em buscar a excelência na área de Desenvolvimento.
 
@@ -34,14 +34,7 @@ Tenho um grande interesse na área de Desenvolvimento de software e adoro me des
 
 - E-mail: edvaldojose.dev@gmail.com
 - WhatsApp: [71-98557-2721](cel:71-985572721)
- 
-* Sou uma pessoa comunicativa e bem humorada, sou natural de Salvador/Bahia. :brazil:
-* Atualmente estou concluindo minha formação em Desenvolvimento Web pela TRYBE. 👨‍💻 
-* Gosto de trabalhar em equipe e costumo dizer se quer correr vá sozinho 🏃‍♂️...
-* se quer ir longe, trabalhe em equipe, sempre é possível aprender com outras pessoas.🧑‍🤝‍🧑🧑‍🤝‍🧑 
-* Eu acredito que a colaboração e o trabalho em equipe é a chave para o sucesso. 🥇
-* E-mail para contato: edvaldojose.dev@gmail.com 📬
-* WathsApp para contato: 71-98557-2721 🤝
+- https://www.linkedin.com/in/edvaldo-jose/
 
 ## Minhas redes sociais 📱
 <table width="10px">
