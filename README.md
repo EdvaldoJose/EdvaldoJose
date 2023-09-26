@@ -22,11 +22,11 @@ Sempre busco agregar valor a projetos, com um foco claro no crescimento a longo 
 Minhas áreas de interesse incluem JavaScript, Python e Java, visando destacar-me como Desenvolvedor Back-end. Determinado, busco certificações em AWS e Google Cloud, visando aprimorar minhas habilidades e me tornar um desenvolvedor ainda mais versátil e capaz. Meu sonho é integrar uma equipe que construa projetos tecnológicos impactantes na vida das pessoas. Estou comprometido com minha carreira no Desenvolvimento de Software, sempre em busca de inovação e excelência técnica.
 
 ## Sobre Mim 👨
-<img align="right" src="https://user-images.githubusercontent.com/96168296/232656308-9affede6-2278-4606-97be-7ed26fb298c7.gif" alt="Coder GIF" width="200" height="185">
+<!--<img align="right" src="https://user-images.githubusercontent.com/96168296/232656308-9affede6-2278-4606-97be-7ed26fb298c7.gif" alt="Coder GIF" width="200" height="185">-->
 
 <!-- <img align="right" height="150" width="200" alt="edvaldo" src="https://www.tecnoschool.com.ar/img/gif-portadas-cursos/entrenamiento-en-programacion2.gif"> -->
 
-- 👨‍💻 Atualmente, estou concluindo o curso de Desenvolvimento Web Full Stack pela Trybe,  o que tem ampliando minha base de conhecimento técnico.
+- 👨‍💻 Atualmente, estou concluindo o curso de Desenvolvimento Web Full Stack pela Trybe, o que tem ampliando minha base de conhecimento técnico.
 - 🇧🇷 Sou natural de Salvador, Bahia.
 - 🤝 Acredito no valor do trabalho em equipe, pois, como diz o provérbio, "Se quer correr🏃‍♂️,  vá sozinho; se quer ir longe, trabalhe em equipe".
 - 🥇 Colaborar nos permite superar desafios e alcançar metas extraordinárias juntos, colaboração e o trabalho em equipe são a chave para o sucesso.
