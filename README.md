@@ -17,7 +17,7 @@
 
 <h2 align="left"># 👋 Olá, sou Edvaldo José</h2>
 <h2>Desenvolvedor Full Stack apaixonado por tecnologia.</h2>
-Com mais de 10 anos de experiência como Analista, minha trajetória se concentrou na implementação de tecnologias em segurança, infraestrutura de rede e servidores.
+Com mais de 10 anos de experiência como Analista de Tecnologia, minha trajetória se concentrou na implementação de tecnologias em segurança, infraestrutura de rede e servidores.
 Sempre busco agregar valor a projetos, com um foco claro no crescimento a longo prazo. Minha aspiração é especializar-me cada vez mais na tecnologia, contribuindo para projetos impactantes.
 Atualmente, estou concluindo o curso de Desenvolvimento Web Full Stack, o que está ampliando minha base de conhecimento técnico. Minhas áreas de interesse incluem JavaScript, Python e Java, visando destacar-me como Desenvolvedor Back-end. Determinado, busco certificações em Java, AWS e Google Cloud.
 Meu sonho é integrar uma equipe que construa projetos tecnológicos impactantes na vida das pessoas. Estou comprometido com minha carreira no Desenvolvimento de Software, sempre em busca de inovação e excelência técnica.
