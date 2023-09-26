@@ -31,10 +31,8 @@ Minhas áreas de interesse incluem JavaScript, Python e Java, visando destacar-m
 - 🇧🇷 Sou natural de Salvador, Bahia.
 - 🤝 Acredito no valor do trabalho em equipe, pois, como diz o provérbio, "Se quer correr🏃‍♂️,
 - vá sozinho; se quer ir longe, trabalhe em equipe".
-- 🥇 Colaborar nos permite superar desafios e alcançar metas extraordinárias juntos, colaboração
-- e o trabalho em equipe são a chave para o sucesso.
-- 🥇 Determinado a aprimorar minhas habilidades e conhecimentos, estou sempre focado em buscar
-- a excelência na área de Desenvolvimento.
+- 🥇 Colaborar nos permite superar desafios e alcançar metas extraordinárias juntos, colaboração e o trabalho em equipe são a chave para o sucesso.
+- 🥇 Determinado a aprimorar minhas habilidades e conhecimentos, estou sempre focado em buscar a excelência na área de Desenvolvimento.
 
 ## Contato 📬
 
