@@ -33,7 +33,7 @@ Tenho um grande interesse na área de Desenvolvimento de software e adoro me des
 ## Contato 📬
 
 - E-mail: edvaldojose.dev@gmail.com
-- https://www.linkedin.com/in/edvaldo-jose/
+- LinkedIn: https://www.linkedin.com/in/edvaldo-jose/
 - WhatsApp: [71-98557-2721](cel:71-985572721)
 
 ## Minhas redes sociais 📱
