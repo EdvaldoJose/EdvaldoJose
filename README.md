@@ -27,6 +27,7 @@ Com mais de 10 anos de experiência como Analista Microsoft Certified, minha tra
 - 🤝 Acredito no valor do trabalho em equipe, pois, como diz o provérbio, "Se quer correr🏃‍♂️, vá sozinho; se quer ir longe, trabalhe em equipe".
 - 🥇 Colaborar nos permite superar desafios e alcançar metas extraordinárias juntos, colaboração e o trabalho em equipe são a chave para o sucesso.
 - 🥇 Determinado a aprimorar minhas habilidades e conhecimentos, estou sempre focado em buscar a excelência na área de Desenvolvimento.
+  
 <img align="right" height="150" width="200" alt="edvaldo" src="https://www.tecnoschool.com.ar/img/gif-portadas-cursos/entrenamiento-en-programacion2.gif">
 
 ## Contato 📬
