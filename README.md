@@ -167,23 +167,23 @@ Com mais de 10 anos de experiência como Analista Microsoft Certified, minha tra
             </td>
           </tr>
              <tr>
-            <td colspan="8" align="left"><strong>BACK-END II (Tirando Certificações**)</strong></td>
+            <td colspan="8" align="left"><strong>BACK-END II</strong></td>
           </tr>
 	       <td width="80px" align="center">
                 <span>Python</span><br>
                 <img height="32" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
               </td>
                 <td width="40px" align="center">
-                <span>Java**</span><br>
+                <span>Java</span><br>
                 <img height="37" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
               </td>          
             <td width="28px" align="center">
               <span>Flask</span><br>
-              <img height="50px" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" />
+              <img height="40px" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" />
             </td>
 	     <td width="28px" align="center">
              <span>Django</span><br>
-             <img height="50px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" />
+             <img height="40px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" />
            </td> 
 	   <td width="80px" align="center">
            <span>Algoritmos</span><br>
