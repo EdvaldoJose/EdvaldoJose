@@ -145,9 +145,9 @@ Com mais de 10 anos de experiência como Analista Microsoft Certified, minha tra
               <span>Docker</span><br>
               <img height="42px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />
             </td>
-             <td width="80px" align="center">
+             <td width="60px" align="center">
               <span>MySQL</span><br>
-              <img height="40px" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" />
+              <img height="50px" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" />
             </td>
             <td width="80px" align="center">
               <span>MongoDB</span><br>
