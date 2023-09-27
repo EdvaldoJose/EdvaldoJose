@@ -255,7 +255,7 @@ Com mais de 10 anos de experiência como Analista Microsoft Certified, minha tra
                   </td>
                    <td width="20px" align="center">
                 <span>GoogleCloud<span><br>
-                  <img height="37" width="" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" />
+                  <img height="35" width="" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" />
                   </td>
                    <td width="40px" align="center">
                 <span>Kubernetes</span><br>
