@@ -145,7 +145,7 @@ Com mais de 10 anos de experiência como Analista Microsoft Certified, minha tra
               <span>Docker</span><br>
               <img height="45px" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" />
             </td>
-             <td width="60px" align="center">
+             <td width="50px" align="center">
               <span>MySQL</span><br>
               <img height="52px" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" />
             </td>
