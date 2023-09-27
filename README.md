@@ -249,11 +249,11 @@ Com mais de 10 anos de experiência como Analista Microsoft Certified, minha tra
                 <span>GitHub</span><br>
                 <img height="40px" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" />                 
               </td> 
-               <td align="center">
+               <td width="30px" align="center">
                 <span>Aws<span><br>
                   <img height="40" width="50" src="https://img.icons8.com/color/256/amazon-web-services.png" />
                   </td>
-                   <td align="center">
+                   <td width="30px" align="center">
                 <span>GoogleCloud<span><br>
                   <img height="37" width="" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" />
                   </td>
