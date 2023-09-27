@@ -249,7 +249,7 @@ Com mais de 10 anos de experiência como Analista Microsoft Certified, minha tra
                 <span>GitHub</span><br>
                 <img height="40px" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" />                 
               </td> 
-               <td width="80px" align="center">
+               <td width="90px" align="center">
                 <span>VS Code</span><br>
                 <img height="32" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />
               </td>           
