@@ -181,7 +181,7 @@ Com mais de 10 anos de experiência como Analista Microsoft Certified, minha tra
               <span>Angular</span><br>
                <img height="32" width="32" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" />
               </td>  
-              <td width="30px" align="center">
+              <td width="38px" align="center">
               <span>Flask</span>
               <img height="42" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" />
             </td>
