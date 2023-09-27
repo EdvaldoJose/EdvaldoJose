@@ -147,7 +147,7 @@ Com mais de 10 anos de experiência como Analista Microsoft Certified, minha tra
             </td>
              <td width="80px" align="center">
               <span>MySQL</span><br>
-              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+              <img height="32px" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" />
             </td>
             <td width="80px" align="center">
               <span>MongoDB</span><br>
@@ -226,8 +226,8 @@ Com mais de 10 anos de experiência como Analista Microsoft Certified, minha tra
               <img height="32" src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" />
             </td>
            <td width="80px" align="center">
-             <span>Jasmine</span><br>
-             <img height="32" src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png" />
+             <span>Pytest</span><br>
+             <img height="40" src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png" />
            </td>
              <td width="80px" align="center">
              <span>ESLint</span><br>
@@ -235,7 +235,7 @@ Com mais de 10 anos de experiência como Analista Microsoft Certified, minha tra
            </td> 
 	   <td width="32px" align="center">
              <span>Nginx</span><br>
-             <img height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />
+             <img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />
            </td>         
             <tr>
              <td colspan="8" align="left"><strong>OTHER COMPONENTS</strong></td>
