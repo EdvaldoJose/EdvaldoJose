@@ -211,7 +211,7 @@ Com mais de 10 anos de experiência como Analista Microsoft Certified, minha tra
             </td>
             <td width="80px" align="center">
               <span>Jest</span><br>
-              <img height="32px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" />
+              <img height="32px" src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" />
             </td>
             <td width="80px" align="center">
               <span>Mocha</span><br>
@@ -219,11 +219,11 @@ Com mais de 10 anos de experiência como Analista Microsoft Certified, minha tra
             </td>
             <td width="80px" align="center">
               <span>Chai</span><br>
-              <img height="32px" src="https://www.vectorlogo.zone/logos/chaijs/chaijs-icon.svg" />
+              <img height="32px" src="https://user-images.githubusercontent.com/25181517/201476472-d2f5f644-cfc9-43e5-96d3-c8f40f18b5cb.png" />
             </td>            
             <td width="80px" align="center">
               <span>Cypress</span><br>
-              <img height="32" src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" />
+              <img height="32" src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" />
             </td>
              <td width="80px" align="center">
              <span>ESLint</span><br>
@@ -235,7 +235,7 @@ Com mais de 10 anos de experiência como Analista Microsoft Certified, minha tra
            </td>
 	   <td width="32px" align="center">
              <span>Nginx</span><br>
-             <img height="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />
+             <img height="45px" src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" />
            </td>         
             <tr>
              <td colspan="8" align="left"><strong>OTHER COMPONENTS</strong></td>
@@ -251,10 +251,10 @@ Com mais de 10 anos de experiência como Analista Microsoft Certified, minha tra
               </td>
               <td width="80px" align="center">
                 <span>GitHub</span><br>
-                <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />                 
+                <img height="32px" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" />                 
               </td> 
                <td align="center">
-                <span>Aws**<span><br>
+                <span>Aws<span><br>
                   <img height="40" width="50" src="https://img.icons8.com/color/256/amazon-web-services.png" />
                   </td>
                    <td align="center">
@@ -263,15 +263,15 @@ Com mais de 10 anos de experiência como Analista Microsoft Certified, minha tra
                   </td>
                    <td width="40px" align="center">
                 <span>Kubernetes</span><br>
-                <img height="37" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" />
+                <img height="37" src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png" />
               </td> 
                 <td width="80px" align="center">
                <span>Microsoft</span><br>
                <img height="32px" src="https://user-images.githubusercontent.com/96168296/232350672-71f212b2-1e87-406d-ab33-8bc0d8ea1f99.png" />
                </td>
                 <td width="" align="center">
-                <span>Linux</span><br>
-                <img height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+                <span>Ubuntu</span><br>
+                <img height="32" width="40" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" />
               </td>           
         </tbody>
       </table><br>
