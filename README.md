@@ -241,9 +241,9 @@ Com mais de 10 anos de experiência como Analista Microsoft Certified, minha tra
              <td colspan="8" align="left"><strong>OTHER COMPONENTS</strong></td>
             </tr>
             <tr valign="top">              
-                  <td width="80px" align="center">
-                <span>Git</span><br>
-                <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+            <td width="80px" align="center">
+             <span>Git</span><br>
+              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
               </td>
               <td width="80px" align="center">
                 <span>GitHub</span><br>
