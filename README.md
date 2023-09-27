@@ -183,7 +183,7 @@ Com mais de 10 anos de experiência como Analista Microsoft Certified, minha tra
               </td>  
               <td width="38px" align="center">
               <span>Flask</span>
-              <img height="42" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" />
+              <img height="45" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" />
             </td>
 	     <td width="25px" align="center">
              <span>Django</span>
@@ -249,6 +249,10 @@ Com mais de 10 anos de experiência como Analista Microsoft Certified, minha tra
                 <span>GitHub</span><br>
                 <img height="40px" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" />                 
               </td> 
+               <td width="80px" align="center">
+                <span>VS Code</span><br>
+                <img height="32" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />
+              </td>           
                <td width="30px" align="center">
                 <span>Aws<span><br>
                   <img height="40" width="50" src="https://img.icons8.com/color/256/amazon-web-services.png" />
@@ -261,10 +265,6 @@ Com mais de 10 anos de experiência como Analista Microsoft Certified, minha tra
                 <span>Kubernetes</span><br>
                 <img height="32" src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png" />
               </td> 
-               <td width="80px" align="center">
-                <span>VS Code</span><br>
-                <img height="32" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />
-              </td>           
                 <td width="80px" align="center">
                <span>Microsoft</span><br>
                <img height="32px" src="https://user-images.githubusercontent.com/96168296/232350672-71f212b2-1e87-406d-ab33-8bc0d8ea1f99.png" />
