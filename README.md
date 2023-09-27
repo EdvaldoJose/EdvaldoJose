@@ -139,7 +139,7 @@ Com mais de 10 anos de experiência como Analista Microsoft Certified, minha tra
             </td>
            <td width="80px" align="center">
               <span>Express</span><br>
-              <img height="40px" src="hhttps://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png">
+              <img height="40px" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png">
             </td>
              <td width="80px" align="center">
               <span>Docker</span><br>
