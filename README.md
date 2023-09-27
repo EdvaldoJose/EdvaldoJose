@@ -65,7 +65,7 @@ Com mais de 10 anos de experiência como Analista Microsoft Certified, minha tra
       </td>
     </tr>
   </tbody>
-</table><br>
+</table>
 
 ## Meu Portifolio e contatos 💼
 <table width="10px">
