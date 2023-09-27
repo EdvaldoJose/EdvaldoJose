@@ -271,7 +271,7 @@ Com mais de 10 anos de experiência como Analista Microsoft Certified, minha tra
                </td>
                 <td width="" align="center">
                 <span>Ubuntu</span><br>
-                <img height="22" width="38" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" />
+                <img height="32" width="40" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" />
               </td>           
         </tbody>
       </table><br>
