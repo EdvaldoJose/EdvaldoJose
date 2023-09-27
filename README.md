@@ -139,7 +139,7 @@ Com mais de 10 anos de experiência como Analista Microsoft Certified, minha tra
             </td>
            <td width="80px" align="center">
               <span>Express</span><br>
-              <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
+              <img height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
             </td>
              <td width="80px" align="center">
               <span>Docker</span><br>
@@ -147,7 +147,7 @@ Com mais de 10 anos de experiência como Analista Microsoft Certified, minha tra
             </td>
              <td width="60px" align="center">
               <span>MySQL</span><br>
-              <img height="40px" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" />
+              <img height="52px" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" />
             </td>
             <td width="80px" align="center">
               <span>MongoDB</span><br>
@@ -183,7 +183,7 @@ Com mais de 10 anos de experiência como Analista Microsoft Certified, minha tra
               </td>  
               <td width="20px" align="center">
               <span>Flask</span>
-              <img height="500" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" />
+              <img height="50" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" />
             </td>
 	     <td width="25px" align="center">
              <span>Django</span>
