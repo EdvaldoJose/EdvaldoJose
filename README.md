@@ -35,8 +35,7 @@ Com mais de 10 anos de experiência como Analista Microsoft Certified, minha tra
 - E-mail: edvaldojose.dev@gmail.com
 - LinkedIn: https://www.linkedin.com/in/edvaldo-jose/
 - WhatsApp: [71-98557-2721](cel:71-985572721)
-<br><br>
-
+  
 ## Minhas redes sociais 📱
 <table width="10px">
   <tbody>
