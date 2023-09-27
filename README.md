@@ -139,7 +139,7 @@ Com mais de 10 anos de experiência como Analista Microsoft Certified, minha tra
             </td>
            <td width="80px" align="center">
               <span>Express</span><br>
-              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
+              <img height="40px" src="hhttps://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png">
             </td>
              <td width="80px" align="center">
               <span>Docker</span><br>
@@ -235,7 +235,7 @@ Com mais de 10 anos de experiência como Analista Microsoft Certified, minha tra
            </td>
 	   <td width="32px" align="center">
              <span>Nginx</span><br>
-             <img height="45px" src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" />
+             <img height="40px" src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" />
            </td>         
             <tr>
              <td colspan="8" align="left"><strong>OTHER COMPONENTS</strong></td>
@@ -251,7 +251,7 @@ Com mais de 10 anos de experiência como Analista Microsoft Certified, minha tra
               </td>
               <td width="80px" align="center">
                 <span>GitHub</span><br>
-                <img height="32px" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" />                 
+                <img height="40px" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" />                 
               </td> 
                <td align="center">
                 <span>Aws<span><br>
@@ -271,7 +271,7 @@ Com mais de 10 anos de experiência como Analista Microsoft Certified, minha tra
                </td>
                 <td width="" align="center">
                 <span>Ubuntu</span><br>
-                <img height="32" width="40" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" />
+                <img height="28" width="40" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" />
               </td>           
         </tbody>
       </table><br>
