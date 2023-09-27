@@ -253,7 +253,7 @@ Com mais de 10 anos de experiência como Analista Microsoft Certified, minha tra
                 <span>Aws<span><br>
                   <img height="40" width="50" src="https://img.icons8.com/color/256/amazon-web-services.png" />
                   </td>
-                   <td width="30px" align="center">
+                   <td width="20px" align="center">
                 <span>GoogleCloud<span><br>
                   <img height="37" width="" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" />
                   </td>
