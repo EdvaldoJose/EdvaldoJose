@@ -141,6 +141,10 @@ Com mais de 10 anos de experiência como Analista Microsoft Certified, minha tra
               <span>Express</span><br>
               <img height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
             </td>
+            <td width="80px" align="center">
+              <span>NodeJS</span><br>
+              <img height="32px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
+            </td>           
              <td width="60px" align="center">
               <span>Docker</span><br>
               <img height="45px" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" />
@@ -152,10 +156,6 @@ Com mais de 10 anos de experiência como Analista Microsoft Certified, minha tra
             <td width="80px" align="center">
               <span>MongoDB</span><br>
               <img height="42px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />
-            </td>           
-            <td width="80px" align="center">
-              <span>NodeJS</span><br>
-              <img height="32px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
             </td>           
             <td width="80px" align="center">
               <span>Sequelize</span><br>
