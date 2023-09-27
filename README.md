@@ -20,7 +20,7 @@
 Com mais de 10 anos de experiência como Analista Microsoft Certified, minha trajetória se concentrou na implementação de tecnologias em segurança, infraestrutura de rede e servidores. Busco agregar valor a projetos, com um foco claro no crescimento a longo prazo. Meu objetivo é aprimorar constantemente minha especialização em tecnologia, contribuindo para projetos impactantes. Minhas áreas de interesse incluem JavaScript, Python e Java, com o propósito de me destacar como Desenvolvedor Back-end. Determinado, estou em busca de certificações em AWS, Google CLOUD e IA para aprimorar minhas habilidades e me tornar um desenvolvedor ainda mais versátil e capaz. Meu sonho é integrar uma equipe que construa projetos tecnológicos impactantes na vida das pessoas. Estou comprometido com minha carreira no Desenvolvimento de Software, sempre em busca de inovação e excelência técnica.
 
 ## Sobre Mim 👨
-<!--<img align="right" src="https://user-images.githubusercontent.com/96168296/232656308-9affede6-2278-4606-97be-7ed26fb298c7.gif" alt="Coder GIF" width="200" height="185">-->
+<!--<img align="right" height="150" width="200" alt="edvaldo" src="https://www.tecnoschool.com.ar/img/gif-portadas-cursos/entrenamiento-en-programacion2.gif">-->
 
 - 🇧🇷 Sou natural de Salvador, Bahia.
 - 👨‍💻 Atualmente, estou concluindo o curso de Desenvolvimento Web Full Stack pela Trybe, o que tem ampliando minha base de conhecimento técnico.
@@ -28,12 +28,12 @@ Com mais de 10 anos de experiência como Analista Microsoft Certified, minha tra
 - 🥇 Colaborar nos permite superar desafios e alcançar metas extraordinárias juntos, colaboração e o trabalho em equipe são a chave para o sucesso.
 - 🥇 Determinado a aprimorar minhas habilidades e conhecimentos, estou sempre focado em buscar a excelência na área de Desenvolvimento.
   
-<img align="right" height="150" width="200" alt="edvaldo" src="https://www.tecnoschool.com.ar/img/gif-portadas-cursos/entrenamiento-en-programacion2.gif">
 ## Contato 📬
 
 - E-mail: edvaldojose.dev@gmail.com
 - LinkedIn: https://www.linkedin.com/in/edvaldo-jose/
 - WhatsApp: [71-98557-2721](cel:71-985572721)
+<img align="right" src="https://user-images.githubusercontent.com/96168296/232656308-9affede6-2278-4606-97be-7ed26fb298c7.gif" alt="Coder GIF" width="200" height="185">
 
 ## Minhas redes sociais 📱
 <table width="10px">
