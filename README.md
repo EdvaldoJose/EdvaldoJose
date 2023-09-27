@@ -227,7 +227,7 @@ Com mais de 10 anos de experiência como Analista Microsoft Certified, minha tra
             </td>
            <td width="80px" align="center">
              <span>Jasmine</span><br>
-             <img height="32" src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" />
+             <img height="32" src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png" />
            </td>
              <td width="80px" align="center">
              <span>ESLint</span><br>
