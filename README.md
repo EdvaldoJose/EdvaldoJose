@@ -235,7 +235,7 @@ Com mais de 10 anos de experiência como Analista Microsoft Certified, minha tra
            </td> 
              <td align="center">
               <span>Insomnia</span><br>
-               <img height="32" width="32" src="https://raw.githubusercontent.com/keeferrourke/la-capitaine-icon-theme/8370e7c8f1fbbfdb66f08a325a6c1cd8b932afb3/apps/scalable/insomnia.svg" />
+               <img height="32" width="32" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" />
               </td>          
             <tr>
              <td colspan="8" align="left"><strong>OTHER COMPONENTS</strong></td>
@@ -258,11 +258,11 @@ Com mais de 10 anos de experiência como Analista Microsoft Certified, minha tra
                   <img height="40" width="50" src="https://img.icons8.com/color/256/amazon-web-services.png" />
                   </td>
                    <td align="center">
-                <span>GoogleCloud**<span><br>
+                <span>GoogleCloud<span><br>
                   <img height="37" width="" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" />
                   </td>
                    <td width="40px" align="center">
-                <span>Kubernetes**</span><br>
+                <span>Kubernetes</span><br>
                 <img height="37" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" />
               </td> 
                 <td width="80px" align="center">
