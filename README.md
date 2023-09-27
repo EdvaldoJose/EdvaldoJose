@@ -183,7 +183,7 @@ Com mais de 10 anos de experiência como Analista Microsoft Certified, minha tra
               </td>  
               <td width="25px" align="center">
               <span>Flask</span>
-              <img height="60" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" />
+              <img height="60" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" />
             </td>
 	     <td width="25px" align="center">
              <span>Django</span>
