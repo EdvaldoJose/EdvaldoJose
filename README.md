@@ -241,10 +241,6 @@ Com mais de 10 anos de experiência como Analista Microsoft Certified, minha tra
              <td colspan="8" align="left"><strong>OTHER COMPONENTS</strong></td>
             </tr>
             <tr valign="top">              
-                   <td width="80px" align="center">
-                <span>VS Code</span><br>
-                <img height="32" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />
-              </td>           
                   <td width="80px" align="center">
                 <span>Git</span><br>
                 <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
@@ -265,6 +261,10 @@ Com mais de 10 anos de experiência como Analista Microsoft Certified, minha tra
                 <span>Kubernetes</span><br>
                 <img height="32" src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png" />
               </td> 
+               <td width="80px" align="center">
+                <span>VS Code</span><br>
+                <img height="32" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />
+              </td>           
                 <td width="80px" align="center">
                <span>Microsoft</span><br>
                <img height="32px" src="https://user-images.githubusercontent.com/96168296/232350672-71f212b2-1e87-406d-ab33-8bc0d8ea1f99.png" />
