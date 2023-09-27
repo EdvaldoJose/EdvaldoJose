@@ -22,12 +22,12 @@ Com mais de 10 anos de experiência como Analista Microsoft Certified, minha tra
 ## Sobre Mim 👨
 <!--<img align="right" src="https://user-images.githubusercontent.com/96168296/232656308-9affede6-2278-4606-97be-7ed26fb298c7.gif" alt="Coder GIF" width="200" height="185">-->
 
-<img align="right" height="150" width="200" alt="edvaldo" src="https://www.tecnoschool.com.ar/img/gif-portadas-cursos/entrenamiento-en-programacion2.gif">
 - 🇧🇷 Sou natural de Salvador, Bahia.
 - 👨‍💻 Atualmente, estou concluindo o curso de Desenvolvimento Web Full Stack pela Trybe, o que tem ampliando minha base de conhecimento técnico.
 - 🤝 Acredito no valor do trabalho em equipe, pois, como diz o provérbio, "Se quer correr🏃‍♂️, vá sozinho; se quer ir longe, trabalhe em equipe".
 - 🥇 Colaborar nos permite superar desafios e alcançar metas extraordinárias juntos, colaboração e o trabalho em equipe são a chave para o sucesso.
 - 🥇 Determinado a aprimorar minhas habilidades e conhecimentos, estou sempre focado em buscar a excelência na área de Desenvolvimento.
+<img align="right" height="150" width="200" alt="edvaldo" src="https://www.tecnoschool.com.ar/img/gif-portadas-cursos/entrenamiento-en-programacion2.gif">
 
 ## Contato 📬
 
