@@ -137,14 +137,18 @@ Com mais de 10 anos de experiência como Analista Microsoft Certified, minha tra
               <span>TypeScript</span><br>
               <img height="32px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" />
             </td>
-           <td width="80px" align="center">
-              <span>Express</span><br>
-              <img height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
-            </td>
+	    <td align="center">
+              <span>Angular</span><br>
+               <img height="32" width="32" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" />
+              </td>  
             <td width="80px" align="center">
               <span>NodeJS</span><br>
               <img height="32px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" />
             </td>           
+           <td width="80px" align="center">
+              <span>Express</span><br>
+              <img height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
+            </td>
             <td width="80px" align="center">
               <span>Npm</span><br>
               <img height="32px" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"/>
@@ -169,10 +173,6 @@ Com mais de 10 anos de experiência como Analista Microsoft Certified, minha tra
              <tr>
             <td colspan="8" align="left"><strong>BACK-END II</strong></td>
           </tr>
-	    <td align="center">
-              <span>Angular</span><br>
-               <img height="32" width="32" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" />
-              </td>  
 	       <td width="80px" align="center">
                 <span>Python</span><br>
                 <img height="32" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
