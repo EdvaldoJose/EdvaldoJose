@@ -177,12 +177,12 @@ Com mais de 10 anos de experiência como Analista Microsoft Certified, minha tra
                 <span>Java</span><br>
                 <img height="37" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
               </td>
-		             <td align="center">
+		<td align="center">
               <span>Angular</span><br>
                <img height="32" width="32" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" />
               </td>  
-              <td width="32px" align="center">
-              <span></span>
+              <td width="20px" align="center">
+              <span>Flask</span>
               <img height="40" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" />
             </td>
 	     <td width="25px" align="center">
