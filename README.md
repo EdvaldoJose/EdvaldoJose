@@ -139,15 +139,15 @@ Com mais de 10 anos de experiência como Analista Microsoft Certified, minha tra
             </td>
            <td width="80px" align="center">
               <span>Express</span><br>
-              <img height="45px" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png">
+              <img height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
             </td>
              <td width="80px" align="center">
-              <span></span><br>
-              <img height="80px" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" />
+              <span>Docker</span><br>
+              <img height="40px" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" />
             </td>
              <td width="60px" align="center">
-              <span></span><br>
-              <img height="80px" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" />
+              <span>MySQL</span><br>
+              <img height="40px" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" />
             </td>
             <td width="80px" align="center">
               <span>MongoDB</span><br>
@@ -182,8 +182,8 @@ Com mais de 10 anos de experiência como Analista Microsoft Certified, minha tra
                <img height="32" width="32" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" />
               </td>  
               <td width="20px" align="center">
-              <span>F</span>
-              <img height="80" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" />
+              <span>Flask</span>
+              <img height="500" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" />
             </td>
 	     <td width="25px" align="center">
              <span>Django</span>
