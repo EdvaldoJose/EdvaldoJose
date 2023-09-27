@@ -288,7 +288,8 @@ Com mais de 10 anos de experiência como Analista Microsoft Certified, minha tra
  <a align="left"> <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/pin/?username=EdvaldoJose&theme=blue-green&repo=github-readme-stats" alt="EdvaldoJose github stats" /></a>
 </div>
 
-  ![github contribution grid snake animation](https://raw.githubusercontent.com/Eliedson1979/Eliedson1979/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Eliedson1979/Eliedson1979/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/Eliedson1979/Eliedson1979/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/Eliedson1979/Eliedson1979/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 		       
 ## Atividade no Site 📈
 <div align="center">
