@@ -183,11 +183,11 @@ Com mais de 10 anos de experiência como Analista Microsoft Certified, minha tra
               </td>  
               <td width="25px" align="center">
               <span>Flask</span>
-              <img height="32" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" />
+              <img height="40" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" />
             </td>
 	     <td width="25px" align="center">
              <span>Django</span>
-             <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" />
+             <img height="40" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" />
            </td> 
 	   <td width="80px" align="center">
            <span>Algoritmos</span><br>
