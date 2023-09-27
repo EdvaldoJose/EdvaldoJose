@@ -29,13 +29,13 @@ Com mais de 10 anos de experiência como Analista Microsoft Certified, minha tra
 - 🥇 Determinado a aprimorar minhas habilidades e conhecimentos, estou sempre focado em buscar a excelência na área de Desenvolvimento.
   
 ## Contato 📬
-
 <img align="right" src="https://user-images.githubusercontent.com/96168296/232656308-9affede6-2278-4606-97be-7ed26fb298c7.gif" alt="Coder GIF" width="200" height="185">
-<br>
+
 - E-mail: edvaldojose.dev@gmail.com
 - LinkedIn: https://www.linkedin.com/in/edvaldo-jose/
 - WhatsApp: [71-98557-2721](cel:71-985572721)
 <br>
+
 ## Minhas redes sociais 📱
 <table width="10px">
   <tbody>
