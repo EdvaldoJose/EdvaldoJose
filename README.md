@@ -29,7 +29,6 @@ Com mais de 10 anos de experiência como Analista Microsoft Certified, minha tra
 - 🥇 Determinado a aprimorar minhas habilidades e conhecimentos, estou sempre focado em buscar a excelência na área de Desenvolvimento.
   
 <img align="right" height="150" width="200" alt="edvaldo" src="https://www.tecnoschool.com.ar/img/gif-portadas-cursos/entrenamiento-en-programacion2.gif">
-
 ## Contato 📬
 
 - E-mail: edvaldojose.dev@gmail.com
