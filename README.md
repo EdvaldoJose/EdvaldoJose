@@ -141,9 +141,9 @@ Com mais de 10 anos de experiência como Analista Microsoft Certified, minha tra
               <span>Express</span><br>
               <img height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
             </td>
-             <td width="80px" align="center">
+             <td width="60px" align="center">
               <span>Docker</span><br>
-              <img height="40px" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" />
+              <img height="45px" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" />
             </td>
              <td width="60px" align="center">
               <span>MySQL</span><br>
