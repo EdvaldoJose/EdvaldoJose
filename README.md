@@ -291,9 +291,9 @@ Com mais de 10 anos de experiência como Analista Microsoft Certified, minha tra
 <p align="centre"><b>VISITANTES</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{EdvaldoJose}/count.svg" /></p> 
 </div>
-<div align="center">
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EdvaldoJose&theme=gotham)](https://github.com/EdvaldoJose/github-readme-activity-graph)
-</div>
+
 ## Framework Use 🚥
 <div>
 <img src="https://img.shields.io/badge/JavaScript-Otimo-green"></img>
