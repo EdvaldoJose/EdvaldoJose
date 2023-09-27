@@ -185,11 +185,11 @@ Com mais de 10 anos de experiência como Analista Microsoft Certified, minha tra
              <span>Django</span><br>
              <img height="50px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" />
            </td> 
-             <td width="32px" align="center">
-             <span>Nginx</span><br>
-             <img height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />
-           </td>
-             <td width="90px" align="center">
+	   <td width="80px" align="center">
+           <span>Algoritmos</span><br>
+           <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/thealgorithms/thealgorithms-original.svg" />
+           </td>	
+           <td width="90px" align="center">
              <span>MSC</span><br>
              <img height="32px" src="https://user-images.githubusercontent.com/96168296/232324476-9102fc89-b213-4038-b778-bb6ca9bc0cbf.png" />
            </td> 
@@ -197,11 +197,11 @@ Com mais de 10 anos de experiência como Analista Microsoft Certified, minha tra
              <span>POO</span><br>
              <img height="32px" src="https://user-images.githubusercontent.com/96168296/232327980-9879eec2-daa9-477a-b087-bfa0c6d95d5c.png" />
            </td> 
-	   <td width="80px" align="center">
-                <span>Algoritmos</span><br>
-                <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/thealgorithms/thealgorithms-original.svg" />
-              </td>
-          <tr>
+	    <td width="32px" align="center">
+             <span>Nginx</span><br>
+             <img height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />
+           </td>
+	   <tr>
             <td colspan="8" align="left"><strong>TESTS</strong></td>
           </tr>
           <tr valign="top">
