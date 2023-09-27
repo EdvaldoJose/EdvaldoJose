@@ -234,7 +234,7 @@ Com mais de 10 anos de experiência como Analista Microsoft Certified, minha tra
              <img height="32" src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" />
            </td> 
              <td align="center">
-              <span>Insomnia</span><br>
+              <span>Angular</span><br>
                <img height="32" width="32" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" />
               </td>          
             <tr>
