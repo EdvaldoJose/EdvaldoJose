@@ -179,11 +179,11 @@ Com mais de 10 anos de experiência como Analista Microsoft Certified, minha tra
               </td>          
             <td width="50px" align="center">
               <span>Flask</span><br>
-              <img height="40px" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" />
+              <img height="50px" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" />
             </td>
 	     <td width="50px" align="center">
              <span>Django</span><br>
-             <img height="40px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" />
+             <img height="50px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" />
            </td> 
 	   <td width="80px" align="center">
            <span>Algoritmos</span><br>
