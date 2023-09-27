@@ -176,8 +176,12 @@ Com mais de 10 anos de experiência como Analista Microsoft Certified, minha tra
                 <td width="40px" align="center">
                 <span>Java</span><br>
                 <img height="37" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
-              </td>          
-            <td width="25px" align="center">
+              </td>
+		             <td align="center">
+              <span>Angular</span><br>
+               <img height="32" width="32" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" />
+              </td>  
+              <td width="25px" align="center">
               <span>Flask</span>
               <img height="60" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" />
             </td>
@@ -197,10 +201,6 @@ Com mais de 10 anos de experiência como Analista Microsoft Certified, minha tra
              <span>POO</span><br>
              <img height="32px" src="https://user-images.githubusercontent.com/96168296/232327980-9879eec2-daa9-477a-b087-bfa0c6d95d5c.png" />
            </td> 
-	    <td width="32px" align="center">
-             <span>Nginx</span><br>
-             <img height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />
-           </td>
 	   <tr>
             <td colspan="8" align="left"><strong>TESTS</strong></td>
           </tr>
@@ -233,10 +233,10 @@ Com mais de 10 anos de experiência como Analista Microsoft Certified, minha tra
              <span>ESLint</span><br>
              <img height="32" src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" />
            </td> 
-             <td align="center">
-              <span>Angular</span><br>
-               <img height="32" width="32" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png" />
-              </td>          
+	   <td width="32px" align="center">
+             <span>Nginx</span><br>
+             <img height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />
+           </td>         
             <tr>
              <td colspan="8" align="left"><strong>OTHER COMPONENTS</strong></td>
             </tr>
