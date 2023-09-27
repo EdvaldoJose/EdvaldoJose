@@ -147,7 +147,7 @@ Com mais de 10 anos de experiência como Analista Microsoft Certified, minha tra
             </td>
              <td width="80px" align="center">
               <span>MySQL</span><br>
-              <img height="32px" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" />
+              <img height="40px" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" />
             </td>
             <td width="80px" align="center">
               <span>MongoDB</span><br>
@@ -225,14 +225,14 @@ Com mais de 10 anos de experiência como Analista Microsoft Certified, minha tra
               <span>Cypress</span><br>
               <img height="32" src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" />
             </td>
-           <td width="80px" align="center">
-             <span>Pytest</span><br>
-             <img height="42" src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png" />
-           </td>
              <td width="80px" align="center">
              <span>ESLint</span><br>
              <img height="32" src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" />
            </td> 
+           <td width="80px" align="center">
+             <span>Pytest</span><br>
+             <img height="42" src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png" />
+           </td>
 	   <td width="32px" align="center">
              <span>Nginx</span><br>
              <img height="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />
