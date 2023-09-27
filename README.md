@@ -263,7 +263,7 @@ Com mais de 10 anos de experiência como Analista Microsoft Certified, minha tra
                   </td>
                    <td width="40px" align="center">
                 <span>Kubernetes</span><br>
-                <img height="35" src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png" />
+                <img height="32" src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png" />
               </td> 
                 <td width="80px" align="center">
                <span>Microsoft</span><br>
@@ -271,7 +271,7 @@ Com mais de 10 anos de experiência como Analista Microsoft Certified, minha tra
                </td>
                 <td width="" align="center">
                 <span>Ubuntu</span><br>
-                <img height="25" width="40" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" />
+                <img height="25" width="38" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" />
               </td>           
         </tbody>
       </table><br>
