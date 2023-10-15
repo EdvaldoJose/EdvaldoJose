@@ -17,7 +17,7 @@
 
 <h2 align="left">👋 Olá, sou Edvaldo José</h2>
 <h3>Desenvolvedor Full Stack apaixonado por tecnologia.</h3>
-Com mais de 10 anos de experiência como Analista Microsoft Certified, minha trajetória se concentrou na implementação de tecnologias em segurança, infraestrutura de rede e servidores. Busco agregar valor a projetos, com um foco claro no crescimento a longo prazo. Meu objetivo é aprimorar constantemente minha especialização em tecnologia, contribuindo para projetos impactantes. Minhas áreas de interesse incluem JavaScript, Python e Java, com o propósito de me destacar como Desenvolvedor Back-end. Determinado, estou em busca de certificações em AWS, Google CLOUD e IA para aprimorar minhas habilidades e me tornar um desenvolvedor ainda mais versátil e capaz. Meu sonho é integrar uma equipe que construa projetos tecnológicos impactantes na vida das pessoas. Estou comprometido com minha carreira no Desenvolvimento de Software, sempre em busca de inovação e excelência técnica.
+Com mais de 10 anos de experiência em segurança, infraestrutura de rede e servidores. Meu foco está no aprimoramento constante, com interesse em JavaScript, Python e Java para me destacar como Desenvolvedor Back-end. Estou determinado a obter certificações em AWS, Google Cloud e IA, buscando me tornar um desenvolvedor versátil. Meu objetivo é integrar equipes que desenvolvem projetos tecnológicos impactantes.
 
 ## Sobre Mim 👨
 <!--<img align="right" height="150" width="200" alt="edvaldo" src="https://www.tecnoschool.com.ar/img/gif-portadas-cursos/entrenamiento-en-programacion2.gif">-->
