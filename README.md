@@ -17,7 +17,7 @@
 
 <h2 align="left">👋 Olá, sou Edvaldo José</h2>
 <h3>Desenvolvedor Web Full Stack.</h3>
-apaixonado por tecnologia, com mais de 10 anos de experiência como Analista Microsoft Certified Server, especializado em segurança, infraestrutura de rede e servidores. Comprometido em adicionar valor a projetos com foco no crescimento a longo prazo, minhas áreas de interesse abrangem as linguagens JAVASCRIPT, PYTHON e JAVA, visando destacar-me como Desenvolvedor BACK-END.<br> 
+apaixonado por tecnologia, com mais de 10 anos de experiência como Analista Microsoft Certified Server, especializado em segurança, infraestrutura de rede e servidores. Comprometido em adicionar valor a projetos com foco no crescimento a longo prazo, minhas áreas de interesse abrangem as linguagens JavaScripit, Python e Java, visando destacar-me como Desenvolvedor BACK-END.<br> 
 Determinado a buscar certificações em AWS, Google Cloud e IA para aprimorar minhas habilidades e tornar-me um desenvolvedor versátil. Meu sonho é integrar equipes que desenvolvem projetos tecnológicos impactantes, e estou comprometido com minha carreira em Desenvolvimento de Software, sempre buscando inovação e excelência técnica.
 
 ## Sobre Mim 👨
