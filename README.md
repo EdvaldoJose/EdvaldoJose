@@ -273,8 +273,8 @@ Estou determinado a buscar certificações em nuvem AWS, Google Cloud e IA para 
                <img height="32px" src="https://user-images.githubusercontent.com/96168296/232350672-71f212b2-1e87-406d-ab33-8bc0d8ea1f99.png" />
                </td>
                 <td width="" align="center">
-                <span>Ubuntu</span><br>
-                <img height="32" width="32" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" />
+                <span>Linux</span><br>
+                <img height="32" width="32" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />
               </td>           
         </tbody>
       </table><br>
