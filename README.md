@@ -25,7 +25,7 @@ Estou determinado a obter certificações em nuvem, como AWS e Google Cloud, al�
 <!--<img align="right" height="150" width="200" alt="edvaldo" src="https://www.tecnoschool.com.ar/img/gif-portadas-cursos/entrenamiento-en-programacion2.gif">-->
 
 - 🇧🇷 Sou natural de Salvador, Bahia.
-- 👨‍💻 Atualmente, estou concluindo o curso de Desenvolvimento Web Full Stack pela Trybe, o que tem ampliando minha base de conhecimento técnico.
+- 👨‍💻 Atualmente, estou concluindo o curso de Desenvolvimento Web Full Stack com especialição em Python e Java pela Trybe, o que tem ampliando minha base de conhecimento técnico.
 - 🤝 Acredito no valor do trabalho em equipe, pois, como diz o provérbio, "Se quer correr🏃‍♂️, vá sozinho; se quer ir longe, trabalhe em equipe".
 - 🥇 Colaborar nos permite superar desafios e alcançar metas extraordinárias juntos, colaboração e o trabalho em equipe são a chave para o sucesso.
 - 🥇 Determinado a aprimorar minhas habilidades e conhecimentos, estou sempre focado em buscar a excelência na área de Desenvolvimento.<br>
@@ -48,6 +48,7 @@ Estou determinado a obter certificações em nuvem, como AWS e Google Cloud, al�
       </td>
       <td width="30px" align="center">
       <span>Twitter</span><br>
+
 <a href="https://twitter.com/edvaldojose003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="edvaldojose003" height="35" width="35" /></a>
       </td>
       <td width="30px" align="center">
