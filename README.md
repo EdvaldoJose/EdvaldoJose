@@ -3,6 +3,7 @@
   <head>
 <!-- 	<style>
     img {
+
       border-radius: 10px;
       border: 2px solid black;
       float: right;
@@ -17,7 +18,7 @@
 
 <h2 align="left">👋 Olá, eu me chamo Edvaldo José</h2>
 <h3>Sou Desenvolvedor Web Full Stack.</h3>
-Sou um entusiasta de tecnologia com uma sólida experiência como Analista Microsoft Certified Server, especializado em segurança e infraestrutura de rede. Além disso, sou um Desenvolvedor Web Full Stack Jr. com especialização em Python e Java, concluir o curso de formação em desenvolvimento web em 2023 pela Trybe com mais de 39 projetos concluídos e publicados no GitHub.
+Sou um entusiasta de tecnologia com experiência como Analista Microsoft Certified Server, especializado em segurança e infraestrutura de rede. Além disso, sou um Desenvolvedor Web Full Stack Jr. com especialização em Python e Java, concluir o curso de formação em desenvolvimento web em 2023 pela Trybe com mais de 39 projetos concluídos e publicados no GitHub.
 Com compromisso em agregar valor a projetos com perspectivas de crescimento a longo prazo.
 <br>
 <h2>Objetivos Futuros</h2>
