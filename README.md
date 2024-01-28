@@ -17,19 +17,33 @@
 
 <h2 align="left">👋 Olá, eu me chamo Edvaldo José</h2>
 <h3>Sou Desenvolvedor Web Full Stack.</h3>
-Apaixonado por tecnologia. Possuo experiência como Analista Microsoft Certified Server, com especialização em segurança, infraestrutura de rede e Servidores. Meu compromisso é agregar valor a projetos com perspectivas de crescimento a longo prazo. Minhas áreas de interesse incluem as linguagens JavaScript, Python e Java, com foco específico em me destacar como Desenvolvedor BACK-END e Analista Cloud.<br>
+Desenvolvedor Web Full Stack com paixão pela tecnologia.
+
+Experiência como Analista Microsoft Certified Server, com especialização em segurança, infraestrutura de rede e Servidores.
+
+Compromisso em agregar valor a projetos com perspectivas de crescimento a longo prazo.
 <br>
-Estou determinado a obter certificações em nuvem, como Cloud AWS e Google Cloud, além de certificações em Inteligência Artificial, a fim de aprimorar minhas habilidades e me tornar um desenvolvedor versátil e capaz. Almejo integrar equipes líderes em projetos tecnológicos impactantes. Mantenho meu compromisso com minha carreira em Desenvolvimento de Software, buscando incessantemente inovação e excelência técnica.
+<h2></h2>Objetivos Futuros>/h2>
+
+Busco obter certificações em nuvem, como Cloud AWS e Google Cloud, e certificações em Inteligência Artificial para aprimorar minhas habilidades e me tornar um desenvolvedor versátil.
+
+Almejo integrar equipes líderes em projetos tecnológicos impactantes, acreditando que a colaboração e o trabalho conjunto são a chave para superar desafios e alcançar metas extraordinárias.
+
+Mantenho meu compromisso com a carreira em Desenvolvimento de Software, buscando incessantemente inovação e excelência técnica.
 
 ## Sobre Mim 👨
 <!--<img align="right" height="150" width="200" alt="edvaldo" src="https://www.tecnoschool.com.ar/img/gif-portadas-cursos/entrenamiento-en-programacion2.gif">-->
 
-- 🇧🇷 Sou natural de Salvador, Bahia.
-- Concluir o curso de formação em desenvolvimento web Full Stack com especialição em Python em 2023 pela Trybe, com mais de 39 projetos concluídos e publicados no GitHub.
-- 👨‍💻 Atualmente, estou finalizando uma Certificação em Java e estudando Arquitetura Cloud, focando em AWS (Amazon Web Services) e GCP (Google Cloud Platform) com especialização em Cloud Engineering.
-- 🤝 Acredito no valor do trabalho em equipe, pois, como diz o provérbio, "Se quer correr🏃‍♂️, vá sozinho; se quer ir longe, trabalhe em equipe".
-- 🥇 Colaborar nos permite superar desafios e alcançar metas extraordinárias juntos, colaboração e o trabalho em equipe são a chave para o sucesso.
-- 🥇 Determinado a aprimorar minhas habilidades e conhecimentos, estou sempre focado em buscar a excelência na área de Desenvolvimento.<br>
+Natural de Salvador, Bahia.
+
+Concluí o curso de formação em Desenvolvimento Web Full Stack com especialização em Python em 2023 pela Trybe, realizando mais de 39 projetos publicados no GitHub.
+
+Atualmente, estou finalizando a Certificação em Java e aprofundando meus estudos em Arquitetura Cloud, com foco em AWS (Amazon Web Services) e GCP (Google Cloud Platform) com especialização em Cloud Engineering.
+
+Acredito no valor do trabalho em equipe, seguindo o provérbio: "Se quer correr, vá sozinho; se quer ir longe, trabalhe em equipe". A colaboração e o trabalho em equipe são fundamentais para o sucesso.
+
+Determinado a aprimorar minhas habilidades e conhecimentos, estou sempre focado em buscar a excelência na área de Desenvolvimento.
+<br>
 
 <img align="right" src="https://user-images.githubusercontent.com/96168296/232656308-9affede6-2278-4606-97be-7ed26fb298c7.gif" alt="Coder GIF" width="200" height="185">
 
