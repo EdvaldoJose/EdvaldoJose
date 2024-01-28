@@ -18,8 +18,7 @@
 
 <h2 align="left">👋 Olá, eu me chamo Edvaldo José</h2>
 <h3>Sou Desenvolvedor Web Full Stack.</h3>
-Sou um entusiasta de tecnologia com experiência como Analista Microsoft Certified Server, especializado em segurança e infraestrutura de rede. Além disso, sou um Desenvolvedor Web Full Stack Jr. com especialização em Python e Java, concluir o curso de formação em desenvolvimento web em 2023 pela Trybe com mais de 50 projetos concluídos e publicados no GitHub.
-Com compromisso em agregar valor a projetos com perspectivas de crescimento a longo prazo.
+Sou um entusiasta de tecnologia com experiência como Analista Microsoft Certified Server, especializado em segurança e infraestrutura de rede. Além disso, sou um Desenvolvedor Web Full Stack Jr. com especialização em Python e Java. Com compromisso em agregar valor a projetos com perspectivas de crescimento a longo prazo.
 <br>
 <h2>Objetivos Futuros</h2>
 Busco obter certificações em nuvem, como Cloud AWS e Google Cloud, e certificações em Inteligência Artificial para aprimorar minhas habilidades e me tornar um desenvolvedor versátil.
@@ -33,9 +32,9 @@ Mantenho meu compromisso com a carreira em Desenvolvimento de Software, buscando
 
 Natural de Salvador, Bahia.
 
-Concluí o curso de formação em Desenvolvimento Web Full Stack com especialização em Python em 2023 pela Trybe, realizando mais de 39 projetos publicados no GitHub.
+Concluí o curso de formação em Desenvolvimento Web Full Stack com especialização em Python em 2023 pela Trybe, com mais de 50 projetos concluídos e publicados no GitHub.
 
-Atualmente, estou finalizando a Certificação em Java e aprofundando meus estudos em Arquitetura Cloud, com foco em AWS (Amazon Web Services) e GCP (Google Cloud Platform) com especialização em Cloud Engineering.
+Atualmente, estou finalizando uma Certificação em Java e aprofundando meus estudos para Certificação em Arquitetura Cloud, com foco em AWS (Amazon Web Services) e GCP (Google Cloud Platform) com especialização em Cloud Engineering.
 
 Acredito no valor do trabalho em equipe, seguindo o provérbio: "Se quer correr, vá sozinho; se quer ir longe, trabalhe em equipe". A colaboração e o trabalho em equipe são fundamentais para o sucesso.
 
