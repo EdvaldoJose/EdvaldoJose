@@ -17,14 +17,10 @@
 
 <h2 align="left">👋 Olá, eu me chamo Edvaldo José</h2>
 <h3>Sou Desenvolvedor Web Full Stack.</h3>
-Desenvolvedor Web Full Stack com paixão pela tecnologia.
-
-Experiência como Analista Microsoft Certified Server, com especialização em segurança, infraestrutura de rede e Servidores.
-
+Sou um entusiasta de tecnologia com uma sólida experiência como Analista Microsoft Certified Server, especializado em segurança e infraestrutura de rede. Além disso, sou um Desenvolvedor Web Full Stack Jr. com especialização em Python e Java, concluir o curso de formação em desenvolvimento web em 2023 pela Trybe com mais de 39 projetos concluídos e publicados no GitHub.
 Compromisso em agregar valor a projetos com perspectivas de crescimento a longo prazo.
 <br>
-<h2></h2>Objetivos Futuros>/h2>
-
+<h2>Objetivos Futuros</h2>
 Busco obter certificações em nuvem, como Cloud AWS e Google Cloud, e certificações em Inteligência Artificial para aprimorar minhas habilidades e me tornar um desenvolvedor versátil.
 
 Almejo integrar equipes líderes em projetos tecnológicos impactantes, acreditando que a colaboração e o trabalho conjunto são a chave para superar desafios e alcançar metas extraordinárias.
