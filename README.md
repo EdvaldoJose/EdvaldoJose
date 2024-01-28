@@ -280,14 +280,15 @@ Determinado a aprimorar minhas habilidades e conhecimentos, estou sempre focado 
                 <span>Kubernetes</span><br>
                 <img height="32" src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png" />
               </td> 
+		<td width="" align="center">
+                <span>Linux</span><br>
+                <img height="32" width="32" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />
+              </td> 	
                 <td width="80px" align="center">
                <span>Microsoft</span><br>
                <img height="32px" src="https://user-images.githubusercontent.com/96168296/232350672-71f212b2-1e87-406d-ab33-8bc0d8ea1f99.png" />
                </td>
-                <td width="" align="center">
-                <span>Linux</span><br>
-                <img height="32" width="32" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />
-              </td>           
+          
         </tbody>
       </table><br>
 		       
