@@ -201,8 +201,8 @@ Determinado a aprimorar minhas habilidades e conhecimentos, estou sempre focado 
              <img height="40" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" />
            </td> 
 	   <td width="80px" align="center">
-           <span>Algoritmos</span><br>
-           <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/thealgorithms/thealgorithms-original.svg" />
+           <span>Spring</span><br>
+           <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" />
            </td>	
            <td width="90px" align="center">
              <span>MSC</span><br>
@@ -277,7 +277,7 @@ Determinado a aprimorar minhas habilidades e conhecimentos, estou sempre focado 
                   <img height="35" width="" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" />
                   </td>
                    <td width="40px" align="center">
-                <span>Terraforrm</span><br>
+                <span>Terraform</span><br>
                 <img height="35" src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" />
               </td> 
 		<td width="" align="center">
