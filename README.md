@@ -202,7 +202,7 @@ Determinado a aprimorar minhas habilidades e conhecimentos, estou sempre focado 
            </td> 
 	   <td width="80px" align="center">
            <span>Spring</span><br>
-           <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" />
+           <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" />
            </td>	
            <td width="90px" align="center">
              <span>MSC</span><br>
