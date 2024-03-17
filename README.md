@@ -278,7 +278,7 @@ Determinado a aprimorar minhas habilidades e conhecimentos, estou sempre focado 
                   </td>
                    <td width="40px" align="center">
                 <span>Terraforrm</span><br>
-                <img height="32" src="https://www.terraform.io/logos.html" />
+                <img height="32" src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" />
               </td> 
 		<td width="" align="center">
                 <span>Linux</span><br>
