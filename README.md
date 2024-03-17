@@ -200,7 +200,6 @@ Determinado a aprimorar minhas habilidades e conhecimentos, estou sempre focado 
              <span>Django</span>
              <img height="40" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" />
            </td> 
-
 	   <td width="80px" align="center">
            <span>Algoritmos</span><br>
            <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/thealgorithms/thealgorithms-original.svg" />
