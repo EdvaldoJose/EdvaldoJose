@@ -288,10 +288,7 @@ Determinado a aprimorar minhas habilidades e conhecimentos, estou sempre focado 
                <span>Microsoft</span><br>
                <img height="32px" src="https://user-images.githubusercontent.com/96168296/232350672-71f212b2-1e87-406d-ab33-8bc0d8ea1f99.png" />
                </td>
-          
-        </tbody>
-      </table><br>
-		       
+	       
 ## Atividade no GitHub :octocat:
 
 <div>
