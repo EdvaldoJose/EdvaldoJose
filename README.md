@@ -16,6 +16,7 @@
 </body>
 </html>
 
+
 <h2 align="left">👋 Olá, eu me chamo Edvaldo José</h2>
 <h3>Sou Desenvolvedor Web Full Stack.</h3>
 Sou um entusiasta de tecnologia com experiência como Analista Microsoft Certified Server, especializado em segurança e infraestrutura de rede. Além disso, sou um Desenvolvedor Web Full Stack Jr. com especialização em Python e Java. Com compromisso em agregar valor a projetos com perspectivas de crescimento a longo prazo.
