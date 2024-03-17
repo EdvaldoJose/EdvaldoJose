@@ -164,7 +164,7 @@ Determinado a aprimorar minhas habilidades e conhecimentos, estou sempre focado 
               <span>Express</span><br>
               <img height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
             </td>
-                         <td width="60px" align="center">
+           <td width="60px" align="center">
               <span>Docker</span><br>
               <img height="45px" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" />
             </td>
@@ -288,6 +288,9 @@ Determinado a aprimorar minhas habilidades e conhecimentos, estou sempre focado 
                <span>Microsoft</span><br>
                <img height="32px" src="https://user-images.githubusercontent.com/96168296/232350672-71f212b2-1e87-406d-ab33-8bc0d8ea1f99.png" />
                </td>
+	 </tbody>
+      </table>
+
 	       
 ## Atividade no GitHub :octocat:
 
