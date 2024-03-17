@@ -188,7 +188,11 @@ Determinado a aprimorar minhas habilidades e conhecimentos, estou sempre focado 
                 <span>Python</span><br>
                 <img height="32" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
               </td>
-              <td width="38px" align="center">
+		<td width="40px" align="center">
+                <span>Java</span><br>
+                <img height="37" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
+              </td>
+               <td width="38px" align="center">
               <span>Flask</span>
               <img height="45" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" />
             </td>
@@ -196,10 +200,7 @@ Determinado a aprimorar minhas habilidades e conhecimentos, estou sempre focado 
              <span>Django</span>
              <img height="40" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" />
            </td> 
-                <td width="40px" align="center">
-                <span>Java</span><br>
-                <img height="37" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />
-              </td>
+
 	   <td width="80px" align="center">
            <span>Algoritmos</span><br>
            <img height="32px" src="https://github.com/devicons/devicon/blob/master/icons/thealgorithms/thealgorithms-original.svg" />
