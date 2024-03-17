@@ -303,12 +303,11 @@ Determinado a aprimorar minhas habilidades e conhecimentos, estou sempre focado 
 <style>
   .container {
     display: flex;
-    justify-content: space-between; /* Alinha os itens com espaçamento uniforme */
+    justify-content: space-between;
   }
   .image {
-    width: 48%; /* Largura de 48% para deixar um espaço entre as imagens */
-    height: 195px;
-    margin: 0; /* Remova as margens para evitar espaços extras */
+    width: 48%; 
+    margin: 0; 
   }
 </style>
 </head>
