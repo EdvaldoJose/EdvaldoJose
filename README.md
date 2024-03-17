@@ -32,9 +32,9 @@ Mantenho meu compromisso com a carreira em Desenvolvimento de Software, buscando
 
 Natural de Salvador, Bahia.
 
-Concluí o curso de formação em Desenvolvimento Web Full Stack com especialização em Python em 2023 pela Trybe, com mais de 50 projetos concluídos e publicados no GitHub.
+Concluí o curso de formação em Desenvolvimento Web Full Stack com especialização em Python no final de 2023 pela Trybe, com mais de 50 projetos concluídos e publicados no GitHub.
 
-Atualmente, estou finalizando uma Certificação em Java e aprofundando meus estudos para Certificação em Arquitetura Cloud, com foco em AWS (Amazon Web Services) e GCP (Google Cloud Platform) com especialização em Cloud Engineering.
+Atualmente, estou finalizando uma Certificação em Java e aprofundando meus estudos fazendo curso para Certificação em Arquitetura Cloud, com foco em AWS (Amazon Web Services) e GCP (Google Cloud Platform) com especialização em Cloud Engineering.
 
 Acredito no valor do trabalho em equipe, seguindo o provérbio: "Se quer correr, vá sozinho; se quer ir longe, trabalhe em equipe". A colaboração e o trabalho em equipe são fundamentais para o sucesso.
 
@@ -277,8 +277,8 @@ Determinado a aprimorar minhas habilidades e conhecimentos, estou sempre focado 
                   <img height="35" width="" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" />
                   </td>
                    <td width="40px" align="center">
-                <span>Kubernetes</span><br>
-                <img height="32" src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png" />
+                <span>Terraforrm</span><br>
+                <img height="32" src="https://www.terraform.io/logos.html" />
               </td> 
 		<td width="" align="center">
                 <span>Linux</span><br>
