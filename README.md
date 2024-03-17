@@ -294,11 +294,36 @@ Determinado a aprimorar minhas habilidades e conhecimentos, estou sempre focado 
 	       
 ## Atividade no GitHub :octocat:
 
-<div>
-<a align="right">
-<img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdvaldoJose&layout=compact&title_color=2f97c1&icon_color=f5b700&&text_color=0cf574&bg_color=040f0f" alt="EdvaldoJose github stats" /></a>
- <a align="left"> <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/pin/?username=EdvaldoJose&theme=blue-green&repo=github-readme-stats" alt="EdvaldoJose github stats" /></a>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Alinhamento das Imagens</title>
+<style>
+  .container {
+    display: flex;
+    justify-content: space-between; /* Alinha os itens com espaçamento uniforme */
+  }
+  .image {
+    width: 48%; /* Largura de 48% para deixar um espaço entre as imagens */
+    height: 195px;
+    margin: 0; /* Remova as margens para evitar espaços extras */
+  }
+</style>
+</head>
+<body>
+<div class="container">
+  <a href="#">
+    <img class="image" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdvaldoJose&layout=compact&title_color=2f97c1&icon_color=f5b700&&text_color=0cf574&bg_color=040f0f" alt="EdvaldoJose github stats" />
+  </a>
+  <a href="#">
+    <img class="image" src="https://github-readme-stats.vercel.app/api/pin/?username=EdvaldoJose&theme=blue-green&repo=github-readme-stats" alt="EdvaldoJose github stats" />
+  </a>
 </div>
+</body>
+</html>
+
 
   ![github contribution grid snake animation](https://raw.githubusercontent.com/Eliedson1979/Eliedson1979/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
  		       
