@@ -299,17 +299,6 @@ Determinado a aprimorar minhas habilidades e conhecimentos, estou sempre focado 
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Alinhamento das Imagens</title>
-<style>
-  .container {
-    display: flex;
-    justify-content: space-between;
-  }
-  .image {
-    width: 48%; 
-    margin: 0; 
-  }
-</style>
 </head>
 <body>
 <div class="container">
