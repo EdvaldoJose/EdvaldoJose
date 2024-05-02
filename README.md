@@ -51,7 +51,7 @@ Determinado a aprimorar minhas habilidades e conhecimentos, estou sempre focado 
   <br>
 ## Minhas redes sociais 📱
 <table width="10px">
-  
+  <tbody>
     <tr valign="top">
       <td width="30px" align="center">
       <span>Linkedin</span><br>
