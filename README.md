@@ -35,7 +35,7 @@ Natural de Salvador, Bahia.
 
 Concluí o curso de formação em Desenvolvimento Web Full Stack com especialização em Python no final de 2023 pela Trybe, com mais de 50 projetos concluídos e publicados no GitHub.
 
-Atualmente, estou concluindo uma Certificação em Java e aprofundando meus estudos com o curso em AWS para obter a Certificação em Arquitetura Cloud. Meu foco principal está na plataforma AWS (Amazon Web Services), com especialização em Cloud Engineering.
+Atualmente, estou finalizando uma Certificação em Java e, simultaneamente, aprofundando meus estudos com um curso em AWS para alcançar a Certificação em Arquitetura Cloud. Meu foco principal está na plataforma AWS (Amazon Web Services), com especialização em Cloud Engineering.
 
 Acredito no valor do trabalho em equipe, seguindo o provérbio: "Se quer correr, vá sozinho; se quer ir longe, trabalhe em equipe". A colaboração e o trabalho em equipe são fundamentais para o sucesso.
 
@@ -56,7 +56,8 @@ Determinado a aprimorar minhas habilidades e conhecimentos, estou sempre focado 
       <span>Linkedin</span><br>
 <a href="https://linkedin.com/in/edvaldo-jose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edvaldo-jose" height="35" width="35" /></a>
       </td>
-      <td width="30px" align="center">
+      <td width="30px" align
+="center">
       <span>Twitter</span><br>
 
 <a href="https://twitter.com/edvaldojose003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="edvaldojose003" height="35" width="35" /></a>
