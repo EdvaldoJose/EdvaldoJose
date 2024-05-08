@@ -22,7 +22,7 @@
 Sou um entusiasta de tecnologia com mais de 10 anos de experiência como Analista de Servidores Certificado Microsoft, especializado em segurança e infraestrutura de redes. Recentemente, fiz a transição para o desenvolvimento web, concluindo o curso de Formação em Desenvolvimento Web em 2023 pela Trybe, com mais de 40 projetos publicados no GitHub. Atualmente, estou finalizando a Certificação Java e Analista DevOps Cloud para Arquitetura de Nuvem AWS. Com compromisso em agregar valor a projetos com perspectivas de crescimento a longo prazo.
 <br>
 <h2>Objetivos Futuros</h2>
-Busco obter certificações em nuvem, como Analista DevOps Cloud para Arquitetura de Nuvem AWS e certificações em Inteligência Artificial para aprimorar minhas habilidades e me tornar um desenvolvedor versátil.
+Busco obter Certificações em nuvem, como Analista DevOps Cloud Engineer para Arquitetura de Nuvem AWS e certificações em Inteligência Artificial para aprimorar minhas habilidades e me tornar um desenvolvedor versátil.
 
 Almejo integrar equipes líderes em projetos tecnológicos impactantes, acreditando que a colaboração e o trabalho conjunto são a chave para superar desafios e alcançar metas extraordinárias.
 
