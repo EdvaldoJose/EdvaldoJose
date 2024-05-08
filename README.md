@@ -33,7 +33,7 @@ Mantenho meu compromisso com a carreira em Desenvolvimento de Software, buscando
 
 Natural de Salvador, Bahia.
 
-Concluí o curso de formação em Desenvolvimento Web Full Stack com especialização em Python no final de 2023 pela Trybe, com mais de 50 projetos concluídos e publicados no GitHub.
+Concluí o curso de formação em Desenvolvimento Web Full Stack com especialização em Python no final de 2023 pela Trybe, com mais de 40 projetos concluídos e publicados no GitHub.
 
 Atualmente, estou finalizando uma Certificação em Java e, simultaneamente, aprofundando meus estudos com um curso em AWS para alcançar a Certificação em Arquitetura Cloud. Meu foco principal está na plataforma AWS (Amazon Web Services), com especialização em Cloud Engineering.
 
