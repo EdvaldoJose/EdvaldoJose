@@ -35,7 +35,7 @@ Sou natural de Salvador/Bahia.
 
 Concluí o curso de formação em Desenvolvimento Web Full Stack com especialização em Python no final de 2023 pela Trybe, com mais de 40 projetos concluídos e publicados no GitHub.
 
-Atualmente, estou finalizando uma Certificação em Java e, simultaneamente, aprofundando meus estudos com um curso em AWS para alcançar a Certificação em Arquitetura Cloud. Meu foco principal está na plataforma AWS (Amazon Web Services), com especialização em Cloud Engineering.
+Atualmente, estou finalizando uma Certificação em Java e, simultaneamente, aprofundando meus estudos com um curso em AWS para alcançar a Certificação em Arquitetura Cloud. Meu foco principal está na plataforma AWS (Amazon Web Services), com especialização em Cloud Engineer.
 
 Acredito no valor do trabalho em equipe, seguindo o provérbio: "Se quer correr, vá sozinho; se quer ir longe, trabalhe em equipe". A colaboração e o trabalho em equipe são fundamentais para o sucesso.
 
