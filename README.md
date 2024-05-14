@@ -31,7 +31,7 @@ Mantenho meu compromisso com a carreira em Desenvolvimento de Software, buscando
 ## Sobre Mim 👨
 <!--<img align="right" height="150" width="200" alt="edvaldo" src="https://www.tecnoschool.com.ar/img/gif-portadas-cursos/entrenamiento-en-programacion2.gif">-->
 
-Natural de Salvador, Bahia.
+Sou natural de Salvador/Bahia.
 
 Concluí o curso de formação em Desenvolvimento Web Full Stack com especialização em Python no final de 2023 pela Trybe, com mais de 40 projetos concluídos e publicados no GitHub.
 
