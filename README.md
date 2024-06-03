@@ -22,10 +22,8 @@
 Sou Desenvolvedor Web Full Stack Jr., com foco em JavaScript, Python e Java. Sou um entusiasta da tecnologia, sempre buscando aprender e aprimorar minhas habilidades. Recentemente, transicionei minha carreira para Desenvolvimento Web, concluindo o curso de Formação em Desenvolvimento Web pela Trybe em 2023, com mais de 60 projetos publicados no meu GitHub. Atualmente, estou finalizando a Certificação Java e a Certificação de Analista Cloud DevOps para Arquitetura em Nuvem AWS. Estou comprometido em agregar valor a projetos com perspectivas de crescimento a longo prazo.
 <br>
 <h2>Objetivos Futuros</h2>
-Busco obter Certificações em nuvem, como Cloud Engineer para arquitetura em nuvem AWS, e tambem certificações em Inteligência Artificial para aprimorar minhas habilidades e me tornar um desenvolvedor versátil.
-
-Almejo integrar equipes líderes em projetos tecnológicos impactantes, acreditando que a colaboração e o trabalho conjunto são a chave para superar desafios e alcançar metas extraordinárias.
-
+Busco obter certificações em nuvem, como Cloud Engineer para arquitetura em nuvem AWS, e certificações em Inteligência Artificial para aprimorar minhas habilidades e me tornar um desenvolvedor versátil. Almejo integrar equipes líderes em projetos tecnológicos impactantes, acreditando que a colaboração e o trabalho conjunto são a chave para superar desafios e alcançar metas extraordinárias.
+<br>
 Mantenho meu compromisso com a carreira em Desenvolvimento de Software, buscando incessantemente inovação e excelência técnica.
 
 ## Sobre Mim 👨
@@ -35,7 +33,7 @@ Sou natural de Salvador/Bahia.
 
 Concluí o curso de formação em Desenvolvimento Web Full Stack com especialização em Python no final de 2023 pela Trybe, com mais de 40 projetos concluídos e publicados no GitHub.
 
-Atualmente, estou finalizando uma Certificação em Java e, simultaneamente, aprofundando meus estudos com um curso em AWS para alcançar a Certificação em Arquitetura Cloud. Meu foco principal está na plataforma AWS (Amazon Web Services), com especialização em Cloud Engineer.
+Atualmente, estou finalizando uma Certificação em Java e aprofundando meus estudos com um curso em AWS para alcançar a Certificação em Arquitetura Cloud. Meu foco principal está na plataforma AWS (Amazon Web Services), visando a especialização em Cloud Engineer.
 
 Acredito no valor do trabalho em equipe, seguindo o provérbio: "Se quer correr, vá sozinho; se quer ir longe, trabalhe em equipe". A colaboração e o trabalho em equipe são fundamentais para o sucesso.
 
