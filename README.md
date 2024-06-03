@@ -18,6 +18,7 @@
 
 
 <h2 align="left">👋 Olá, eu me chamo Edvaldo José</h2>
+<h3>Sou Desenvolvedor Web Full Stack Jr., especializado em JavaScript, Python e Java. </h3>
 Sou um entusiasta da tecnologia, sempre buscando aprender e aprimorar minhas habilidades. Recentemente, transicionei minha carreira para Desenvolvimento Web, concluindo o curso de Formação em Desenvolvimento Web pela Trybe em 2023, com mais de 60 projetos publicados no meu GitHub. Atualmente, estou finalizando a Certificação Java e a Certificação de Analista Cloud DevOps para Arquitetura em Nuvem AWS. Estou comprometido em agregar valor a projetos com perspectivas de crescimento a longo prazo.
 <br>
 <h2>Objetivos Futuros</h2>
