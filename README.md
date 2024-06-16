@@ -19,8 +19,9 @@
 
 <h2 align
 ="left">Full Stack Web Developer</h2>
-<h3>👋 Olá, eu me chamo Edvaldo José</h3>
-Sou Desenvolvedor Web Full Stack, com foco em JavaScript, Python e Java. Sou um entusiasta da tecnologia, sempre buscando aprender e aprimorar minhas habilidades. Recentemente, transicionei minha carreira para Desenvolvimento Web, concluindo o curso de Formação em Desenvolvimento Web pela Trybe em 2023, com mais de 60 projetos publicados no meu GitHub. Atualmente, estou finalizando a Certificação Java e a Certificação de Analista Cloud DevOps para Arquitetura em Nuvem AWS. Estou comprometido em agregar valor a projetos com perspectivas de crescimento a longo prazo.
+<h3>👋 Olá, eu sou Edvaldo José </h3>
+Sou Desenvolvedor Web Full Stack especializado em JavaScript, Python e Java. Com uma paixão por tecnologia e um compromisso constante com o aprendizado, recentemente fiz a transição para Desenvolvimento Web, concluindo a Formação em Desenvolvimento Web pela Trybe em 2023. Durante essa jornada, publiquei mais de 60 projetos no meu GitHub. 
+Atualmente, estou finalizando a Certificação em Java e a Certificação em Cloud DevOps para Arquitetura em Nuvem AWS. Estou focado em agregar valor a projetos de longo prazo e contribuir para seu crescimento sustentável.
 <br>
 <h2>Objetivos Futuros</h2>
 Busco obter certificações em nuvem, como Cloud Engineer para arquitetura em nuvem AWS, e certificações em Inteligência Artificial para aprimorar minhas habilidades e me tornar um desenvolvedor versátil. Almejo integrar equipes líderes em projetos tecnológicos impactantes, acreditando que a colaboração e o trabalho conjunto são a chave para superar desafios e alcançar metas extraordinárias.
@@ -34,7 +35,7 @@ Sou natural de Salvador/Bahia.
 
 Concluí o curso de Formação em Desenvolvimento Web Full Stack com foco em Python no final de 2023 pela Trybe, com mais de 60 projetos concluídos e publicados no GitHub.
 
-Atualmente, estou finalizando uma Certificação em Java e aprofundando meus estudos com um curso em AWS para alcançar a Certificação em Arquitetura Cloud. Meu foco principal está na plataforma AWS (Amazon Web Services), visando a especialização em Cloud Engineer.
+Atualmente, estou finalizando uma Certificação em Java, e aprofundando meus estudos com um curso em AWS para alcançar a Certificação em Arquitetura Cloud. Meu foco principal está na plataforma AWS (Amazon Web Services), visando a especialização em Cloud Engineer.
 
 Acredito no valor do trabalho em equipe, seguindo o provérbio: "Se quer correr, vá sozinho; se quer ir longe, trabalhe em equipe". A colaboração e o trabalho em equipe são fundamentais para o sucesso.
 
@@ -54,6 +55,7 @@ Determinado a aprimorar minhas habilidades e conhecimentos, estou sempre focado 
       <td width="30px" align="center">
       <span>Linkedin</span><br>
 <a href="https://linkedin.com/in/edvaldo-jose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edvaldo-jose" height="35" width="35" /></a>
+
       </td>
       <td width="30px" align
 ="center">
