@@ -20,14 +20,12 @@
 <h2 align
 ="left">Full Stack Web Developer</h2>
 <h3>👋 Olá, eu sou Edvaldo José </h3>
-Sou Desenvolvedor Web Full Stack especializado em JavaScript, Python e Java. Com uma paixão por tecnologia e um compromisso constante com o aprendizado, recentemente fiz a transição para Desenvolvimento Web, concluindo a Formação em Desenvolvimento Web pela Trybe em 2023. Durante essa jornada, publiquei mais de 80 projetos no meu GitHub. <br>
+Sou Desenvolvedor Web Full Stack especializado em JavaScript, Python e Java. Com uma paixão por tecnologia e um compromisso constante com o aprendizado, recentemente fiz a transição para Desenvolvimento Web, concluindo a Formação em Desenvolvimento Web pela Trybe em 2023. Durante essa jornada, publiquei mais de 80 projetos no meu GitHub.
 <br>
 Atualmente, estou fazendo o curso da Formação AWS e me preparando para a Certificação em Cloud DevOps para Arquitetura em Nuvem AWS. Em paralelo, estou cursando Tecnólogo em Desenvolvimento Full Stack na Universidade Estácio. Tenho o foco em agregar valor a projetos de longo prazo e contribuir para seu crescimento sustentável.
 <br>
 <h2>Objetivos Futuros</h2>
-Busco obter certificações em nuvem, como Cloud Engineer para arquitetura em nuvem AWS, e certificações em Inteligência Artificial para aprimorar minhas habilidades e me tornar um desenvolvedor versátil. Almejo integrar equipes líderes em projetos tecnológicos impactantes, acreditando que a colaboração e o trabalho conjunto são a chave para superar desafios e alcançar metas extraordinárias.
-
-Mantenho meu compromisso com a carreira em Desenvolvimento de Software, buscando incessantemente inovação e excelência técnica.
+Busco obter certificações em nuvem, como Cloud Engineer para arquitetura em nuvem AWS, e certificações em Inteligência Artificial para aprimorar minhas habilidades e me tornar um desenvolvedor versátil. Almejo integrar equipes líderes em projetos tecnológicos impactantes, acreditando que a colaboração e o trabalho conjunto são a chave para superar desafios e alcançar metas extraordinárias. Mantenho meu compromisso com a carreira em Desenvolvimento de Software, buscando incessantemente inovação e excelência técnica.
 
 ## Sobre Mim 👨
 <!--<img align="right" height="150" width="200" alt="edvaldo" src="https://www.tecnoschool.com.ar/img/gif-portadas-cursos/entrenamiento-en-programacion2.gif">-->
