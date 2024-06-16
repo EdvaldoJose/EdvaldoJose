@@ -271,8 +271,8 @@ Determinado a aprimorar minhas habilidades e conhecimentos, estou sempre focado 
                   <img height="40" width="50" src="https://img.icons8.com/color/256/amazon-web-services.png" />
                   </td>
                    <td width="20px" align="center">
-                <span>GoogleCloud<span><br>
-                  <img height="35" width="" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" />
+                <span>Kubernetes<span><br>
+                  <img height="35" width="" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" />
                   </td>
                    <td width="40px" align="center">
                 <span>Terraform</span><br>
