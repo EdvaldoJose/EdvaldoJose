@@ -38,7 +38,7 @@ Atualmente, estou finalizando uma Certificação em Java, e aprofundando meus es
 
 Acredito no valor do trabalho em equipe, seguindo o provérbio: "Se quer correr, vá sozinho; se quer ir longe, trabalhe em equipe". A colaboração e o trabalho em equipe são fundamentais para o sucesso.
 
-Determinado a aprimorar minhas habilidades e conhecimentos, estou sempre focado em buscar a excelência na área de Desenvolvimento.<BR>
+Determinado a aprimorar minhas habilidades e conhecimentos, estou sempre focado em buscar a excelência na área de Desenvolvimento.<br>
 
 <img align="right" src="https://user-images.githubusercontent.com/96168296/232656308-9affede6-2278-4606-97be-7ed26fb298c7.gif" alt="Coder GIF" width="200" height="185">
 
