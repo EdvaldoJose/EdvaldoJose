@@ -32,7 +32,7 @@ Busco obter certificações em nuvem, como Cloud Engineer para arquitetura em nu
 
 Sou natural de Salvador, Bahia. Concluí o curso de Formação em Desenvolvimento Web Full Stack com foco em Python no final de 2023 pela Trybe, com mais de 80 projetos concluídos e publicados. Atualmente, estou finalizando uma Certificação em Java e aprofundando meus estudos com um curso em AWS para alcançar a Certificação em Arquitetura Cloud. Meu foco principal está na plataforma AWS (Amazon Web Services), visando a especialização em Cloud Engineer.
 
-Acredito no valor do trabalho em equipe, seguindo o provérbio: "Se quer correr, vá sozinho; se quer ir longe, trabalhe em equipe". A colaboração e o trabalho em equipe são fundamentais para o sucesso. Determinado a aprimorar minhas habilidades e conhecimentos, estou sempre focado em buscar a excelência na área de Desenvolvimento<br>
+Acredito no valor do trabalho em equipe, seguindo o provérbio: "Se quer correr, vá sozinho; se quer ir longe, trabalhe em equipe". A colaboração e o trabalho em equipe são fundamentais para o sucesso. Determinado a aprimorar minhas habilidades e conhecimentos, estou sempre focado em buscar a excelência na área de Desenvolvimento.<br>
 ##
 <img align="right" src="https://user-images.githubusercontent.com/96168296/232656308-9affede6-2278-4606-97be-7ed26fb298c7.gif" alt="Coder GIF" width="200" height="185">
 
