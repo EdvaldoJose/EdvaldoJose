@@ -46,7 +46,7 @@
       <li>LinkedIn: <a href="https://www.linkedin.com/in/edvaldo-jose/">https://www.linkedin.com/in/edvaldo-jose/</a></li>
       <li>WhatsApp: (+55) 71-98557-2721</li>
     </ul>
-        <h2>Minhas redes sociais 📱</h2>
+     <h2>Minhas redes sociais 📱</h2>
     <table width="10px">
       <tbody>
         <tr valign="top">
