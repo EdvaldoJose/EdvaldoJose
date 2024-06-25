@@ -54,10 +54,8 @@ Determinado a aprimorar minhas habilidades e conhecimentos, estou sempre focado 
       <td width="30px" align="center">
       <span>Linkedin</span><br>
 <a href="https://linkedin.com/in/edvaldo-jose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edvaldo-jose" height="35" width="35" /></a>
-
       </td>
-      <td width="30px" align
-="center">
+      <td width="30px" align="center">
       <span>Twitter</span><br>
 
 <a href="https://twitter.com/edvaldojose003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="edvaldojose003" height="35" width="35" /></a>
