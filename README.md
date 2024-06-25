@@ -45,8 +45,8 @@ Determinado a aprimorar minhas habilidades e conhecimentos, estou sempre focado 
 ### Contato 📬
 - E-mail: edvaldojose.dev@gmail.com
 - LinkedIn: https://www.linkedin.com/in/edvaldo-jose/
-- WhatsApp: (+55) 71-98557-2721<br>
-
+- WhatsApp: (+55) 71-98557-2721
+  <br>
 
 ## Minhas redes sociais 📱
 <table width="10px">
