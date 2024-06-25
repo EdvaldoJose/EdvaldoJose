@@ -24,13 +24,13 @@ Sou Desenvolvedor Web Full Stack especializado em JavaScript, Python e Java, com
 <br>
 Atualmente, estou fazendo o curso de Formação AWS e me preparando para a Certificação em Cloud DevOps para Arquitetura em Nuvem AWS. Paralelamente, estou cursando Tecnólogo em Desenvolvimento Full Stack na Universidade Estácio. Meu foco é agregar valor a projetos de longo prazo e contribuir para seu crescimento sustentável. 
 <br>
-<h2>Metas Futuras</h2>🚀
+<h2>Metas Futuras🚀</h2>
 Busco obter certificações em nuvem, como Cloud Engineer para arquitetura em nuvem AWS, e certificações em Inteligência Artificial para aprimorar minhas habilidades e me tornar um desenvolvedor versátil. Almejo integrar equipes líderes em projetos tecnológicos impactantes, acreditando que a colaboração e o trabalho conjunto são a chave para superar desafios e alcançar metas extraordinárias. Mantenho meu compromisso com a carreira em Desenvolvimento de Software, buscando incessantemente inovação e excelência técnica.
 
 ## Sobre Mim 👨
 <img align="right" height="150" width="200" alt="edvaldo" src="https://www.tecnoschool.com.ar/img/gif-portadas-cursos/entrenamiento-en-programacion2.gif">
 
-Sou natural de Salvador, Bahia. Concluí o curso de Formação em Desenvolvimento Web Full Stack, com foco em Python no final de 2023 pela Trybe, com mais de 60 projetos concluídos e publicados no GitHub. Atualmente, estou finalizando uma Certificação em Java e aprofundando meus estudos com um curso em AWS para alcançar a Certificação em Arquitetura Cloud. Meu foco principal está na plataforma AWS (Amazon Web Services), visando a especialização em Cloud Engineer.
+Sou natural de Salvador, Bahia. Concluí o curso de Formação em Desenvolvimento Web Full Stack com foco em Python no final de 2023 pela Trybe, com mais de 60 projetos concluídos e publicados no GitHub. Atualmente, estou finalizando uma Certificação em Java e aprofundando meus estudos com um curso em AWS para alcançar a Certificação em Arquitetura Cloud. Meu foco principal está na plataforma AWS (Amazon Web Services), visando a especialização em Cloud Engineer.
 
 Acredito no valor do trabalho em equipe, seguindo o provérbio: "Se quer correr, vá sozinho; se quer ir longe, trabalhe em equipe". A colaboração e o trabalho em equipe são fundamentais para o sucesso. Determinado a aprimorar minhas habilidades e conhecimentos, estou sempre focado em buscar a excelência na área de Desenvolvimento<br>
 ##
