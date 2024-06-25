@@ -24,7 +24,7 @@ Sou Desenvolvedor Web Full Stack especializado em JavaScript, Python e Java, com
 <br>
 Atualmente, estou fazendo o curso de Formação AWS e me preparando para a Certificação em Cloud DevOps para Arquitetura em Nuvem AWS. Paralelamente, estou cursando Tecnólogo em Desenvolvimento Full Stack na Universidade Estácio. Meu foco é agregar valor a projetos de longo prazo e contribuir para seu crescimento sustentável. 
 <br>
-<h2>Metas Futuras🚀</h2>
+<h2>Metas Futuras 🚀</h2>
 Busco obter certificações em nuvem, como Cloud Engineer para arquitetura em nuvem AWS, e certificações em Inteligência Artificial para aprimorar minhas habilidades e me tornar um desenvolvedor versátil. Almejo integrar equipes líderes em projetos tecnológicos impactantes, acreditando que a colaboração e o trabalho conjunto são a chave para superar desafios e alcançar metas extraordinárias. Mantenho meu compromisso com a carreira em Desenvolvimento de Software, buscando incessantemente inovação e excelência técnica.
 
 ## Sobre Mim 👨
