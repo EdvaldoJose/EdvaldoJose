@@ -28,7 +28,7 @@ Atualmente, estou fazendo o curso da Formação AWS e me preparando para a Certi
 Busco obter certificações em nuvem, como Cloud Engineer para arquitetura em nuvem AWS, e certificações em Inteligência Artificial para aprimorar minhas habilidades e me tornar um desenvolvedor versátil. Almejo integrar equipes líderes em projetos tecnológicos impactantes, acreditando que a colaboração e o trabalho conjunto são a chave para superar desafios e alcançar metas extraordinárias. Mantenho meu compromisso com a carreira em Desenvolvimento de Software, buscando incessantemente inovação e excelência técnica.
 
 ## Sobre Mim 👨
-<!--<img align="right" height="150" width="200" alt="edvaldo" src="https://www.tecnoschool.com.ar/img/gif-portadas-cursos/entrenamiento-en-programacion2.gif">-->
+<img align="right" height="150" width="200" alt="edvaldo" src="https://www.tecnoschool.com.ar/img/gif-portadas-cursos/entrenamiento-en-programacion2.gif">
 
 Sou natural de Salvador/Bahia.
 
