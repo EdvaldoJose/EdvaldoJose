@@ -20,7 +20,7 @@
 <h2 align
 ="left">Full Stack Web Developer</h2>
 <h3>👋 Olá, eu sou Edvaldo José </h3>
-Sou Desenvolvedor Web Full Stack especializado em JavaScript, Python e Java, com uma paixão por tecnologia e um compromisso constante com o aprendizado. Fiz a transição para o Desenvolvimento Web e concluí a Formação em Desenvolvimento Web pela Trybe em 2023, onde publiquei mais de 80 projetos no meu GitHub.<br>
+Sou Desenvolvedor Web Full Stack especializado em JavaScript, Python e Java, com uma paixão por tecnologia e um compromisso constante com o aprendizado. Fiz a transição para o Desenvolvimento Web e concluí a Formação em Desenvolvimento Web pela Trybe em 2023, onde publiquei mais de 100 projetos em meu GitHub.<br>
 <br>
 Atualmente, estou fazendo o curso de Formação AWS e me preparando para a Certificação em Cloud DevOps para Arquitetura em Nuvem AWS. Paralelamente, estou cursando Tecnólogo em Desenvolvimento Full Stack na Universidade Estácio. Meu foco é agregar valor a projetos de longo prazo e contribuir para seu crescimento sustentável. 
 <br>
