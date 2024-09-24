@@ -262,7 +262,7 @@ Acredito no valor do trabalho em equipe, seguindo o provérbio: "Se quer correr,
                 <img height="32" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />
               </td>           
                <td width="30px" align="center">
-                <span>Aws<span><br>
+                <span>AWS<span><br>
                   <img height="40" width="50" src="https://img.icons8.com/color/256/amazon-web-services.png" />
                   </td>
                    <td width="20px" align="center">
