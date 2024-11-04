@@ -20,12 +20,12 @@
 <h2 align
 ="left">Full Stack Web Developer</h2>
 <h3>👋 Olá, eu sou Edvaldo José </h3>
-Sou Desenvolvedor Web Full Stack especializado em JavaScript, Python e Java, com uma paixão por tecnologia e um compromisso constante com o aprendizado. Fiz a transição para o Desenvolvimento Web e concluí a Formação em Desenvolvimento Web pela Trybe em 2023, onde publiquei mais de 100 projetos em meu GitHub.<br>
+Sou Desenvolvedor Web Full Stack com foco em JavaScript, Python e Java, apaixonado por tecnologia e com um compromisso constante com o aprendizado. Fiz a transição para o Desenvolvimento Web e concluí a Formação em Desenvolvimento Web pela Trybe em 2023, onde publiquei mais de 100 projetos em meu GitHub.<br>
 <br>
-Atualmente, estou fazendo o curso de Formação AWS e me preparando para a Certificação em Cloud DevOps para Arquitetura em Nuvem AWS. Paralelamente, estou cursando Tecnólogo em Desenvolvimento Full Stack na Universidade Estácio. Meu foco é agregar valor a projetos de longo prazo e contribuir para seu crescimento sustentável. 
+Atualmente, estou fazendo um curso de Formação AWS e me preparando para a Certificação de Cloud DevOps Engineer em Arquitetura de Nuvem AWS. Paralelamente, curso Tecnólogo em Desenvolvimento Full Stack na Universidade Estácio. Meu foco é agregar valor a projetos de longo prazo e contribuir para seu crescimento sustentável. 
 <br>
 <h2>Metas Futuras 🚀</h2>
-Busco obter certificações em nuvem, como Cloud Engineer para arquitetura em nuvem AWS, e certificações em Inteligência Artificial para aprimorar minhas habilidades e me tornar um desenvolvedor versátil. Almejo integrar equipes líderes em projetos tecnológicos impactantes, acreditando que a colaboração e o trabalho conjunto são a chave para superar desafios e alcançar metas extraordinárias. Mantenho meu compromisso com a carreira em Desenvolvimento de Software, buscando incessantemente inovação e excelência técnica.
+Estou em busca de certificações em Nuvem, como Cloud Engineer para arquitetura AWS, e certificações em Inteligência Artificial para aprimorar minhas habilidades e me tornar um desenvolvedor versátil. Meu objetivo é integrar equipes líderes em projetos tecnológicos impactantes, pois acredito que a colaboração é fundamental para superar desafios e alcançar metas extraordinárias. Tenho um compromisso constante com minha carreira em Desenvolvimento de Software, buscando sempre inovação e excelência técnica.
 
 ## Sobre Mim 👨
 <img align="right" height="150" width="200" alt="edvaldo" src="https://www.tecnoschool.com.ar/img/gif-portadas-cursos/entrenamiento-en-programacion2.gif">
