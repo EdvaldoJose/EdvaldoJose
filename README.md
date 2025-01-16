@@ -34,7 +34,7 @@ Sou de Salvador, Bahia, e concluí o curso de Formação em Desenvolvimento Web 
 
 Acredito no valor do trabalho em equipe, seguindo o provérbio: "Sozinhos vamos mais rápido,  juntos vamos mais longe." A colaboração e o trabalho em equipe são fundamentais para o sucesso. Determinado a aprimorar minhas habilidades e conhecimentos, estou sempre focado em buscar a excelência na área de Desenvolvimento.
 
-Minha experiência combina mais de 10 anos trabalhando com TI, incluindo 3 anos dedicados ao desenvolvimento back-end e Cloud DevOps. Isso me permitiu adquirir uma visão abrangente sobre desafios e soluções práticas, especialmente no contexto de ferramentas como AWS, Terraform e Kubernetes. Além disso, venho de uma comunidade que valoriza a troca de conhecimentos e o crescimento colaborativo.
+Minha trajetória profissional combina mais de 10 anos trabalhando com TI, incluindo 3 anos dedicados ao desenvolvimento back-end e Cloud DevOps. Isso me permitiu adquirir uma visão abrangente sobre desafios e soluções práticas, especialmente no contexto de ferramentas como AWS, Terraform e Kubernetes. Além disso, venho de uma comunidade que valoriza a troca de conhecimentos e o crescimento colaborativo.
 
 Minha perspectiva única reside em compreender tanto os aspectos técnicos quanto humanos na resolução de problemas em nuvem. Acredito que minha vivência prática pode enriquecer discussões dentro do programa, trazendo um equilíbrio entre inovação e pragmatismo. Estou comprometido em compartilhar conhecimentos, aprender com outros membros e incentivar a inclusão de novas ideias, especialmente de profissionais que estão ingressando na área ou de diferentes origens e culturas.<br>
 ##
