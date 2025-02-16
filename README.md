@@ -34,22 +34,22 @@ Estou em busca de certificações em Nuvem, como Cloud Engineer para arquitetura
 Sou Cloud & DevOps Engineer e Desenvolvedor Backend, apaixonado pelo impacto da tecnologia nos negócios e nas pessoas. Minha missão é otimizar e automatizar soluções na nuvem, garantindo eficiência, escalabilidade e segurança. Busco oportunidades como AWS Cloud DevOps Engineer ou Backend Developer, trazendo inovação e excelência para cada projeto.<br>
 <br>
 💡 Minha trajetória ·<br>
-Em 2022, migrei para o Desenvolvimento Web e, em 2023, concluí a formação pela Trybe, adquirindo expertise em desenvolvimento web, métodos ágeis e soft skills. Me especializei em JavaScript e Python e, desde então, venho ampliando minha atuação para Cloud & DevOps na AWS.
-
+Em 2022, migrei para o Desenvolvimento Web e, em 2023, concluí a formação pela Trybe, adquirindo expertise em desenvolvimento web, métodos ágeis e soft skills. Me especializei em JavaScript e Python e, desde então, venho ampliando minha atuação para Cloud & DevOps na AWS.<br>
+<br>
 🚀 Destaques da minha jornada ·<br>
 • Mais de 100 projetos publicados no GitHub.<br>
 • Formação em AWS Cloud DevOps Engineer (em andamento).<br>
 • Certificações Full Stack e Microsoft Security & Infrastructure.<br>
 • Graduando em Desenvolvimento Full Stack (Tecnólogo) na Universidade Estácio.<br>
-
+<br>
 🔧 Minha atuação em Cloud & DevOps ·<br>
 Trabalho com infraestrutura AWS, configurando e gerenciando serviços como EC2, S3, RDS, VPC, EKS, Terraform e CloudFormation.
 Automatizo processos com CI/CD (AWS CodePipeline, GitLab CI/CD) e monitoro aplicações com CloudWatch e ELK Stack.
-Minha experiência inclui segurança na AWS (IAM, VPC, compliance), otimização de custos na nuvem e implementação de soluções escaláveis com Auto Scaling e Load Balancer.
-
+Minha experiência inclui segurança na AWS (IAM, VPC, compliance), otimização de custos na nuvem e implementação de soluções escaláveis com Auto Scaling e Load Balancer.<br>
+<br>
 📍 Próximo passo ·<br>
-Estou me preparando para a certificação AWS Solutions Architect e AWS DevOps Engineer, consolidando minha expertise em automação, infraestrutura como código e práticas DevOps na AWS.
-
+Estou me preparando para a certificação AWS Solutions Architect e AWS DevOps Engineer, consolidando minha expertise em automação, infraestrutura como código e práticas DevOps na AWS.<br>
+<br>
 📩 Aberto a oportunidades! Se sua empresa busca um profissional comprometido, proativo e apaixonado por tecnologia, vamos conversar!<br>
 ##
 <img align="right" src="https://user-images.githubusercontent.com/96168296/232656308-9affede6-2278-4606-97be-7ed26fb298c7.gif" alt="Coder GIF" width="200" height="185">
