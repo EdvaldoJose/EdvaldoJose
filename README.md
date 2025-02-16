@@ -50,7 +50,7 @@ Minha experiência inclui segurança na AWS (IAM, VPC, compliance), otimização
 📍 Próximo passo ·<br>
 Estou me preparando para a certificação AWS Solutions Architect e AWS DevOps Engineer, consolidando minha expertise em automação, infraestrutura como código e práticas DevOps na AWS.<br>
 <br>
-📩 Aberto a oportunidades! Se sua empresa busca um profissional comprometido, proativo e apaixonado por tecnologia, vamos conversar!<br>
+📩 Aberto a oportunidades! Se sua empresa busca um profissional comprometido, proativo e apaixonado por tecnologia, vamos conversar!
 <br>
 ##
 <img align="right" src="https://user-images.githubusercontent.com/96168296/232656308-9affede6-2278-4606-97be-7ed26fb298c7.gif" alt="Coder GIF" width="200" height="185">
