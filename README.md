@@ -36,10 +36,10 @@ Sou Cloud & DevOps Engineer e Desenvolvedor Backend, apaixonado pelo impacto da 
 Em 2022, migrei para o Desenvolvimento Web e, em 2023, concluí a formação pela Trybe, adquirindo expertise em desenvolvimento web, métodos ágeis e soft skills. Me especializei em JavaScript e Python e, desde então, venho ampliando minha atuação para Cloud & DevOps na AWS.
 
 🚀 Destaques da minha jornada ·<br>
-• Mais de 100 projetos publicados no GitHub.
-• Formação em AWS Cloud DevOps Engineer (em andamento).
-• Certificações Full Stack e Microsoft Security & Infrastructure.
-• Graduando em Desenvolvimento Full Stack (Tecnólogo) na Universidade Estácio.
+• Mais de 100 projetos publicados no GitHub.<br>
+• Formação em AWS Cloud DevOps Engineer (em andamento).<br>
+• Certificações Full Stack e Microsoft Security & Infrastructure.<br>
+• Graduando em Desenvolvimento Full Stack (Tecnólogo) na Universidade Estácio.<br>
 
 🔧 Minha atuação em Cloud & DevOps ·<br>
 Trabalho com infraestrutura AWS, configurando e gerenciando serviços como EC2, S3, RDS, VPC, EKS, Terraform e CloudFormation.
