@@ -27,11 +27,11 @@ Atualmente, estou fazendo um curso de Formação AWS e me preparando para a Cert
 <h2>Metas Futuras 🚀</h2>
 Estou em busca de certificações em Nuvem, como Cloud Engineer para arquitetura AWS, e certificações em Inteligência Artificial para aprimorar minhas habilidades e me tornar um desenvolvedor versátil. Meu objetivo é integrar equipes líderes em projetos tecnológicos impactantes, pois acredito que a colaboração é fundamental para superar desafios e alcançar metas extraordinárias. Tenho um compromisso constante com minha carreira em Desenvolvimento de Software, buscando sempre inovação e excelência técnica.
 
-<h2>Um pouco Sobre Mim 📌</h2>
+
 <img align="right" height="150" width="200" alt="edvaldo" src="https://www.tecnoschool.com.ar/img/gif-portadas-cursos/entrenamiento-en-programacion2.gif">
 
-Sou Cloud & DevOps Engineer e Desenvolvedor Backend, apaixonado pelo impacto da tecnologia nos negócios e nas pessoas. 
-Minha missão é otimizar e automatizar soluções na nuvem, garantindo eficiência, escalabilidade e segurança. Busco oportunidades como AWS Cloud DevOps Engineer ou Backend Developer, trazendo inovação e excelência para cada projeto.
+<h2>Um pouco Sobre Mim 📌</h2>
+Sou Cloud & DevOps Engineer e Desenvolvedor Backend, apaixonado pelo impacto da tecnologia nos negócios e nas pessoas. Minha missão é otimizar e automatizar soluções na nuvem, garantindo eficiência, escalabilidade e segurança. Busco oportunidades como AWS Cloud DevOps Engineer ou Backend Developer, trazendo inovação e excelência para cada projeto.
 
 💡 Minha trajetória ·<br>
 Em 2022, migrei para o Desenvolvimento Web e, em 2023, concluí a formação pela Trybe, adquirindo expertise em desenvolvimento web, métodos ágeis e soft skills. Me especializei em JavaScript e Python e, desde então, venho ampliando minha atuação para Cloud & DevOps na AWS.
