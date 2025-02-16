@@ -27,16 +27,29 @@ Atualmente, estou fazendo um curso de Formação AWS e me preparando para a Cert
 <h2>Metas Futuras 🚀</h2>
 Estou em busca de certificações em Nuvem, como Cloud Engineer para arquitetura AWS, e certificações em Inteligência Artificial para aprimorar minhas habilidades e me tornar um desenvolvedor versátil. Meu objetivo é integrar equipes líderes em projetos tecnológicos impactantes, pois acredito que a colaboração é fundamental para superar desafios e alcançar metas extraordinárias. Tenho um compromisso constante com minha carreira em Desenvolvimento de Software, buscando sempre inovação e excelência técnica.
 
-## Sobre Mim 👨
+##📌 Um pouco Sobre Mim ·
 <img align="right" height="150" width="200" alt="edvaldo" src="https://www.tecnoschool.com.ar/img/gif-portadas-cursos/entrenamiento-en-programacion2.gif">
 
-Sou de Salvador, Bahia, e concluí o curso de Formação em Desenvolvimento Web Full Stack com foco em JavaScript e especialização em Python e Java pela Trybe, em 2023, onde publiquei mais de 100 projetos. Atualmente, estou finalizando uma Certificação em Java e me preparando para a Certificação em Arquitetura Cloud com AWS, com o objetivo de me especializar como Cloud Engineer.
+Sou Cloud & DevOps Engineer e Desenvolvedor Backend, apaixonado pelo impacto da tecnologia nos negócios e nas pessoas. Minha missão é otimizar e automatizar soluções na nuvem, garantindo eficiência, escalabilidade e segurança. Busco oportunidades como AWS Cloud DevOps Engineer ou Backend Developer, trazendo inovação e excelência para cada projeto.
 
-Acredito no valor do trabalho em equipe, seguindo o provérbio: "Sozinhos vamos mais rápido,  juntos vamos mais longe." A colaboração e o trabalho em equipe são fundamentais para o sucesso. Determinado a aprimorar minhas habilidades e conhecimentos, estou sempre focado em buscar a excelência na área de Desenvolvimento.
+💡 Minha trajetória ·
+Em 2022, migrei para o Desenvolvimento Web e, em 2023, concluí a formação pela Trybe, adquirindo expertise em desenvolvimento web, métodos ágeis e soft skills. Me especializei em JavaScript e Python e, desde então, venho ampliando minha atuação para Cloud & DevOps na AWS.
 
-Minha trajetória profissional combina mais de 10 anos trabalhando com TI, incluindo 3 anos dedicados ao desenvolvimento back-end e Cloud DevOps. Isso me permitiu adquirir uma visão abrangente sobre desafios e soluções práticas, especialmente no contexto de ferramentas como AWS, Terraform e Kubernetes. Além disso, venho de uma comunidade que valoriza a troca de conhecimentos e o crescimento colaborativo.
+🚀 Destaques da minha jornada ·
+• Mais de 100 projetos publicados no GitHub.
+• Formação em AWS Cloud DevOps Engineer (em andamento).
+• Certificações Full Stack e Microsoft Security & Infrastructure.
+• Graduando em Desenvolvimento Full Stack (Tecnólogo) na Universidade Estácio.
 
-Minha perspectiva única reside em compreender tanto os aspectos técnicos quanto humanos na resolução de problemas em nuvem. Acredito que minha vivência prática pode enriquecer discussões dentro do programa, trazendo um equilíbrio entre inovação e pragmatismo. Estou comprometido em compartilhar conhecimentos, aprender com outros membros e incentivar a inclusão de novas ideias, especialmente de profissionais que estão ingressando na área ou de diferentes origens e culturas.<br>
+🔧 Minha atuação em Cloud & DevOps ·
+Trabalho com infraestrutura AWS, configurando e gerenciando serviços como EC2, S3, RDS, VPC, EKS, Terraform e CloudFormation.
+Automatizo processos com CI/CD (AWS CodePipeline, GitLab CI/CD) e monitoro aplicações com CloudWatch e ELK Stack.
+Minha experiência inclui segurança na AWS (IAM, VPC, compliance), otimização de custos na nuvem e implementação de soluções escaláveis com Auto Scaling e Load Balancer.
+
+📍 Próximo passo ·
+Estou me preparando para a certificação AWS Solutions Architect e AWS DevOps Engineer, consolidando minha expertise em automação, infraestrutura como código e práticas DevOps na AWS.
+
+📩 Aberto a oportunidades! Se sua empresa busca um profissional comprometido, proativo e apaixonado por tecnologia, vamos conversar!<br>
 ##
 <img align="right" src="https://user-images.githubusercontent.com/96168296/232656308-9affede6-2278-4606-97be-7ed26fb298c7.gif" alt="Coder GIF" width="200" height="185">
 
