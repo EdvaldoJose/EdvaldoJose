@@ -48,7 +48,7 @@ Automatizo processos com CI/CD (AWS CodePipeline, GitLab CI/CD) e monitoro aplic
 Minha experiência inclui segurança na AWS (IAM, VPC, compliance), otimização de custos na nuvem e implementação de soluções escaláveis com Auto Scaling e Load Balancer.<br>
 <br>
 📍 Próximo passo ·<br>
-Estou me preparando para a certificação AWS Solutions Architect e AWS DevOps Engineer, consolidando minha expertise em automação, infraestrutura como código e práticas DevOps na AWS.<br>
+Estou me preparando para a certificação AWS Solutions Architect e AWS DevOps Engineer, consolidando meu domínio em automação, infraestrutura como código e práticas DevOps na AWS.<br>
 <br>
 📩 Aberto a oportunidades! ·<br>
 Se sua empresa busca um profissional comprometido, proativo e apaixonado por tecnologia, vamos conversar!<br>
