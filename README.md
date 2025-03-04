@@ -34,7 +34,7 @@ Estou em busca de certificações em Nuvem, como Cloud Engineer para arquitetura
 Como Cloud DevOps Engineer e Desenvolvedor Backend, sou apaixonado pelo impacto da tecnologia nos negócios e nas pessoas. Minha missão é otimizar e automatizar soluções na nuvem, garantindo eficiência, escalabilidade e segurança. Busco oportunidades como AWS Cloud DevOps Engineer ou Backend Developer, trazendo inovação e excelência para cada projeto.<br>
 <br>
 💡 Minha trajetória ·<br>
-Em 2022, migrei para o Desenvolvimento Web e, em 2023, concluí a formação pela Trybe, adquirindo expertise em desenvolvimento web, métodos ágeis e soft skills. Me especializei em JavaScript e Python e, desde então, venho ampliando minha atuação para Cloud & DevOps na AWS.<br>
+Em mar/2022, migrei para o Desenvolvimento Web e, em out/2023, concluí a formação pela Trybe, adquirindo expertise em desenvolvimento web, métodos ágeis e soft skills. Me especializei em JavaScript e Python e, desde então, venho ampliando minha atuação para Cloud & DevOps na AWS.<br>
 <br>
 🚀 Destaques da minha jornada ·<br>
 • Mais de 100 projetos publicados no GitHub.<br>
