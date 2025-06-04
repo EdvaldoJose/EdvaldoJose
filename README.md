@@ -33,7 +33,7 @@ Iniciei minha formação em Desenvolvimento Web em 2022, concluindo em 2023 o cu
 <h3>💡Destaques</h3>
 
 • 100+ projetos no GitHub, incluindo APIs RESTful com Node.js e Flask.<br>
-• Experiência em Lab. com AWS (EC2, ECR, ECS, S3, RDS, EKS, EFS), Terraform, Kubernetes, Docker e CI/CD (AWS CodePipeline, GitLab CI/CD).<br>
+• Experiência em Lab. com AWS (EC2, ECR, ECS, S3, RDS, EKS, EFS), Terraform, Kubernetes, Docker e CI/CD (AWS CodePipeline, GitLab).<br>
 • Desenvolvimento Backend com Node.js, Python, PostgreSQL, MySQL e segurança com IAM/VPC.<br>
 
  <h3>🔧 Minha atuação em Cloud & DevOps</h3>
