@@ -38,7 +38,7 @@ Iniciei minha formação em Desenvolvimento Web em 2022, concluindo em 2023 o cu
 • Certificações Full Stack e Microsoft Security & Infrastructure.<br>
 • Graduando em Desenvolvimento Full Stack (Tecnólogo) na Universidade Estácio.<br>
 
- <h3>Minha atuação em Cloud & DevOps🔧</h3>
+ <h3>Minha atuação em Cloud & DevOps 🔧</h3>
 
 Trabalho com infraestrutura AWS, configurando e gerenciando serviços como EC2, S3, RDS, VPC, EKS, Terraform e CloudFormation.
 Automatizo processos com CI/CD (AWS CodePipeline, GitLab CI/CD) e monitoro aplicações com CloudWatch e ELK Stack.
