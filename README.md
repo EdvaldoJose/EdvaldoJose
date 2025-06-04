@@ -18,7 +18,7 @@
 
 
 <h2 align
-="left">Full Stack Web Developer</h2>
+="left">Cloud DevOps AWS & Backend Developer</h2>
 <h3>👋 Olá, eu sou Edvaldo José </h3>
 Future Architect DevOps em Nuvem e Desenvolvedor Backend, apaixonado por tecnologia e automação. Trabalho com soluções escaláveis na AWS e desenvolvimento backend com Node.js, Python, PostgreSQL e MySQL, buscando oportunidades para inovar como Cloud DevOps AWS ou Backend Developer.<br>
 <br>
