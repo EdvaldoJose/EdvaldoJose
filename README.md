@@ -38,7 +38,7 @@ Iniciei minha formação em Desenvolvimento Web em 2022, concluindo em 2023 o cu
 • Certificações Full Stack e Microsoft Security & Infrastructure.<br>
 • Graduando em Desenvolvimento Full Stack (Tecnólogo) na Universidade Estácio.<br>
 
- <h3>Minha atuação em Cloud & DevOps</h3> 🔧<br>
+ <h3>Minha atuação em Cloud & DevOps🔧</h3>
 
 Trabalho com infraestrutura AWS, configurando e gerenciando serviços como EC2, S3, RDS, VPC, EKS, Terraform e CloudFormation.
 Automatizo processos com CI/CD (AWS CodePipeline, GitLab CI/CD) e monitoro aplicações com CloudWatch e ELK Stack.
@@ -50,7 +50,7 @@ Focado em consolidar meu domínio em AWS, automação e Backend Development com 
 
 <h3>Conecte-se!📩</h3>
 
-Aberto a oportunidades em Cloud DevOps ou Backend Development. Vamos conversar? <h3>🚀</h3><br>
+Aberto a oportunidades em Cloud DevOps ou Backend Development. Vamos conversar?<h3>🚀</h3>
 
 ##
 <img align="right" src="https://user-images.githubusercontent.com/96168296/232656308-9affede6-2278-4606-97be-7ed26fb298c7.gif" alt="Coder GIF" width="200" height="185">
