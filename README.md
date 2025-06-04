@@ -43,7 +43,7 @@ Trabalho com infraestrutura AWS, configurando e gerenciando serviços como EC2, 
 Automatizo processos com CI/CD (AWS CodePipeline, GitLab CI/CD) e monitoro aplicações com CloudWatch e ELK Stack.
 Minha experiência inclui segurança na AWS (IAM, VPC, compliance), otimização de custos na nuvem e implementação de soluções escaláveis com Auto Scaling e Load Balancer.<br>
 
-<h3>📍Próximo passo</h3>
+<h3>📍Próximos passos</h3>
 
 
 Focado em consolidar meu domínio em AWS, automação e Backend Development com certificações e projetos práticos. Após concluir minha graduação e certificações, planejo buscar um MBA em Inteligência Artificial para explorar automação inteligente.<br>
