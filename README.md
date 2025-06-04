@@ -26,28 +26,29 @@ Future Architect DevOps em Nuvem e Desenvolvedor Backend, apaixonado por tecnolo
 <img align="right" height="150" width="200"
  alt="edvaldo" src="https://www.tecnoschool.com.ar/img/gif-portadas-cursos/entrenamiento-en-programacion2.gif">
 
-<h2>Minha trajetória 📌</h2>
+<h2>📌Minha trajetória</h2>
 
 Iniciei minha formação em Desenvolvimento Web em 2022, concluindo em 2023 o curso de programação na Trybe - Escola de Tecnologia, onde me especializei em JavaScript, Python e metodologias ágeis. Desde 2024, venho aprofundando meus estudos em AWS, preparando-me para a certificação AWS Solutions Architect – Associate (prova em novembro de 2025), seguida pela AWS DevOps Engineer – Professional. Sou graduando em Desenvolvimento Full Stack (Tecnólogo) pela Universidade Estácio, com formação em andamento.<br>
 
-<h3>Destaques💡</h3>
+<h3>💡Destaques</h3>
 
 • 100+ projetos no GitHub, incluindo APIs RESTful com Node.js e Flask.<br>
 • Experiência em Lab com AWS (EC2, S3, RDS, EKS), Terraform, Kubernetes, Docker e CI/CD (AWS CodePipeline, GitLab CI/CD).<br>
 • Desenvolvimento Backend com Node.js, Python, PostgreSQL, MySQL e segurança com IAM/VPC.<br>
 • Graduando em Desenvolvimento Full Stack (Tecnólogo) na Universidade Estácio.<br>
 
- <h3>Minha atuação em Cloud & DevOps 🔧</h3>
+ <h3>🔧 Minha atuação em Cloud & DevOps</h3>
 
 Trabalho com infraestrutura AWS, configurando e gerenciando serviços como EC2, S3, RDS, VPC, EKS, Terraform e CloudFormation.
 Automatizo processos com CI/CD (AWS CodePipeline, GitLab CI/CD) e monitoro aplicações com CloudWatch e ELK Stack.
 Minha experiência inclui segurança na AWS (IAM, VPC, compliance), otimização de custos na nuvem e implementação de soluções escaláveis com Auto Scaling e Load Balancer.<br>
 
-<h3>Próximo passo📍</h3>
+<h3>📍Próximo passo</h3>
+
 
 Focado em consolidar meu domínio em AWS, automação e Backend Development com certificações e projetos práticos. Após concluir minha graduação e certificações, planejo buscar um MBA em Inteligência Artificial para explorar automação inteligente.<br>
 
-<h3>Conecte-se! 📩</h3>
+<h3>📩 Conecte-se!</h3>
 
 Aberto a oportunidades em Cloud DevOps ou Backend Development. Vamos conversar? 🚀
 
