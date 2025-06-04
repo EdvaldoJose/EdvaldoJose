@@ -320,7 +320,7 @@ Aberto a oportunidades em Cloud DevOps ou Backend Development. Vamos conversar? 
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{EdvaldoJose}/count.svg" /></p> 
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EdvaldoJose&theme=gotham)](https://github.com/EdvaldoJose/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EdvaldoJose&theme=gotham)](https://github.com/EdvaldoJose/github-readme-activity-graph) 
 
 ## Framework Use 🚥
 <div>
