@@ -23,7 +23,8 @@
 Future Architect DevOps em Nuvem e Desenvolvedor Backend, apaixonado por tecnologia e automação. Trabalho com soluções escaláveis na AWS e desenvolvimento backend com Node.js, Python, PostgreSQL e MySQL, buscando oportunidades para inovar como Cloud DevOps AWS ou Backend Developer.<br>
 <br>
 
-<img align="right" height="150" width="200" alt="edvaldo" src="https://www.tecnoschool.com.ar/img/gif-portadas-cursos/entrenamiento-en-programacion2.gif">
+<img align="right" height="150" width="200"
+ alt="edvaldo" src="https://www.tecnoschool.com.ar/img/gif-portadas-cursos/entrenamiento-en-programacion2.gif">
 
 <h2>Minha trajetória 📌</h2>
 
@@ -34,7 +35,6 @@ Iniciei minha formação em Desenvolvimento Web em 2022, concluindo em 2023 o cu
 • 100+ projetos no GitHub, incluindo APIs RESTful com Node.js e Flask.<br>
 • Experiência em Lab com AWS (EC2, S3, RDS, EKS), Terraform, Kubernetes, Docker e CI/CD (AWS CodePipeline, GitLab CI/CD).<br>
 • Desenvolvimento Backend com Node.js, Python, PostgreSQL, MySQL e segurança com IAM/VPC.<br>
-• Certificações Full Stack e Microsoft Security & Infrastructure.<br>
 • Graduando em Desenvolvimento Full Stack (Tecnólogo) na Universidade Estácio.<br>
 
  <h3>Minha atuação em Cloud & DevOps 🔧</h3>
@@ -45,7 +45,7 @@ Minha experiência inclui segurança na AWS (IAM, VPC, compliance), otimização
 
 <h3>Próximo passo📍</h3>
 
-Focado em consolidar meu domínio em AWS, automação e Backend Development com certificações e projetos práticos.<br>
+Focado em consolidar meu domínio em AWS, automação e Backend Development com certificações e projetos práticos. Após concluir minha graduação e certificações, planejo buscar um MBA em Inteligência Artificial para explorar automação inteligente.<br>
 
 <h3>Conecte-se! 📩</h3>
 
