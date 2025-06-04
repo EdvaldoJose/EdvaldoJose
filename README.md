@@ -23,8 +23,7 @@
 Future Architect DevOps em Nuvem e Desenvolvedor Backend, apaixonado por tecnologia e automação. Trabalho com soluções escaláveis na AWS e desenvolvimento backend com Node.js, Python, PostgreSQL e MySQL, buscando oportunidades para inovar como Cloud DevOps AWS ou Backend Developer.<br>
 <br>
 
-<img align="right" height="150" width="200" alt="edvaldo" src="https://www.tecnoschool.com.ar/img/gif-portadas-cursos/entrenamiento-en-programacion2.gif"
->
+<img align="right" height="150" width="200" alt="edvaldo" src="https://www.tecnoschool.com.ar/img/gif-portadas-cursos/entrenamiento-en-programacion2.gif">
 
 <h2>Minha trajetória 📌</h2>
 
