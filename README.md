@@ -50,7 +50,7 @@ Focado em consolidar meu domínio em AWS, automação e Backend Development com 
 
 <h3>Conecte-se!📩</h3>
 
-Aberto a oportunidades em Cloud DevOps ou Backend Development. Vamos conversar? 🚀<br>
+Aberto a oportunidades em Cloud DevOps ou Backend Development. Vamos conversar? <h3>🚀</h3><br>
 
 ##
 <img align="right" src="https://user-images.githubusercontent.com/96168296/232656308-9affede6-2278-4606-97be-7ed26fb298c7.gif" alt="Coder GIF" width="200" height="185">
