@@ -33,12 +33,12 @@ Iniciei minha formação em Desenvolvimento Web em 2022, concluindo em 2023 o cu
 • Destaques💡<br>
 
 · 100+ projetos no GitHub, incluindo APIs RESTful com Node.js e Flask.<br>
-· Experiência em AWS (EC2, S3, RDS, EKS), Terraform, Kubernetes, Docker e CI/CD (AWS CodePipeline, GitLab CI/CD).<br>
+· Experiência em Lab com AWS (EC2, S3, RDS, EKS), Terraform, Kubernetes, Docker e CI/CD (AWS CodePipeline, GitLab CI/CD).<br>
 · Desenvolvimento Backend com Node.js, Python, PostgreSQL, MySQL e segurança com IAM/VPC.<br>
 · Certificações Full Stack e Microsoft Security & Infrastructure.<br>
 · Graduando em Desenvolvimento Full Stack (Tecnólogo) na Universidade Estácio.<br>
 
- • Minha atuação em Cloud & DevOps🔧<br>
+ • Minha atuação em Cloud & DevOps 🔧<br>
 
 Trabalho com infraestrutura AWS, configurando e gerenciando serviços como EC2, S3, RDS, VPC, EKS, Terraform e CloudFormation.
 Automatizo processos com CI/CD (AWS CodePipeline, GitLab CI/CD) e monitoro aplicações com CloudWatch e ELK Stack.
@@ -48,9 +48,9 @@ Minha experiência inclui segurança na AWS (IAM, VPC, compliance), otimização
 
 Focado em consolidar meu domínio em AWS, automação e Backend Development com certificações e projetos práticos.<br>
 
-• Conecte-se!📩<br>
+• Conecte-se! 📩<br>
 
-Aberto a oportunidades em Cloud DevOps ou Backend Development. Vamos conversar?🚀<br>
+Aberto a oportunidades em Cloud DevOps ou Backend Development. Vamos conversar? 🚀<br>
 
 ##
 <img align="right" src="https://user-images.githubusercontent.com/96168296/232656308-9affede6-2278-4606-97be-7ed26fb298c7.gif" alt="Coder GIF" width="200" height="185">
