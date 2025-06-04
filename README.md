@@ -20,38 +20,38 @@
 <h2 align
 ="left">Full Stack Web Developer</h2>
 <h3>👋 Olá, eu sou Edvaldo José </h3>
-Sou Desenvolvedor Web Full Stack com foco em JavaScript, Python e Java, apaixonado por tecnologia e com um compromisso constante com o aprendizado. Fiz a transição para o Desenvolvimento Web e concluí a Formação em Desenvolvimento Web Full Stack pela Trybe em 2023, onde publiquei mais de 100 projetos em meu GitHub.<br>
+Future Architect DevOps em Nuvem e Desenvolvedor Backend, apaixonado por tecnologia e automação. Trabalho com soluções escaláveis na AWS e desenvolvimento backend com Node.js, Python, PostgreSQL e MySQL, buscando oportunidades para inovar como Cloud DevOps AWS ou Backend Developer.<br>
 <br>
-Atualmente, estou fazendo um curso de Formação AWS e me preparando para a Certificação de Cloud DevOps Engineer em Arquitetura de Nuvem AWS. Paralelamente, curso Tecnólogo em Desenvolvimento Full Stack na Universidade Estácio. Meu foco é agregar valor a projetos de longo prazo e contribuir para seu crescimento sustentável. 
-<br>
-<h2>Metas Futuras 🚀</h2>
-Estou em busca de certificações em Nuvem, como Cloud Engineer para arquitetura AWS, e certificações em Inteligência Artificial para aprimorar minhas habilidades e me tornar um desenvolvedor versátil. Meu objetivo é integrar equipes líderes em projetos tecnológicos impactantes, pois acredito que a colaboração é fundamental para superar desafios e alcançar metas extraordinárias. Tenho um compromisso constante com minha carreira em Desenvolvimento de Software, buscando sempre inovação e excelência técnica.
 
 
 <img align="right" height="150" width="200" alt="edvaldo" src="https://www.tecnoschool.com.ar/img/gif-portadas-cursos/entrenamiento-en-programacion2.gif">
 
-<h2>Um pouco Sobre Mim 📌</h2>
-Como Cloud DevOps Engineer e Desenvolvedor Backend, sou apaixonado pelo impacto da tecnologia nos negócios e nas pessoas. Minha missão é otimizar e automatizar soluções na nuvem, garantindo eficiência, escalabilidade e segurança. Busco oportunidades como AWS Cloud DevOps Engineer ou Backend Developer, trazendo inovação e excelência para cada projeto.<br>
+<h2>Minha trajetória 📌</h2>
+
 <br>
 💡 Minha trajetória ·<br>
-Em mar/2022, migrei para o Desenvolvimento Web e, em out/2023, concluí a formação pela Trybe, adquirindo expertise em desenvolvimento web, métodos ágeis e soft skills. Me especializei em JavaScript e Python e, desde então, venho ampliando minha atuação para Cloud & DevOps na AWS.<br>
+Iniciei minha formação em Desenvolvimento Web em 2022, concluindo em 2023 o curso de programação na Trybe - Escola de Tecnologia, onde me especializei em JavaScript, Python e metodologias ágeis. Desde 2024, venho aprofundando meus estudos em AWS, preparando-me para a certificação AWS Solutions Architect – Associate (prova em novembro de 2025), seguida pela AWS DevOps Engineer – Professional. Sou graduando em Desenvolvimento Full Stack (Tecnólogo) pela Universidade Estácio, com formação em andamento.<br>
 <br>
-🚀 Destaques da minha jornada ·<br>
-• Mais de 100 projetos publicados no GitHub.<br>
-• Formação em AWS Cloud DevOps Engineer (em andamento).<br>
+
+🚀 Destaques ·<br>
+• 100+ projetos no GitHub, incluindo APIs RESTful com Node.js e Flask.<br>
+• Experiência em AWS (EC2, S3, RDS, EKS), Terraform, Kubernetes, Docker e CI/CD (AWS CodePipeline, GitLab CI/CD).<br>
+• Desenvolvimento Backend com Node.js, Python, PostgreSQL, MySQL e segurança com IAM/VPC.<br>
 • Certificações Full Stack e Microsoft Security & Infrastructure.<br>
 • Graduando em Desenvolvimento Full Stack (Tecnólogo) na Universidade Estácio.<br>
 <br>
+
 🔧 Minha atuação em Cloud & DevOps ·<br>
 Trabalho com infraestrutura AWS, configurando e gerenciando serviços como EC2, S3, RDS, VPC, EKS, Terraform e CloudFormation.
 Automatizo processos com CI/CD (AWS CodePipeline, GitLab CI/CD) e monitoro aplicações com CloudWatch e ELK Stack.
 Minha experiência inclui segurança na AWS (IAM, VPC, compliance), otimização de custos na nuvem e implementação de soluções escaláveis com Auto Scaling e Load Balancer.<br>
 <br>
 📍 Próximo passo ·<br>
-Estou me preparando para a certificação AWS Solutions Architect e AWS DevOps Engineer, consolidando meu domínio em automação, infraestrutura como código e práticas DevOps na AWS.<br>
+Focado em consolidar meu domínio em AWS, automação e Backend Development com certificações e projetos práticos.<br>
 <br>
-📩 Aberto a oportunidades! ·<br>
-Se sua empresa busca um profissional comprometido, proativo e apaixonado por tecnologia, vamos conversar!<br>
+
+📩 Conecte-se! ·<br>
+Aberto a oportunidades em Cloud DevOps ou Backend Development. Vamos conversar? 🚀<br>
 
 ##
 <img align="right" src="https://user-images.githubusercontent.com/96168296/232656308-9affede6-2278-4606-97be-7ed26fb298c7.gif" alt="Coder GIF" width="200" height="185">
