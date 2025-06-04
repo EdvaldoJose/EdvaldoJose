@@ -28,10 +28,7 @@ Future Architect DevOps em Nuvem e Desenvolvedor Backend, apaixonado por tecnolo
 
 <h2>Minha trajetória 📌</h2>
 
-<br>
-💡 Minha trajetória ·<br>
 Iniciei minha formação em Desenvolvimento Web em 2022, concluindo em 2023 o curso de programação na Trybe - Escola de Tecnologia, onde me especializei em JavaScript, Python e metodologias ágeis. Desde 2024, venho aprofundando meus estudos em AWS, preparando-me para a certificação AWS Solutions Architect – Associate (prova em novembro de 2025), seguida pela AWS DevOps Engineer – Professional. Sou graduando em Desenvolvimento Full Stack (Tecnólogo) pela Universidade Estácio, com formação em andamento.<br>
-<br>
 
 🚀 Destaques ·<br>
 • 100+ projetos no GitHub, incluindo APIs RESTful com Node.js e Flask.<br>
@@ -39,16 +36,14 @@ Iniciei minha formação em Desenvolvimento Web em 2022, concluindo em 2023 o cu
 • Desenvolvimento Backend com Node.js, Python, PostgreSQL, MySQL e segurança com IAM/VPC.<br>
 • Certificações Full Stack e Microsoft Security & Infrastructure.<br>
 • Graduando em Desenvolvimento Full Stack (Tecnólogo) na Universidade Estácio.<br>
-<br>
 
 🔧 Minha atuação em Cloud & DevOps ·<br>
 Trabalho com infraestrutura AWS, configurando e gerenciando serviços como EC2, S3, RDS, VPC, EKS, Terraform e CloudFormation.
 Automatizo processos com CI/CD (AWS CodePipeline, GitLab CI/CD) e monitoro aplicações com CloudWatch e ELK Stack.
 Minha experiência inclui segurança na AWS (IAM, VPC, compliance), otimização de custos na nuvem e implementação de soluções escaláveis com Auto Scaling e Load Balancer.<br>
-<br>
+
 📍 Próximo passo ·<br>
 Focado em consolidar meu domínio em AWS, automação e Backend Development com certificações e projetos práticos.<br>
-<br>
 
 📩 Conecte-se! ·<br>
 Aberto a oportunidades em Cloud DevOps ou Backend Development. Vamos conversar? 🚀<br>
