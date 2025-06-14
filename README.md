@@ -31,6 +31,7 @@ Iniciei minha formação em Desenvolvimento Web em 2022, concluindo em 2023 o cu
 
 <h3>💡Destaques</h3>
 • 100+ projetos Banckend e Aws publicados no GitHub.
+
 • Experiência em projetos lab. com AWS (EC2, ECR, ECS, S3, VPC, RDS, EKS, EFS), Terraform, Kubernetes, Docker, CI/CD (AWS CodePipeline, GitLab CI/CD), Monitoramento com CloudWatch e segurança IAM.<br>
 
 <h3>🔧 Minha atuação em Cloud & DevOps</h3>
