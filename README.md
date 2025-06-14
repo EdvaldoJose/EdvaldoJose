@@ -19,14 +19,14 @@
 
 <h2 align
 ="left">Cloud DevOps AWS & Backend Developer</h2>
-<h3>👋Olá, eu sou Edvaldo José </h3>
+<h2>👋Olá, eu sou Edvaldo José </h2>
 Engenheiro DevOps com 2 anos de experiência em AWS e Desenvolvedor Backend, apaixonado por tecnologia e automação. Trabalho com soluções escaláveis na AWS e desenvolvimento backend com Node.js, Python, PostgreSQL e MySQL, buscando oportunidades para inovar como Cloud DevOps AWS ou Backend Developer.<br>
 <br>
 
 <img align="right" height="150" width="200"
  alt="edvaldo" src="https://www.tecnoschool.com.ar/img/gif-portadas-cursos/entrenamiento-en-programacion2.gif">
 
-<h2>📌Minha trajetória</h2>
+<h3>📌Minha trajetória</h3>
 Iniciei minha formação em Desenvolvimento Web em 2022, concluindo em 2023 o curso de programação na Trybe - Escola de Tecnologia, onde me especializei em JavaScript, Python e metodologias ágeis. Desde 2024, venho aprofundando meus estudos em AWS, preparando-me para a certificação AWS Solutions Architect – Associate (prova em novembro de 2025), seguida pela AWS DevOps Engineer – Professional. Sou graduando em Desenvolvimento Full Stack (Tecnólogo) pela Universidade Estácio, com formação em andamento (2024-2027).<br>
 
 <h3>💡Destaques</h3>
