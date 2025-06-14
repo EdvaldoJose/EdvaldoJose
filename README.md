@@ -32,7 +32,7 @@ Iniciei minha formação em Desenvolvimento Web em 2022, concluindo em 2023 o cu
 <h3>💡Destaques</h3>
 • 100+ projetos Banckend e Aws publicados no GitHub.
 
-• Experiência em projetos lab. com AWS (EC2, ECR, ECS, S3, VPC, RDS, EKS, EFS), Terraform, Kubernetes, Docker, CI/CD (AWS CodePipeline, GitLab CI/CD), Monitoramento com CloudWatch e segurança IAM.<br>
+• Experiência em projetos lab. com AWS (EC2, ECR, ECS, S3, VPC, RDS, EKS, EFS), IaC Terraform, Kubernetes, Docker, CI/CD (AWS CodePipeline, GitLab CI/CD), Monitoramento com CloudWatch e segurança IAM.<br>
 
 <h3>🔧 Minha atuação em Cloud & DevOps</h3>
 Trabalho com infraestrutura AWS, configurando serviços como EC2, S3, RDS, VPC, EKS, Terraform e CloudFormation. Automatizo processos com CI/CD (AWS CodePipeline, GitLab CI/CD) e monitoro aplicações com CloudWatch e ELK Stack. Minha experiência inclui segurança na AWS (IAM, VPC, compliance), otimização de custos e soluções escaláveis com Auto Scaling e Load Balancer, como em um projeto recente com Amazon EKS e Terraform para alta disponibilidade.<br>
