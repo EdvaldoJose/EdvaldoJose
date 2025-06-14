@@ -30,9 +30,8 @@ Engenheiro DevOps com 2 anos de experiência em AWS e Desenvolvedor Backend, apa
 Iniciei minha formação em Desenvolvimento Web em 2022, concluindo em 2023 o curso de programação na Trybe - Escola de Tecnologia, onde me especializei em JavaScript, Python e metodologias ágeis. Desde 2024, venho aprofundando meus estudos em AWS, preparando-me para a certificação AWS Solutions Architect – Associate (prova em novembro de 2025), seguida pela AWS DevOps Engineer – Professional. Sou graduando em Desenvolvimento Full Stack (Tecnólogo) pela Universidade Estácio, com formação em andamento (2024-2027).<br>
 
 <h3>💡Destaques</h3>
-• 100+ projetos no GitHub, incluindo APIs RESTful com Node.js e Flask.<br>
-• Experiência em Lab. com AWS (EC2, ECR, ECS, S3, RDS, EKS, EFS), Terraform, Kubernetes, Docker e CI/CD (AWS CodePipeline, GitLab).<br>
-• Desenvolvimento Backend com Node.js, Python, PostgreSQL, MySQL e segurança com IAM/VPC.<br>
+• 100+ projetos Banckend e Aws publicados no GitHub.
+• Experiência em projetos lab. com AWS (EC2, ECR, ECS, S3, VPC, RDS, EKS, EFS), Terraform, Kubernetes, Docker, CI/CD (AWS CodePipeline, GitLab CI/CD), Monitoramento com CloudWatch e segurança IAM.<br>
 
 <h3>🔧 Minha atuação em Cloud & DevOps</h3>
 Trabalho com infraestrutura AWS, configurando serviços como EC2, S3, RDS, VPC, EKS, Terraform e CloudFormation. Automatizo processos com CI/CD (AWS CodePipeline, GitLab CI/CD) e monitoro aplicações com CloudWatch e ELK Stack. Minha experiência inclui segurança na AWS (IAM, VPC, compliance), otimização de custos e soluções escaláveis com Auto Scaling e Load Balancer, como em um projeto recente com Amazon EKS e Terraform para alta disponibilidade.<br>
