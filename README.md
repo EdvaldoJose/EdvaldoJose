@@ -27,7 +27,7 @@ Engenheiro DevOps com 2 anos de experiência em AWS e Desenvolvedor Backend, apa
  alt="edvaldo" src="https://www.tecnoschool.com.ar/img/gif-portadas-cursos/entrenamiento-en-programacion2.gif">
 
 <h3>📌 Minha trajetória</h3>
-Iniciei minha formação em Desenvolvimento Web em 2022, concluindo em 2023 o curso de programação na Trybe - Escola de Tecnologia, onde me especializei em JavaScript, Python e metodologias ágeis. Desde 2023, venho aprofundando meus estudos em AWS, preparando-me para a certificação AWS Solutions Architect – Associate (prova em novembro de 2025), seguida pela AWS DevOps Engineer – Professional. Sou graduando em Desenvolvimento Full Stack (Tecnólogo) pela Universidade Estácio, com formação em andamento (2024-2027).<br>
+Iniciei minha formação em Desenvolvimento Web em 2022, concluindo em 2023 o curso de programação na Trybe - Escola de Tecnologia, onde me especializei em JavaScript, Python e metodologias ágeis. Desde 2023, venho aprofundando meus estudos em AWS, estudando para a certificação AWS Solutions Architect – Associate (prova em novembro de 2025), seguida pela AWS DevOps Engineer – Professional. Sou graduando em Desenvolvimento Full Stack (Tecnólogo) pela Universidade Estácio, com formação em andamento (2024-2027).<br>
 
 <h3>💡Destaques</h3>
 • 100+ projetos Banckend e Aws publicados no GitHub.
