@@ -37,7 +37,7 @@ Iniciei minha formação em Desenvolvimento Web em 2022, concluindo em 2023 o cu
 <h3>🎯 Minha atuação em Cloud & DevOps</h3>
 Trabalho com infraestrutura AWS, configurando serviços como EC2, S3, RDS, VPC, EKS, Terraform e CloudFormation. Automatizo processos com CI/CD (AWS CodePipeline, GitLab CI/CD) e monitoro aplicações com CloudWatch e ELK Stack. Minha experiência inclui segurança na AWS (IAM, VPC, compliance), otimização de custos e soluções escaláveis com Auto Scaling e Load Balancer, como em um projeto recente com Amazon EKS e Terraform para alta disponibilidade.<br>
 
-<h3>🚀 Freelancer Cloud DevOps & Backend Developer (2024–Presente)</h3>
+<h3>🔗 Projetos Freelancer Cloud DevOps & Backend Developer (2024–Presente)</h3>
 • Implementei pipelines CI/CD com AWS CodePipeline e Terraform, reduzindo tempo de deploy em 30%.
 • Desenvolvi APIs RESTful com Node.js e PostgreSQL, integrando microservices em projetos escaláveis.
 • Configurei infraestruturas AWS (EC2, RDS, VPC) para clientes, otimizando custos em 15%.<br>
