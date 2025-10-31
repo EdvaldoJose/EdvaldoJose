@@ -30,7 +30,7 @@ Engenheiro DevOps com 2 anos de experiência em AWS e Desenvolvedor Backend, apa
 Iniciei minha formação em Desenvolvimento Web em 2022, concluindo em 2023 o curso de programação na Trybe - Escola de Tecnologia, onde me especializei em JavaScript, Python e metodologias ágeis. Desde 2023, venho aprofundando meus estudos em AWS. Estudando para a certificação AWS Certified Solutions Architect – Associate (SAA-C03, 2025), seguida pela AWS Certified DevOps Engineer – Professional (DOP-C02). Aprimorando meu inglês técnico para projetos globais e graduando em Desenvolvimento Full Stack (Tecnólogo) pela Universidade Estácio de Sá (2024–2027).<br>
 
 <h3>💡Destaques</h3>
-• 100+ projetos Banckend e Aws publicados no GitHub.
+• 90+ projetos Banckend e Aws publicados no GitHub.
 
 • Experiência em projetos lab. com AWS (EC2, ECR, ECS, S3, VPC, RDS, EKS, EFS), IaC Terraform, Kubernetes, Docker, CI/CD (AWS CodePipeline, GitLab CI/CD), Monitoramento com CloudWatch e segurança IAM.<br>
 
