@@ -112,7 +112,6 @@ Aberto a oportunidades em Cloud DevOps ou Backend Development. Vamos conversar? 
 
 <!-- VERSÃO EM INGLÊS (Oculta por padrão - Adicione os comentários <!-- e --> para esconder) -->
 
----
 
 <h2 align="left">Infrastructure & AWS Cloud DevOps Engineer</h2>
 <h2>👋 Hi, I'm Edvaldo José </h2>
@@ -120,6 +119,8 @@ Aberto a oportunidades em Cloud DevOps ou Backend Development. Vamos conversar? 
 **Infrastructure & Cloud DevOps Specialist** with over **12 years of experience in IT**. I **leverage** a decade-long foundation in networking and server administration to build modern **AWS Cloud-Native ecosystems**. My mission is to architect resilient, scalable, and cost-optimized systems.
 
 <br>
+
+---
 
 <img align="right" height="150" width="200" alt="edvaldo" src="https://www.tecnoschool.com.ar/img/gif-portadas-cursos/entrenamiento-en-programacion2.gif">
 
@@ -154,8 +155,8 @@ Looking for new challenges as an AWS Cloud DevOps Engineer or Backend Developer.
 - **LinkedIn:** [linkedin.com/in/edvaldo-jose](https://www.linkedin.com/in/edvaldo-jose/)
 - **WhatsApp:** (+55) 71-98557-2721
 
----
 
+---
 
   <br>
 <br>
