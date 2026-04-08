@@ -166,6 +166,7 @@ Looking for new challenges as an AWS Cloud DevOps Engineer or Backend Developer.
 ---
 
 <br>
+
 ## Minhas redes sociais 📱
 <table width="10px">
   <tbody>
