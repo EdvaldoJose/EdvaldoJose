@@ -110,7 +110,7 @@ Aberto a oportunidades em Cloud DevOps ou Backend Development. Vamos conversar? 
 <!-- FIM DA VERSÃO EM PORTUGUÊS -->
 
 
-<!-- VERSÃO EM INGLÊS (Oculta por padrão - Adicione os comentários <!-- e --> -->
+<!-- VERSÃO EM INGLÊS (Oculta por padrão - Adicione os comentários <!-- e --> 
 
 
 <h2 align="left">Infrastructure & AWS Cloud DevOps Engineer</h2>
