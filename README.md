@@ -16,7 +16,7 @@
 </body>
 </html>
 
-<!-- 
+<!-- VERSAO ANTIGA PORTUGUES
 <h2 align="left">Infrastructure & AWS Cloud DevOps Engineer</h2>
 <h2>👋 Olá, eu sou Edvaldo José </h2>
 
@@ -63,9 +63,9 @@ Especialista em **Infraestrutura e Cloud DevOps** com mais de **12 anos de jorna
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/edvaldo-jose)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edvaldojose.dev@gmail.com)
--->
+FIM VERSAO ANTIGA -->
 
-<!-- VERSÃO EM PORTUGUÊS (Remova o comentário abaixo para ativar) -->
+<!-- INICIO VERSÃO NOVA EM PORTUGUÊS (Remova o comentário abaixo para ativar) -->
 <!--
 <h2 align="left">Infrastructure & AWS Cloud DevOps Engineer</h2>
 <h2>👋 Olá, eu sou Edvaldo José </h2>
@@ -78,12 +78,21 @@ Especialista em **Infraestrutura e Cloud DevOps** com mais de **12 anos de jorna
 
 ### 🛠️ Toolbox Técnico
 
-*   **Cloud:** ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat&logo=amazon-aws&logoColor=white)
-*   **IaC & Automação:** ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) ![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-*   **Containers:** ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
-*   **CI/CD:** ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
-*   **Backend:** ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-*   **Banco:** ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+* **Cloud & IA:** ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat&logo=amazon-aws&logoColor=white) ![AWS Build](https://img.shields.io/badge/AWS_Build-FF9900?style=flat&logo=amazon-aws&logoColor=white) ![IA Kiro-CLI](https://img.shields.io/badge/IA_Kiro--CLI-black?style=flat&logo=openai&logoColor=white)
+  
+* **IaC & Automation:** ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) ![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+
+* **Containers:** ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
+
+* **CI/CD & GitOps:** ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![GitOps](https://img.shields.io/badge/GitOps-%23FF7E00.svg?style=flat&logo=argocd&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) 
+
+* **CI/CD & Git:** ![AWS CI/CD](https://img.shields.io/badge/AWS_CI/CD-FF9900?style=flat&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+
+* **OS CLI & Tools:** ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Terminal](https://img.shields.io/badge/CLI-black?style=flat&logo=gnu-bash&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) 
+
+* **Backend:** ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
+
+* **Databases:** ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 
 ### 📌 Minha trajetória
 Vim das "trincheiras" da TI, com 10 anos de experiência em redes e Data Centers, o que me dá uma visão profunda de conectividade que aplico hoje na nuvem. Sou formado pela Trybe (2023) e graduando em Desenvolvimento Full Stack pela Estácio (2025–2028). Atualmente focado na certificação **AWS Solutions Architect – Associate (SAA-C03)**.
@@ -107,14 +116,9 @@ Aberto a oportunidades em Cloud DevOps ou Backend Development. Vamos conversar? 
 - **LinkedIn:** [linkedin.com/in/edvaldo-jose](https://www.linkedin.com/in/edvaldo-jose/)
 - **WhatsApp:** (+55) 71-98557-2721
 -->
-<!-- FIM DA VERSÃO EM PORTUGUÊS -->
+<!-- FIM DA VERSÃO NOVA EM PORTUGUÊS -->
 
-
-
-
-
-
-<!-- VERSÃO EM INGLÊS (Oculta por padrão - Adicione os comentários <!-- e --> 
+<!-- INICIO VERSÃO NOVA EM INGLÊS (Oculta por padrão - Adicione os comentários <!-- e --> 
 
 <h2 align="left">Infrastructure & AWS Cloud DevOps Engineer</h2>
 <h2>👋 Hi, I'm Edvaldo José </h2>
@@ -139,8 +143,7 @@ Aberto a oportunidades em Cloud DevOps ou Backend Development. Vamos conversar? 
 
 * **OS CLI & Tools:** ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Terminal](https://img.shields.io/badge/CLI-black?style=flat&logo=gnu-bash&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) 
 
-* **Backend:** ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-<img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" height="20">
+* **Backend:** ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) 
 
 * **Databases:** ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
     
@@ -177,6 +180,7 @@ Looking for new challenges as an AWS Cloud DevOps Engineer or Backend Developer.
 - **LinkedIn:** [linkedin.com/in/edvaldo-jose](https://www.linkedin.com/in/edvaldo-jose/)
 - **WhatsApp:** (+55) 71-98557-2721
 <br>
+
 
 ## Minhas redes sociais 📱
 <table width="10px">
