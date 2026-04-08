@@ -24,6 +24,8 @@ Especialista em **Infraestrutura e Cloud DevOps** com mais de **12 anos de jorna
 
 <br>
 
+---
+
 <img align="right" height="150" width="200" alt="edvaldo" src="https://www.tecnoschool.com.ar/img/gif-portadas-cursos/entrenamiento-en-programacion2.gif">
 
 
