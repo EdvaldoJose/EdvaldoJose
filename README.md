@@ -21,6 +21,7 @@
 <h2>👋 Olá, eu sou Edvaldo José </h2>
 
 Especialista em **Infraestrutura e Cloud DevOps** com mais de **12 anos de jornada em TI**. Unifico uma base sólida de uma década em redes e suporte técnico com o domínio moderno de ecossistemas Cloud-Native. Minha missão é criar sistemas resilientes, escaláveis e com custos otimizados na AWS.
+
 <br>
 ---
 
