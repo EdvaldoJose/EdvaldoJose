@@ -26,52 +26,54 @@ Especialista em **Infraestrutura e Cloud DevOps** com mais de **12 anos de jorna
 
 <img align="right" height="150" width="200" alt="edvaldo" src="https://www.tecnoschool.com.ar/img/gif-portadas-cursos/entrenamiento-en-programacion2.gif">
 
+
 ### 🛠️ Toolbox Técnico
 
 *   **Cloud:**
-*   ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat&logo=amazon-aws&logoColor=white)
+*   ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat&logo=amazon-aws&logoColor=white) (EC2, EKS, S3, VPC, RDS, Lambda, CloudWatch)
 *   **IaC & Automação:**
 *   ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)
-*   ![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+*   ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=flat&logo=ansible&logoColor=white)
 *   **Containers:**
 *   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-*   ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
-*   **CI/CD:**
+*   ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) (EKS)
+*   **CI/CD & GitOps:**
 *   ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
 *   ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
 *   **Backend:**
 *   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 *   ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-*   **Dados:**
+*   **Bancos de Dados:**
 *   ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 *   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 
-### 📌 Minha trajetória
-Vim do "chão de fábrica" da TI, com 10 anos de experiência em redes e Data Centers, o que me dá uma visão profunda de protocolos e conectividade que aplico hoje na nuvem. 
-Sou formado pela Trybe (2023) e graduando em Desenvolvimento Full Stack pela Estácio (2025–2028). 
-Atualmente focado na certificação **AWS Solutions Architect – Associate (SAA-C03)**.
+---
 
-### 💡 Destaques & Resultados
-• **Eficiência Operacional:** <br>
-• Implementação de pipelines CI/CD automatizados, reduzindo o tempo de deploy em **30%**.
-• **Otimização (FinOps):** <br>
-• Redução de custos AWS em **15%** através de instâncias Spot, Auto-scaling e revisões Well-Architected.
-• **Mão na Massa:** >br>
-• 116+ projetos publicados focados em Backend e Cloud AWS (EKS, Terraform, VPC, IAM).
+### 📈 Destaques e Resultados
 
-### 🔗 Projetos Freelancer (2024–Presente) <br>
-• Estruturação de infraestruturas escaláveis (EC2, RDS, VPC) e APIs resilientes para startups. <br>
-• Automação total de ambientes via Terraform e monitoramento com ELK Stack e CloudWatch.
+*   **Eficiência Operacional:** <br>
+*   Implementação de pipelines CI/CD automatizados, reduzindo o tempo de deploy em **30%**.
+*   **FinOps:** <br>
+*   Otimização de custos AWS em **15%** através de instâncias Spot, Auto-scaling e revisões Well-Architected.
+*   **Infraestrutura como Código:** <br>
+*   Provisionamento total de ambientes complexos via Terraform e CloudFormation.
+*   **Segurança:** <br>
+*   Estruturação de ambientes VPC, IAM e Compliance para arquiteturas de microserviços.
 
-### 📩 Conecte-se!
-Aberto a oportunidades em Cloud DevOps ou Backend Development. Vamos conversar? 🚀
+---
 
-<img align="right" src="https://user-images.githubusercontent.com/96168296/232656308-9affede6-2278-4606-97be-7ed26fb298c7.gif" alt="Coder GIF" width="200" height="185">
+### 🎓 Educação & Certificações
 
-### Contato 📬
-- **E-mail:** edvaldojose.dev@gmail.com
-- **LinkedIn:** [linkedin.com/in/edvaldo-jose](https://www.linkedin.com/in/edvaldo-jose/)
-- **WhatsApp:** (+55) 71-98557-2721
+*   **Graduação:** Desenv. Full Stack - Estácio (2025–2028)
+*   **Formação:** Desenv. Web - Trybe (2023)
+*   **Foco Atual:** Preparação para AWS Certified Solutions Architect – Associate (SAA-C03).
+
+---
+
+### 📫 Vamos conversar?
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/edvaldo-jose)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edvaldojose.dev@gmail.com)
 
 
   <br>
