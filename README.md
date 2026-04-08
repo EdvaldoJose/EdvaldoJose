@@ -154,6 +154,7 @@ I come from the IT "trenches," with 10 years of experience in Networking and Dat
 ### 📩 Let's Connect!
 Looking for new challenges as an AWS Cloud DevOps Engineer or Backend Developer. Ready to scale your infrastructure? 🚀
 
+
 <img align="right" src="https://user-images.githubusercontent.com/96168296/232656308-9affede6-2278-4606-97be-7ed26fb298c7.gif" alt="Coder GIF" width="200" height="185">
 
 ---
