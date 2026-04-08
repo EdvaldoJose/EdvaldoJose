@@ -115,7 +115,9 @@ Aberto a oportunidades em Cloud DevOps ou Backend Development. Vamos conversar? 
 
 <h2 align="left">Infrastructure & AWS Cloud DevOps Engineer</h2>
 <h2>👋 Hi, I'm Edvaldo José </h2>
+
 ---
+
 **Infrastructure & Cloud DevOps Specialist** with over **12 years of experience in IT**. I **leverage** a decade-long foundation in networking and server administration to build modern **AWS Cloud-Native ecosystems**. My mission is to architect resilient, scalable, and cost-optimized systems.
 
 ---
