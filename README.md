@@ -442,7 +442,7 @@ Looking for new challenges as an AWS Cloud DevOps Engineer or Backend Developer.
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/EdvaldoJose/count.svg" /></p> 
 </div>
 -->
-
+<!--
 ## Atividade no GitHub :octocat:
 
 <p align="center">
@@ -463,6 +463,29 @@ Looking for new challenges as an AWS Cloud DevOps Engineer or Backend Developer.
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EdvaldoJose&theme=gotham)](https://github.com/EdvaldoJose/github-readme-activity-graph)
+-->
+
+## Atividade no GitHub :octocat:
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdvaldoJose&layout=compact&theme=gotham&title_color=2f97c1&icon_color=f5b700&text_color=0cf574&bg_color=040f0f" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=EdvaldoJose&show_icons=true&theme=gotham&title_color=2f97c1&icon_color=f5b700&text_color=0cf574&bg_color=040f0f" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EdvaldoJose&theme=gotham&bg_color=040f0f&color=0cf574&line=2f97c1" width="100%" />
+</p>
+
+## Atividade no Site 📈
+
+<p align="center">
+  <b>VISITANTES</b><br>
+  <img src="https://profile-counter.glitch.me/EdvaldoJose/count.svg" />
+</p>
+
+
+
+
 
 ## Framework Use 🚥
 <div>
