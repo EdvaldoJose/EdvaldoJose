@@ -407,7 +407,7 @@ Looking for new challenges as an AWS Cloud DevOps Engineer or Backend Developer.
 	 </tbody>
       </table>
 
-<!--	       
+	       
 ## Atividade no GitHub :octocat:
 
 <div>
@@ -417,43 +417,16 @@ Looking for new challenges as an AWS Cloud DevOps Engineer or Backend Developer.
 </div>
 
 
-  ![github contribution grid snake animation](https://raw.githubusercontent.com/Eliedson1979/Eliedson1979/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/EdvaldoJose/EdvaldoJose/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
  		       
 ## Atividade no Site 📈
 <div align="center">
 <p align="centre"><b>VISITANTES</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{EdvaldoJose}/count.svg" /></p> 
-</div>
--->
-
-
-## Atividade no GitHub :octocat:
-
-<div align="center">
-  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdvaldoJose&layout=compact&title_color=2f97c1&icon_color=f5b700&text_color=0cf574&bg_color=040f0f" alt="Top Langs" />
-  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EdvaldoJose&show_icons=true&title_color=2f97c1&icon_color=f5b700&text_color=0cf574&bg_color=040f0f" alt="Github Stats" />
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/EdvaldoJose/count.svg" /></p> 
 </div>
 
-<br/>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/EdvaldoJose/EdvaldoJose/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake Animation" />
-</div>
 
-## Atividade no Site 📈
-
-<div align="center">
-  <p><b>VISITANTES</b></p>
-  <img src="https://profile-counter.glitch.me/EdvaldoJose/count.svg" alt="Visitor Count" />
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=EdvaldoJose&theme=gotham" width="100%" alt="Activity Graph" />
-  </a>
-</div>
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EdvaldoJose&theme=gotham)](https://github.com/EdvaldoJose/github-readme-activity-graph)
