@@ -1,4 +1,6 @@
 <!DOCTYPE html>
+
+<!--
 <html>
   <head>
 <!-- 	<style>
@@ -10,11 +12,9 @@
       margin-left: 10px;
       }
     </style> -->
-  </head>
-<body>
-	<!-- Conteúdo da página aqui -->
-</body>
-</html>
+
+
+
 
 <!-- VERSAO ANTIGA PORTUGUES
 <h2 align="left">Infrastructure & AWS Cloud DevOps Engineer</h2>
@@ -119,6 +119,11 @@ Aberto a oportunidades em Cloud DevOps ou Backend Development. Vamos conversar? 
 <!-- FIM DA VERSÃO NOVA EM PORTUGUÊS -->
 
 <!-- INICIO VERSÃO NOVA EM INGLÊS (Oculta por padrão - Adicione os comentários <!-- e --> 
+
+<html>
+<head>
+</head>
+<body>
 
 <h2 align="left">Infrastructure & AWS Cloud DevOps Engineer</h2>
 <h2>👋 Hi, I'm Edvaldo José </h2>
@@ -424,7 +429,7 @@ Looking for new challenges as an AWS Cloud DevOps Engineer or Backend Developer.
 	 </tbody>
       </table>
 
-
+<!--
 ## Atividade no GitHub :octocat:
 
 <div>
@@ -441,6 +446,33 @@ Looking for new challenges as an AWS Cloud DevOps Engineer or Backend Developer.
 <p align="centre"><b>VISITANTES</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/EdvaldoJose/count.svg" /></p> 
 </div>
+-->
+
+
+## Atividade no GitHub :octocat:
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdvaldoJose&layout=compact&theme=gotham&title_color=2f97c1&icon_color=f5b700&text_color=0cf574&bg_color=040f0f" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=EdvaldoJose&show_icons=true&theme=gotham&title_color=2f97c1&icon_color=f5b700&text_color=0cf574&bg_color=040f0f" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EdvaldoJose&theme=gotham&bg_color=040f0f&color=0cf574&line=2f97c1" width="100%" />
+</div>
+
+---
+
+## Atividade no Site 📈
+
+<div align="center">
+  <b>VISITANTES NO PERFIL</b><br>
+  <img src="https://profile-counter.glitch.me/EdvaldoJose/count.svg" />
+</div>
+
+</body>
+</html>
+
+
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EdvaldoJose&theme=gotham)](https://github.com/EdvaldoJose/github-readme-activity-graph)
