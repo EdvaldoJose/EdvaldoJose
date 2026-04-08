@@ -112,6 +112,7 @@ Aberto a oportunidades em Cloud DevOps ou Backend Development. Vamos conversar? 
 
 <!-- VERSÃO EM INGLÊS (Oculta por padrão - Adicione os comentários <!-- e --> para esconder) -->
 
+---
 
 <h2 align="left">Infrastructure & AWS Cloud DevOps Engineer</h2>
 <h2>👋 Hi, I'm Edvaldo José </h2>
@@ -153,7 +154,7 @@ Looking for new challenges as an AWS Cloud DevOps Engineer or Backend Developer.
 - **LinkedIn:** [linkedin.com/in/edvaldo-jose](https://www.linkedin.com/in/edvaldo-jose/)
 - **WhatsApp:** (+55) 71-98557-2721
 
--->
+---
 
 
   <br>
