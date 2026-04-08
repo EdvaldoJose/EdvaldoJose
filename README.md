@@ -429,7 +429,7 @@ Looking for new challenges as an AWS Cloud DevOps Engineer or Backend Developer.
 	 </tbody>
       </table>
 
-<!--
+
 ## Atividade no GitHub :octocat:
 
 <div>
@@ -446,9 +446,9 @@ Looking for new challenges as an AWS Cloud DevOps Engineer or Backend Developer.
 <p align="centre"><b>VISITANTES</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/EdvaldoJose/count.svg" /></p> 
 </div>
--->
 
 
+<!--
 ## Atividade no GitHub :octocat:
 
 <div align="center">
@@ -468,6 +468,7 @@ Looking for new challenges as an AWS Cloud DevOps Engineer or Backend Developer.
   <b>VISITANTES NO PERFIL</b><br>
   <img src="https://profile-counter.glitch.me/EdvaldoJose/count.svg" />
 </div>
+-->
 
 </body>
 </html>
