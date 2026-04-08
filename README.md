@@ -165,8 +165,6 @@ Looking for new challenges as an AWS Cloud DevOps Engineer or Backend Developer.
 - **WhatsApp:** (+55) 71-98557-2721
 <br>
 
----
-
 ## Minhas redes sociais 📱
 <table width="10px">
   <tbody>
