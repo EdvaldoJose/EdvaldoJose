@@ -444,8 +444,6 @@ Looking for new challenges as an AWS Cloud DevOps Engineer or Backend Developer.
   <img src="https://profile-counter.glitch.me/EdvaldoJose/count.svg" />
 </p>
 
----
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EdvaldoJose&theme=gotham)](https://github.com/EdvaldoJose/github-readme-activity-graph)
 
 ## Framework Use 🚥
