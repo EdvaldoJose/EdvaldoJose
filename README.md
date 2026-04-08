@@ -28,19 +28,33 @@ Especialista em **Infraestrutura e Cloud DevOps** com mais de **12 anos de jorna
 
 ### 🛠️ Toolbox Técnico
 
-*   **Cloud:** ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat&logo=amazon-aws&logoColor=white)
-*   **IaC & Automação:** ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) ![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-*   **Containers:** ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
-*   **CI/CD:** ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
-*   **Backend:** ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-*   **Dados:** ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+*   **Cloud:**
+*   ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat&logo=amazon-aws&logoColor=white)
+*   **IaC & Automação:**
+*   ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)
+*   ![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+*   **Containers:** ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+*   ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
+*   **CI/CD:**
+*   ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
+*   ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
+*   **Backend:**
+*   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+*   ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+*   **Dados:**
+*   ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+*   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 
 ### 📌 Minha trajetória
-Vim do "chão de fábrica" da TI, com 10 anos de experiência em redes e Data Centers, o que me dá uma visão profunda de protocolos e conectividade que aplico hoje na nuvem. Sou formado pela Trybe (2023) e graduando em Desenvolvimento Full Stack pela Estácio (2025–2028). Atualmente focado na certificação **AWS Solutions Architect – Associate (SAA-C03)**.
+Vim do "chão de fábrica" da TI, com 10 anos de experiência em redes e Data Centers, o que me dá uma visão profunda de protocolos e conectividade que aplico hoje na nuvem. 
+Sou formado pela Trybe (2023) e graduando em Desenvolvimento Full Stack pela Estácio (2025–2028). 
+Atualmente focado na certificação **AWS Solutions Architect – Associate (SAA-C03)**.
 
 ### 💡 Destaques & Resultados
-• **Eficiência Operacional:** Implementação de pipelines CI/CD automatizados, reduzindo o tempo de deploy em **30%**.
-• **Otimização (FinOps):** Redução de custos AWS em **15%** através de instâncias Spot, Auto-scaling e revisões Well-Architected.
+• **Eficiência Operacional:** 
+• Implementação de pipelines CI/CD automatizados, reduzindo o tempo de deploy em **30%**.
+• **Otimização (FinOps):** 
+• Redução de custos AWS em **15%** através de instâncias Spot, Auto-scaling e revisões Well-Architected.
 • **Mão na Massa:** 116+ projetos publicados focados em Backend e Cloud AWS (EKS, Terraform, VPC, IAM).
 
 ### 🔗 Projetos Freelancer (2024–Presente)
