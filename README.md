@@ -429,7 +429,7 @@ Looking for new challenges as an AWS Cloud DevOps Engineer or Backend Developer.
 	 </tbody>
       </table>
 
-<!--
+
 ## Atividade no GitHub :octocat:
 
 <div>
@@ -446,28 +446,7 @@ Looking for new challenges as an AWS Cloud DevOps Engineer or Backend Developer.
 <p align="centre"><b>VISITANTES</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/EdvaldoJose/count.svg" /></p> 
 </div>
--->
 
-
-## Atividade no GitHub :octocat:
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdvaldoJose&layout=compact&theme=gotham&title_color=2f97c1&icon_color=f5b700&text_color=0cf574&bg_color=040f0f" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=EdvaldoJose&show_icons=true&theme=gotham&title_color=2f97c1&icon_color=f5b700&text_color=0cf574&bg_color=040f0f" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EdvaldoJose&theme=gotham&bg_color=040f0f&color=0cf574&line=2f97c1" width="100%" />
-</div>
-
----
-
-## Atividade no Site 📈
-
-<div align="center">
-  <b>VISITANTES NO PERFIL</b><br>
-  <img src="https://profile-counter.glitch.me/EdvaldoJose/count.svg" />
-</div>
 
 </body>
 </html>
