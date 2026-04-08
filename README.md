@@ -117,7 +117,7 @@ Aberto a oportunidades em Cloud DevOps ou Backend Development. Vamos conversar? 
 <h2>👋 Hi, I'm Edvaldo José </h2>
 
 **Infrastructure & Cloud DevOps Specialist** with over **12 years of experience in IT**. I **leverage** a decade-long foundation in networking and server administration to build modern **AWS Cloud-Native ecosystems**. My mission is to architect resilient, scalable, and cost-optimized systems.
-<br>
+
 ---
 
 <img align="right" height="150" width="200" alt="edvaldo" src="https://www.tecnoschool.com.ar/img/gif-portadas-cursos/entrenamiento-en-programacion2.gif">
@@ -130,24 +130,24 @@ Aberto a oportunidades em Cloud DevOps ou Backend Development. Vamos conversar? 
 *   **CI/CD:** ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
 *   **Backend:** ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 *   **Databases:** ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
-
+---
 ### 📌 My Journey
 I come from the IT "trenches," with 10 years of experience in Networking and Data Centers. This provides me with a deep understanding of connectivity that I apply to cloud architectures today. Graduated from Trybe (2023) and currently pursuing a B.S. in Full Stack Development (Estácio, 2025–2028). Currently preparing for the **AWS Certified Solutions Architect – Associate** exam.
-
+---
 ### 💡 Highlights & Results
 • **Operational Efficiency:** Engineered automated CI/CD pipelines, slashing deployment times by **30%**.
 • **FinOps & Cost Optimization:** Reduced AWS spend by **15%** through Spot Instances, Auto-scaling, and Well-Architected reviews.
 • **Hands-on Expertise:** 116+ projects published focused on Backend and AWS Cloud (EKS, Terraform, VPC, IAM).
-
+---
 ### 🔗 Freelance Projects (2024–Present)
 • Architecting scalable infrastructures (EC2, RDS, VPC) and resilient APIs for startups.
 • Full-cycle environment automation using Terraform and monitoring with ELK Stack and CloudWatch.
-
+---
 ### 📩 Let's Connect!
 Looking for new challenges as an AWS Cloud DevOps Engineer or Backend Developer. Ready to scale your infrastructure? 🚀
 
 <img align="right" src="https://user-images.githubusercontent.com/96168296/232656308-9affede6-2278-4606-97be-7ed26fb298c7.gif" alt="Coder GIF" width="200" height="185">
-
+---
 ### Contact 📬
 - **Email:** edvaldojose.dev@gmail.com
 - **LinkedIn:** [linkedin.com/in/edvaldo-jose](https://www.linkedin.com/in/edvaldo-jose/)
@@ -155,9 +155,7 @@ Looking for new challenges as an AWS Cloud DevOps Engineer or Backend Developer.
 <br>
 
 ---
-
 <br>
-
 ## Minhas redes sociais 📱
 <table width="10px">
   <tbody>
