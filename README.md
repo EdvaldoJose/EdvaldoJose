@@ -17,44 +17,47 @@
 </html>
 
 
-<h2 align
-="left">Cloud DevOps AWS & Backend Developer</h2>
+<h2 align="left">Infrastructure & AWS Cloud DevOps Engineer</h2>
 <h2>👋 Olá, eu sou Edvaldo José </h2>
-Engenheiro DevOps com 2 anos de experiência em AWS e Desenvolvedor Backend, apaixonado por tecnologia e automação. Trabalho com soluções escaláveis na AWS e desenvolvimento backend com Node.js, Python, PostgreSQL e MySQL, buscando oportunidades para inovar como Cloud DevOps AWS ou Backend Developer.<br>
+
+Especialista em **Infraestrutura e Cloud DevOps** com mais de **12 anos de jornada em TI**. Unifico uma base sólida de uma década em redes e suporte técnico com o domínio moderno de ecossistemas Cloud-Native. Minha missão é criar sistemas resilientes, escaláveis e com custos otimizados na AWS.
+
 <br>
 
-<img align="right" height="150" width="200"
- alt="edvaldo" src="https://www.tecnoschool.com.ar/img/gif-portadas-cursos/entrenamiento-en-programacion2.gif">
+<img align="right" height="150" width="200" alt="edvaldo" src="https://www.tecnoschool.com.ar/img/gif-portadas-cursos/entrenamiento-en-programacion2.gif">
 
-<h3>📌 Minha trajetória</h3>
-Iniciei minha formação em Desenvolvimento Web em 2022, concluindo em 2023 o curso de programação na Trybe - Escola de Tecnologia, onde me especializei em JavaScript, Python e metodologias ágeis. Desde 2023, venho aprofundando meus estudos em AWS. Estudando para a certificação AWS Certified Solutions Architect – Associate (SAA-C03, 2025), seguida pela AWS Certified DevOps Engineer – Professional (DOP-C02). Aprimorando meu inglês técnico para projetos globais e graduando em Desenvolvimento Full Stack (Tecnólogo) pela Universidade Estácio de Sá (2024–2027).<br>
+### 🛠️ Toolbox Técnico
 
-<h3>💡Destaques</h3>
-• 90+ projetos Banckend e Aws publicados no GitHub.
+*   **Cloud:** ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat&logo=amazon-aws&logoColor=white)
+*   **IaC & Automação:** ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) ![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+*   **Containers:** ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
+*   **CI/CD:** ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
+*   **Backend:** ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+*   **Dados:** ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 
-• Experiência em projetos lab. com AWS (EC2, ECR, ECS, S3, VPC, RDS, EKS, EFS), IaC Terraform, Kubernetes, Docker, CI/CD (AWS CodePipeline, GitLab CI/CD), Monitoramento com CloudWatch e segurança IAM.<br>
+### 📌 Minha trajetória
+Vim do "chão de fábrica" da TI, com 10 anos de experiência em redes e Data Centers, o que me dá uma visão profunda de protocolos e conectividade que aplico hoje na nuvem. Sou formado pela Trybe (2023) e graduando em Desenvolvimento Full Stack pela Estácio (2025–2028). Atualmente focado na certificação **AWS Solutions Architect – Associate (SAA-C03)**.
 
-<h3>🎯 Minha atuação em Cloud & DevOps</h3>
-Trabalho com infraestrutura AWS, configurando serviços como EC2, S3, RDS, VPC, EKS, Terraform e CloudFormation. Automatizo processos com CI/CD (AWS CodePipeline, GitLab CI/CD) e monitoro aplicações com CloudWatch e ELK Stack. Minha experiência inclui segurança na AWS (IAM, VPC, compliance), otimização de custos e soluções escaláveis com Auto Scaling e Load Balancer, como em um projeto recente com Amazon EKS e Terraform para alta disponibilidade.<br>
+### 💡 Destaques & Resultados
+• **Eficiência Operacional:** Implementação de pipelines CI/CD automatizados, reduzindo o tempo de deploy em **30%**.
+• **Otimização (FinOps):** Redução de custos AWS em **15%** através de instâncias Spot, Auto-scaling e revisões Well-Architected.
+• **Mão na Massa:** 116+ projetos publicados focados em Backend e Cloud AWS (EKS, Terraform, VPC, IAM).
 
-<h3>🔗 Projetos Freelancer Cloud DevOps & Backend Developer (2024–Presente)</h3>
-• Implementei pipelines CI/CD com AWS CodePipeline e Terraform, reduzindo tempo de deploy em 30%.<br>
-• Desenvolvi APIs RESTful com Node.js e PostgreSQL, integrando microservices em projetos escaláveis.<br>
-• Configurei infraestruturas AWS (EC2, RDS, VPC) para clientes, otimizando custos em 15%.<br>
+### 🔗 Projetos Freelancer (2024–Presente)
+• Estruturação de infraestruturas escaláveis (EC2, RDS, VPC) e APIs resilientes para startups.
+• Automação total de ambientes via Terraform e monitoramento com ELK Stack e CloudWatch.
 
-<h3>📍Próximos passos</h3>
-Focado em consolidar meu domínio em AWS, automação e Backend Development com certificações e projetos práticos. Após concluir minha graduação e certificações, planejo buscar um MBA em Inteligência Artificial para expandir minhas habilidades em automação inteligente, visando me tornar um profissional tech altamente especializado que não apenas aplica tecnologia, mas desenvolve soluções inovadoras de alto desempenho.<br>
-
-<h3>📩 Conecte-se!</h3>
+### 📩 Conecte-se!
 Aberto a oportunidades em Cloud DevOps ou Backend Development. Vamos conversar? 🚀
 
-##
 <img align="right" src="https://user-images.githubusercontent.com/96168296/232656308-9affede6-2278-4606-97be-7ed26fb298c7.gif" alt="Coder GIF" width="200" height="185">
 
 ### Contato 📬
-- E-mail: edvaldojose.dev@gmail.com
-- LinkedIn: https://www.linkedin.com/in/edvaldo-jose/
-- WhatsApp: (+55) 71-98557-2721
+- **E-mail:** edvaldojose.dev@gmail.com
+- **LinkedIn:** [linkedin.com/in/edvaldo-jose](https://www.linkedin.com/in/edvaldo-jose/)
+- **WhatsApp:** (+55) 71-98557-2721
+
+
   <br>
 <br>
 
