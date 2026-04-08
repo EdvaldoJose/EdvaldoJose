@@ -130,6 +130,10 @@ Aberto a oportunidades em Cloud DevOps ou Backend Development. Vamos conversar? 
 *   **CI/CD:** ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
 * **CI/CD & GitOps:** ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![GitOps](https://img.shields.io/badge/GitOps-%23FF7E00.svg?style=flat&logo=argocd&logoColor=white)
 
+* **Cloud & IA:** ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat&logo=amazon-aws&logoColor=white) ![AWS Build](https://img.shields.io/badge/AWS_Build-FF9900?style=flat&logo=amazon-aws&logoColor=white) ![IA Kiro-CLI](https://img.shields.io/badge/IA_Kiro--CLI-black?style=flat&logo=openai&logoColor=white)
+* **CI/CD & Git:** ![AWS CI/CD](https://img.shields.io/badge/AWS_CI/CD-FF9900?style=flat&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+* **OS & CLI:** ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Terminal](https://img.shields.io/badge/CLI-black?style=flat&logo=gnu-bash&logoColor=white)
+
 *   **Backend:** ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 *   **Databases:** ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
   
