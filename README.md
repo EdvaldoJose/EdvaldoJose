@@ -29,8 +29,7 @@ Especialista em **Infraestrutura e Cloud DevOps** com mais de **12 anos de jorna
 
 ### 🛠️ Toolbox Técnico
 
-*   **Cloud:**
-*   ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat&logo=amazon-aws&logoColor=white) (EC2, EKS, S3, VPC, RDS, Lambda, CloudWatch)
+*   **Cloud:** ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat&logo=amazon-aws&logoColor=white) (EC2, EKS, S3, VPC, RDS, Lambda, CloudWatch)
 *   **IaC & Automação:** ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=flat&logo=ansible&logoColor=white)
 *   **Containers:** ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) (EKS)
 *   **CI/CD & GitOps:** ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
