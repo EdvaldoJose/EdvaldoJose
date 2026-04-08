@@ -110,8 +110,124 @@ Aberto a oportunidades em Cloud DevOps ou Backend Development. Vamos conversar? 
 <!-- FIM DA VERSÃO EM PORTUGUÊS -->
 
 
+inicil >>>>>>>>>>>>>>>>>>>>>>
+
+<!-- VERSÃO EM PORTUGUÊS (Remova o comentário abaixo para ativar) -->
+
+<h2 align="left">Infrastructure & AWS Cloud DevOps Engineer</h2>
+<h2>👋 Olá, eu sou Edvaldo José </h2>
+
+Especialista em **Infraestrutura e Cloud DevOps** com mais de **12 anos de jornada em TI**. **Combino** uma base sólida de uma década em redes e suporte técnico ao domínio moderno de ecossistemas Cloud-Native. Minha missão é projetar sistemas resilientes, escaláveis e com custos otimizados na AWS.
+
+<br>
+
+<img align="right" height="150" width="200" alt="edvaldo" src="https://www.tecnoschool.com.ar/img/gif-portadas-cursos/entrenamiento-en-programacion2.gif">
+
+### 🛠️ Technical Toolbox
+
+* **Cloud & IA:** ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat&logo=amazon-aws&logoColor=white) ![AWS Build](https://img.shields.io/badge/AWS_Build-FF9900?style=flat&logo=amazon-aws&logoColor=white) ![IA Kiro-CLI](https://img.shields.io/badge/IA_Kiro--CLI-black?style=flat&logo=openai&logoColor=white)
+* **IaC & Automation:** ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) ![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+* **Containers:** ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
+* **CI/CD & GitOps:** ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![GitOps](https://img.shields.io/badge/GitOps-%23FF7E00.svg?style=flat&logo=argocd&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![AWS CI/CD](https://img.shields.io/badge/AWS_CI/CD-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+* **Tools, OS & Versioning:** ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Terminal](https://img.shields.io/badge/CLI-black?style=flat&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+* **Backend & Databases:** ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+
+### 📌 Minha trajetória
+Vim das "trincheiras" da TI, com 10 anos de experiência em redes e Data Centers, o que me dá uma visão profunda de conectividade que aplico hoje na nuvem. Sou formado pela Trybe (2023) e graduando em Desenvolvimento Full Stack pela Estácio (2025–2028). Atualmente focado na certificação **AWS Solutions Architect – Associate (SAA-C03)**.
+
+### 💡 Destaques & Resultados
+• **Eficiência Operacional:** Implementação de pipelines CI/CD automatizados, reduzindo o tempo de deploy em **30%**.
+• **Otimização (FinOps):** Redução de custos AWS em **15%** através de instâncias Spot, Auto-scaling e revisões Well-Architected.
+• **Mão na Massa:** 116+ projetos publicados focados em Backend e Cloud AWS (EKS, Terraform, VPC, IAM).
+
+### 🔗 Projetos Freelancer (2024–Presente)
+• Estruturação de infraestruturas escaláveis (EC2, RDS, VPC) e APIs resilientes para startups.
+• Automação total de ambientes via Terraform e monitoramento com ELK Stack e CloudWatch.
+
+### 📩 Conecte-se!
+Aberto a oportunidades em Cloud DevOps ou Backend Development. Vamos conversar? 🚀
+
+<img align="right" src="https://user-images.githubusercontent.com/96168296/232656308-9affede6-2278-4606-97be-7ed26fb298c7.gif" alt="Coder GIF" width="200" height="185">
+
+### Contato 📬
+- **E-mail:** edvaldojose.dev@gmail.com
+- **LinkedIn:** [linkedin.com/in/edvaldo-jose](https://www.linkedin.com/in/edvaldo-jose/)
+- **WhatsApp:** (+55) 71-98557-2721
+
+<!-- FIM DA VERSÃO EM PORTUGUÊS -->
+
+
+<!-- VERSÃO EM INGLÊS (Oculta por padrão - Para ativar, remova os comentários <!-- e --> ao redor deste bloco) -->
+<!--
+
+<h2 align="left">Infrastructure & AWS Cloud DevOps Engineer</h2>
+<h2>👋 Hi, I'm Edvaldo José </h2>
+
+**Infrastructure & Cloud DevOps Specialist** with over **12 years of experience in IT**. I **leverage** a decade-long foundation in networking and server administration to build modern **AWS Cloud-Native ecosystems**. My mission is to architect resilient, scalable, and cost-optimized systems.
+
+<br>
+
+<img align="right" height="150" width="200" alt="edvaldo" src="https://www.tecnoschool.com.ar/img/gif-portadas-cursos/entrenamiento-en-programacion2.gif">
+
+### 🛠️ Technical Toolbox
+
+* **Cloud & IA:** ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat&logo=amazon-aws&logoColor=white) ![AWS Build](https://img.shields.io/badge/AWS_Build-FF9900?style=flat&logo=amazon-aws&logoColor=white) ![IA Kiro-CLI](https://img.shields.io/badge/IA_Kiro--CLI-black?style=flat&logo=openai&logoColor=white)
+* **IaC & Automation:** ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) ![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+* **Containers:** ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
+* **CI/CD & GitOps:** ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![GitOps](https://img.shields.io/badge/GitOps-%23FF7E00.svg?style=flat&logo=argocd&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![AWS CI/CD](https://img.shields.io/badge/AWS_CI/CD-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+* **Tools, OS & Versioning:** ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Terminal](https://img.shields.io/badge/CLI-black?style=flat&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+* **Backend & Databases:** ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+
+### 📌 My Journey
+I come from the IT "trenches," with 10 years of experience in Networking and Data Centers. This provides me with a deep understanding of connectivity that I apply to cloud architectures today. Graduated from Trybe (2023) and currently pursuing a B.S. in Full Stack Development (Estácio, 2025–2028). Currently preparing for the **AWS Certified Solutions Architect – Associate** exam.
+
+### 💡 Highlights & Results
+• **Operational Efficiency:** Engineered automated CI/CD pipelines, slashing deployment times by **30%**.
+• **FinOps & Cost Optimization:** Reduced AWS spend by **15%** through Spot Instances, Auto-scaling, and Well-Architected reviews.
+• **Hands-on Expertise:** 116+ projects published focused on Backend and AWS Cloud (EKS, Terraform, VPC, IAM).
+
+### 🔗 Freelance Projects (2024–Present)
+• Architecting scalable infrastructures (EC2, RDS, VPC) and resilient APIs for startups.
+• Full-cycle environment automation using Terraform and monitoring with ELK Stack and CloudWatch.
+
+### 📩 Let's Connect!
+Looking for new challenges as an AWS Cloud DevOps Engineer or Backend Developer. Ready to scale your infrastructure? 🚀
+
+<img align="right" src="https://user-images.githubusercontent.com/96168296/232656308-9affede6-2278-4606-97be-7ed26fb298c7.gif" alt="Coder GIF" width="200" height="185">
+
+### Contact 📬
+- **Email:** edvaldojose.dev@gmail.com
+- **LinkedIn:** [linkedin.com/in/edvaldo-jose](https://www.linkedin.com/in/edvaldo-jose/)
+- **WhatsApp:** (+55) 71-98557-2721
+
+-->
+
+## Atividade no GitHub :octocat:
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdvaldoJose&layout=compact&title_color=2f97c1&icon_color=f5b700&text_color=0cf574&bg_color=040f0f" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=EdvaldoJose&show_icons=true&title_color=2f97c1&icon_color=f5b700&text_color=0cf574&bg_color=040f0f" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EdvaldoJose&theme=gotham" width="100%" />
+</p>
+
+## Atividade no Site 📈
+
+<p align="center">
+  <b>VISITANTES</b><br>
+  <img src="https://profile-counter.glitch.me/EdvaldoJose/count.svg" />
+</p>
+
+fim >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+
+
 <!-- VERSÃO EM INGLÊS (Oculta por padrão - Adicione os comentários <!-- e --> 
 
+<!--
 
 <h2 align="left">Infrastructure & AWS Cloud DevOps Engineer</h2>
 <h2>👋 Hi, I'm Edvaldo José </h2>
@@ -139,7 +255,7 @@ Aberto a oportunidades em Cloud DevOps ou Backend Development. Vamos conversar? 
 *   **Databases:** ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 
 * **OS & CLI:** ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Terminal](https://img.shields.io/badge/CLI-black?style=flat&logo=gnu-bash&logoColor=white)
-  
+  -->
 ---
 
 ### 📌 My Journey
