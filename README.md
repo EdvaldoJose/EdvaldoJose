@@ -446,19 +446,19 @@ Looking for new challenges as an AWS Cloud DevOps Engineer or Backend Developer.
 ## Atividade no GitHub :octocat:
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdvaldoJose&layout=compact&title_color=2f97c1&icon_color=f5b700&text_color=0cf574&bg_color=040f0f" alt="Top Languages" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=EdvaldoJose&show_icons=true&title_color=2f97c1&icon_color=f5b700&text_color=0cf574&bg_color=040f0f" alt="Github Stats" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdvaldoJose&layout=compact&title_color=2f97c1&icon_color=f5b700&text_color=0cf574&bg_color=040f0f" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=EdvaldoJose&show_icons=true&title_color=2f97c1&icon_color=f5b700&text_color=0cf574&bg_color=040f0f" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/EdvaldoJose/EdvaldoJose/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake Animation" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EdvaldoJose&theme=gotham&bg_color=040f0f&color=0cf574&line=2f97c1" width="100%" />
 </p>
 
 ## Atividade no Site 📈
 
 <div align="center">
-  <p><b>VISITANTES</b></p>
-  <img src="https://profile-counter.glitch.me/EdvaldoJose/count.svg" alt="Visitor Count" />
+  <b>VISITANTES</b><br>
+  <img src="https://profile-counter.glitch.me/EdvaldoJose/count.svg" />
 </div>
 
 
