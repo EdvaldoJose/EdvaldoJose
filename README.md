@@ -66,7 +66,7 @@ Especialista em **Infraestrutura e Cloud DevOps** com mais de **12 anos de jorna
 -->
 
 <!-- VERSÃO EM PORTUGUÊS (Remova o comentário abaixo para ativar) -->
-
+<!--
 <h2 align="left">Infrastructure & AWS Cloud DevOps Engineer</h2>
 <h2>👋 Olá, eu sou Edvaldo José </h2>
 
@@ -83,7 +83,7 @@ Especialista em **Infraestrutura e Cloud DevOps** com mais de **12 anos de jorna
 *   **Containers:** ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
 *   **CI/CD:** ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
 *   **Backend:** ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-*   **Dados:** ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+*   **Banco:** ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 
 ### 📌 Minha trajetória
 Vim das "trincheiras" da TI, com 10 anos de experiência em redes e Data Centers, o que me dá uma visão profunda de conectividade que aplico hoje na nuvem. Sou formado pela Trybe (2023) e graduando em Desenvolvimento Full Stack pela Estácio (2025–2028). Atualmente focado na certificação **AWS Solutions Architect – Associate (SAA-C03)**.
@@ -106,12 +106,12 @@ Aberto a oportunidades em Cloud DevOps ou Backend Development. Vamos conversar? 
 - **E-mail:** edvaldojose.dev@gmail.com
 - **LinkedIn:** [linkedin.com/in/edvaldo-jose](https://www.linkedin.com/in/edvaldo-jose/)
 - **WhatsApp:** (+55) 71-98557-2721
-
+-->
 <!-- FIM DA VERSÃO EM PORTUGUÊS -->
 
 
 <!-- VERSÃO EM INGLÊS (Oculta por padrão - Adicione os comentários <!-- e --> para esconder) -->
-<!--
+
 
 <h2 align="left">Infrastructure & AWS Cloud DevOps Engineer</h2>
 <h2>👋 Hi, I'm Edvaldo José </h2>
